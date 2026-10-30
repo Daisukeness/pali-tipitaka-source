@@ -1,0 +1,2036 @@
+unit	texts	seg_from	seg_to	segments	pali_chars	parent
+U00001	sn56.1,sn56.2,sn56.3,sn56.4,sn56.5,sn56.6,sn56.7,sn56.8,sn56.9,sn56.10,sn56.11			188	14661	sn56-samadhivagga,sn56-dhammacakkappavattanavagga
+U00002	sn56.12,sn56.13,sn56.14,sn56.15,sn56.16,sn56.17,sn56.18,sn56.19,sn56.20,sn56.21,sn56.22,sn56.23,sn56.24			254	14449	sn56-dhammacakkappavattanavagga,sn56-kotigamavagga
+U00003	sn56.25,sn56.26,sn56.27,sn56.28,sn56.29,sn56.30,sn56.31,sn56.32,sn56.33,sn56.34,sn56.35,sn56.36,sn56.37,sn56.38,sn56.39			226	14527	sn56-kotigamavagga,sn56-sisapavanavagga
+U00004	sn56.40,sn56.41,sn56.42,sn56.43,sn56.44,sn56.45			166	13239	sn56-sisapavanavagga,sn56-papatavagga
+U00005	sn56.46,sn56.47,sn56.48,sn56.49,sn56.50,sn56.51,sn56.52,sn56.53,sn56.54,sn56.55,sn56.56,sn56.57,sn56.58,sn56.59,sn56.60			213	14174	sn56-papatavagga,sn56-abhisamayavagga
+U00006	sn56.61,sn56.62,sn56.63,sn56.64,sn56.65,sn56.66,sn56.67,sn56.68,sn56.69,sn56.70,sn56.71,sn56.72,sn56.73,sn56.74,sn56.75,sn56.76,sn56.77,sn56.78,sn56.79,sn56.80,sn56.81,sn56.82,sn56.83,sn56.84,sn56.85,sn56.86,sn56.87,sn56.88,sn56.89,sn56.90,sn56.91,sn56.92,sn56.93,sn56.94,sn56.95,sn56.96-101,sn56.102,sn56.103,sn56.104,sn56.105-107,sn56.108-110,sn56.111-113,sn56.114-116,sn56.117-119,sn56.120-122,sn56.123-125,sn56.126-128,sn56.129-130			294	14158	sn56-pathamaamakadhannapeyyalavagga,sn56-dutiyaamakadhannapeyyalavagga,sn56-tatiyaamakadhannapeyyalavagga,sn56-catutthaamakadhannapeyyalavagga,sn56-pancagatipeyyalavagga
+U00007	sn56.131			29	1083	sn56-pancagatipeyyalavagga
+U00008	sn1.1,sn1.2,sn1.3,sn1.4,sn1.5,sn1.6,sn1.7,sn1.8,sn1.9,sn1.10,sn1.11,sn1.12,sn1.13,sn1.14,sn1.15,sn1.16,sn1.17,sn1.18,sn1.19,sn1.20,sn1.21,sn1.22,sn1.23,sn1.24			440	14594	sn1-nalavagga,sn1-nandanavagga,sn1-sattivagga
+U00009	sn1.25,sn1.26,sn1.27,sn1.28,sn1.29,sn1.30,sn1.31,sn1.32,sn1.33,sn1.34,sn1.35,sn1.36,sn1.37			413	13553	sn1-sattivagga,sn1-satullapakayikavagga
+U00010	sn1.38,sn1.39,sn1.40,sn1.41,sn1.42,sn1.43,sn1.44,sn1.45,sn1.46,sn1.47,sn1.48,sn1.49,sn1.50,sn1.51,sn1.52,sn1.53,sn1.54,sn1.55,sn1.56,sn1.57,sn1.58,sn1.59,sn1.60,sn1.61,sn1.62,sn1.63,sn1.64,sn1.65,sn1.66,sn1.67,sn1.68,sn1.69,sn1.70			569	14658	sn1-satullapakayikavagga,sn1-adittavagga,sn1-jaravagga,sn1-addhavagga
+U00011	sn1.71,sn1.72,sn1.73,sn1.74,sn1.75,sn1.76,sn1.77,sn1.78,sn1.79,sn1.80,sn1.81,sn2.1,sn2.2,sn2.3,sn2.4,sn2.5,sn2.6,sn2.7,sn2.8,sn2.9,sn2.10,sn2.11,sn2.12,sn2.13,sn2.14,sn2.15,sn2.16,sn2.17			521	14855	sn1-chetvavagga,sn2-pathamavagga,sn2-anathapindikavagga
+U00012	sn2.18,sn2.19,sn2.20,sn2.21,sn2.22,sn2.23,sn2.24,sn2.25,sn2.26,sn2.27,sn2.28			378	13249	sn2-anathapindikavagga,sn2-nanatitthiyavagga
+U00013	sn2.29,sn2.30,sn3.1,sn3.2,sn3.3,sn3.4			299	13976	sn2-nanatitthiyavagga,sn3-pathamavagga
+U00014	sn3.5,sn3.6,sn3.7,sn3.8,sn3.9,sn3.10,sn3.11,sn3.12			258	14435	sn3-pathamavagga,sn3-dutiyavagga
+U00015	sn3.13,sn3.14,sn3.15,sn3.16,sn3.17,sn3.18			191	12354	sn3-dutiyavagga
+U00016	sn3.19,sn3.20,sn3.21,sn3.22,sn3.23			250	14136	sn3-dutiyavagga,sn3-tatiyavagga
+U00017	sn3.24,sn3.25,sn4.1,sn4.2,sn4.3,sn4.4,sn4.5,sn4.6,sn4.7,sn4.8,sn4.9			332	14386	sn3-tatiyavagga,sn4-pathamavagga
+U00018	sn4.10,sn4.11,sn4.12,sn4.13,sn4.14,sn4.15,sn4.16,sn4.17,sn4.18,sn4.19,sn4.20,sn4.21			291	14371	sn4-pathamavagga,sn4-dutiyavagga,sn4-tatiyavagga
+U00019	sn4.22,sn4.23,sn4.24,sn4.25,sn5.1,sn5.2			325	14965	sn4-tatiyavagga,sn5-bhikkhunivagga
+U00020	sn5.3,sn5.4,sn5.5,sn5.6,sn5.7,sn5.8,sn5.9,sn5.10,sn6.1			289	12320	sn5-bhikkhunivagga,sn6-pathamavagga
+U00021	sn6.2,sn6.3,sn6.4,sn6.5,sn6.6,sn6.7,sn6.8			254	14966	sn6-pathamavagga
+U00022	sn6.9,sn6.10,sn6.11,sn6.12,sn6.13,sn6.14,sn6.15			268	14860	sn6-pathamavagga,sn6-dutiyavagga
+U00023	sn7.1,sn7.2,sn7.3,sn7.4,sn7.5,sn7.6,sn7.7,sn7.8,sn7.9			304	13668	sn7-arahantavagga
+U00024	sn7.10,sn7.11,sn7.12,sn7.13,sn7.14,sn7.15,sn7.16,sn7.17			356	14058	sn7-arahantavagga,sn7-upasakavagga
+U00025	sn7.18,sn7.19,sn7.20,sn7.21,sn7.22,sn8.1,sn8.2,sn8.3,sn8.4,sn8.5,sn8.6			307	14114	sn7-upasakavagga,sn8-vangisavagga
+U00026	sn8.7,sn8.8,sn8.9,sn8.10,sn8.11,sn8.12,sn9.1,sn9.2,sn9.3,sn9.4,sn9.5,sn9.6,sn9.7,sn9.8			351	14917	sn8-vangisavagga,sn9-vanavagga
+U00027	sn9.9,sn9.10,sn9.11,sn9.12,sn9.13,sn9.14,sn10.1,sn10.2,sn10.3,sn10.4,sn10.5,sn10.6,sn10.7,sn10.8,sn10.9,sn10.10			418	14735	sn9-vanavagga,sn10-indakavagga
+U00028	sn10.11,sn10.12,sn11.1,sn11.2,sn11.3,sn11.4			297	12429	sn10-indakavagga,sn11-pathamavagga
+U00029	sn11.5,sn11.6,sn11.7,sn11.8,sn11.9,sn11.10,sn11.11,sn11.12,sn11.13,sn11.14			318	14705	sn11-pathamavagga,sn11-dutiyavagga
+U00030	sn11.15,sn11.16,sn11.17,sn11.18,sn11.19,sn11.20,sn11.21,sn11.22,sn11.23,sn11.24,sn11.25,sn12.1			332	12103	sn11-dutiyavagga,sn11-tatiyavagga,sn12-buddhavagga
+U00031	sn12.2,sn12.3,sn12.4,sn12.5,sn12.6,sn12.7,sn12.8,sn12.9,sn12.10			280	13657	sn12-buddhavagga
+U00032	sn12.11,sn12.12,sn12.13,sn12.14,sn12.15,sn12.16			212	10720	sn12-aharavagga
+U00033	sn12.17,sn12.18,sn12.19,sn12.20,sn12.21			224	13332	sn12-aharavagga,sn12-dasabalavagga
+U00034	sn12.22,sn12.23,sn12.24			234	14055	sn12-dasabalavagga
+U00035	sn12.25,sn12.26,sn12.27,sn12.28,sn12.29,sn12.30			244	13294	sn12-dasabalavagga
+U00036	sn12.31,sn12.32			201	13163	sn12-kalarakhattiyavagga
+U00037	sn12.33,sn12.34,sn12.35,sn12.36,sn12.37,sn12.38			231	14231	sn12-kalarakhattiyavagga
+U00038	sn12.39,sn12.40,sn12.41,sn12.42,sn12.43,sn12.44,sn12.45,sn12.46,sn12.47			296	14564	sn12-kalarakhattiyavagga,sn12-gahapativagga
+U00039	sn12.48,sn12.49,sn12.50,sn12.51,sn12.52,sn12.53			267	14582	sn12-gahapativagga,sn12-dukkhavagga
+U00040	sn12.54,sn12.55,sn12.56,sn12.57,sn12.58,sn12.59,sn12.60,sn12.61,sn12.62			248	14926	sn12-dukkhavagga,sn12-mahavagga
+U00041	sn12.63,sn12.64,sn12.65			247	14124	sn12-mahavagga
+U00042	sn12.66,sn12.67			184	12481	sn12-mahavagga
+U00043	sn12.68,sn12.69			95	7137	sn12-mahavagga
+U00044	sn12.70,sn12.71			192	14396	sn12-mahavagga,sn12-samanabrahmanavagga
+U00045	sn12.72-81,sn12.82,sn12.83-92,sn12.93-213,sn13.1,sn13.2,sn13.3,sn13.4,sn13.5,sn13.6,sn13.7,sn13.8,sn13.9,sn13.10,sn13.11,sn14.1,sn14.2,sn14.3			299	14544	sn12-samanabrahmanavagga,sn12-satthusuttadi,sn12-sikkhasuttadipeyyalaekadasaka,sn13-abhisamayavagga,sn14-nanattavagga
+U00046	sn14.4,sn14.5,sn14.6,sn14.7,sn14.8,sn14.9,sn14.10,sn14.11			158	11627	sn14-nanattavagga,sn14-dutiyavagga
+U00047	sn14.12,sn14.13,sn14.14,sn14.15,sn14.16,sn14.17			235	13317	sn14-dutiyavagga
+U00048	sn14.18,sn14.19,sn14.20,sn14.21,sn14.22,sn14.23,sn14.24,sn14.25,sn14.26,sn14.27,sn14.28,sn14.29,sn14.30,sn14.31			301	13619	sn14-dutiyavagga,sn14-kammapathavagga,sn14-catutthavagga
+U00049	sn14.32,sn14.33,sn14.34,sn14.35,sn14.36,sn14.37,sn14.38,sn14.39,sn15.1,sn15.2,sn15.3,sn15.4,sn15.5			222	14731	sn14-catutthavagga,sn15-pathamavagga
+U00050	sn15.6,sn15.7,sn15.8,sn15.9,sn15.10,sn15.11,sn15.12,sn15.13,sn15.14,sn15.15,sn15.16,sn15.17,sn15.18,sn15.19,sn15.20			299	14028	sn15-pathamavagga,sn15-dutiyavagga
+U00051	sn16.1,sn16.2,sn16.3,sn16.4,sn16.5			184	13431	sn16-kassapavagga
+U00052	sn16.6,sn16.7,sn16.8			146	10817	sn16-kassapavagga
+U00053	sn16.9,sn16.10			100	10005	sn16-kassapavagga
+U00054	sn16.11,sn16.12,sn16.13,sn17.1,sn17.2,sn17.3,sn17.4			216	14114	sn16-kassapavagga,sn17-pathamavagga
+U00055	sn17.5,sn17.6,sn17.7,sn17.8,sn17.9,sn17.10,sn17.11,sn17.12,sn17.13-20,sn17.21,sn17.22,sn17.23,sn17.24,sn17.25,sn17.26,sn17.27,sn17.28,sn17.29,sn17.30,sn17.31,sn17.32,sn17.33,sn17.34			291	13975	sn17-pathamavagga,sn17-dutiyavagga,sn17-tatiyavagga,sn17-catutthavagga
+U00056	sn17.35,sn17.36,sn17.37,sn17.38-43,sn18.1,sn18.2,sn18.3,sn18.4,sn18.5,sn18.6,sn18.7,sn18.8,sn18.9,sn18.10,sn18.11,sn18.12-20,sn18.21			371	13984	sn17-catutthavagga,sn18-pathamavagga,sn18-dutiyavagga
+U00057	sn18.22,sn19.1,sn19.2,sn19.3,sn19.4,sn19.5,sn19.6,sn19.7,sn19.8,sn19.9,sn19.10,sn19.11,sn19.12,sn19.13,sn19.14,sn19.15,sn19.16,sn19.17,sn19.18,sn19.19,sn19.20,sn19.21,sn20.1,sn20.2,sn20.3,sn20.4			305	14011	sn18-dutiyavagga,sn19-pathamavagga,sn19-dutiyavagga,sn20-opammavagga
+U00058	sn20.5,sn20.6,sn20.7,sn20.8,sn20.9,sn20.10,sn20.11,sn20.12,sn21.1,sn21.2			221	12865	sn20-opammavagga,sn21-bhikkhuvagga
+U00059	sn21.3,sn21.4,sn21.5,sn21.6,sn21.7,sn21.8,sn21.9,sn21.10,sn21.11,sn21.12			265	13503	sn21-bhikkhuvagga
+U00060	sn22.1,sn22.2			181	12628	sn22-nakulapituvagga
+U00061	sn22.3,sn22.4,sn22.5,sn22.6,sn22.7,sn22.8			261	14947	sn22-nakulapituvagga
+U00062	sn22.9,sn22.10,sn22.11,sn22.12,sn22.13,sn22.14,sn22.15,sn22.16,sn22.17,sn22.18,sn22.19,sn22.20,sn22.21,sn22.22,sn22.23,sn22.24,sn22.25,sn22.26,sn22.27			357	13803	sn22-nakulapituvagga,sn22-aniccavagga,sn22-bharavagga
+U00063	sn22.28,sn22.29,sn22.30,sn22.31,sn22.32,sn22.33,sn22.34,sn22.35,sn22.36,sn22.37,sn22.38			331	14699	sn22-bharavagga,sn22-natumhakavagga
+U00064	sn22.39,sn22.40,sn22.41,sn22.42,sn22.43,sn22.44,sn22.45,sn22.46,sn22.47,sn22.48,sn22.49			264	14056	sn22-natumhakavagga,sn22-attadipavagga
+U00065	sn22.50,sn22.51,sn22.52,sn22.53,sn22.54,sn22.55			217	11854	sn22-attadipavagga,sn22-upayavagga
+U00066	sn22.56,sn22.57,sn22.58			204	12505	sn22-upayavagga
+U00067	sn22.59,sn22.60,sn22.61,sn22.62,sn22.63,sn22.64,sn22.65			264	14360	sn22-upayavagga,sn22-arahantavagga
+U00068	sn22.66,sn22.67,sn22.68,sn22.69,sn22.70,sn22.71,sn22.72,sn22.73,sn22.74,sn22.75,sn22.76,sn22.77,sn22.78			309	12987	sn22-arahantavagga,sn22-khajjaniyavagga
+U00069	sn22.79,sn22.80			233	12103	sn22-khajjaniyavagga
+U00070	sn22.81,sn22.82			261	14995	sn22-khajjaniyavagga
+U00071	sn22.83,sn22.84			131	5935	sn22-theravagga
+U00072	sn22.85,sn22.86			282	14528	sn22-theravagga
+U00073	sn22.87,sn22.88			198	11472	sn22-theravagga
+U00074	sn22.89,sn22.90,sn22.91			245	14453	sn22-theravagga
+U00075	sn22.92,sn22.93,sn22.94,sn22.95,sn22.96			182	14242	sn22-theravagga,sn22-pupphavagga
+U00076	sn22.97,sn22.98,sn22.99,sn22.100,sn22.101			196	12678	sn22-pupphavagga
+U00077	sn22.102,sn22.103,sn22.104,sn22.105,sn22.106,sn22.107,sn22.108,sn22.109,sn22.110,sn22.111,sn22.112,sn22.113,sn22.114,sn22.115,sn22.116,sn22.117,sn22.118			315	14644	sn22-pupphavagga,sn22-antavagga,sn22-dhammakathikavagga
+U00078	sn22.119,sn22.120,sn22.121,sn22.122,sn22.123,sn22.124,sn22.125,sn22.126,sn22.127,sn22.128,sn22.129,sn22.130,sn22.131,sn22.132			266	14188	sn22-dhammakathikavagga,sn22-avijjavagga
+U00079	sn22.133,sn22.134,sn22.135,sn22.136,sn22.137,sn22.138,sn22.139,sn22.140,sn22.141,sn22.142,sn22.143,sn22.144,sn22.145,sn22.146,sn22.147,sn22.148,sn22.149,sn22.150,sn22.151,sn22.152,sn22.153,sn22.154,sn22.155			436	14482	sn22-avijjavagga,sn22-kukkulavagga,sn22-ditthivagga
+U00080	sn22.156,sn22.157,sn22.158,sn22.159,sn23.1,sn23.2,sn23.3,sn23.4,sn23.5,sn23.6,sn23.7,sn23.8,sn23.9,sn23.10,sn23.11,sn23.12,sn23.13,sn23.14,sn23.15,sn23.16,sn23.17			355	14671	sn22-ditthivagga,sn23-pathamamaravagga,sn23-dutiyamaravagga
+U00081	sn23.18,sn23.19,sn23.20,sn23.21,sn23.22,sn23.23-33,sn23.34,sn23.35-45,sn23.46,sn24.1,sn24.2,sn24.3,sn24.4			306	12861	sn23-dutiyamaravagga,sn23-ayacanavagga,sn23-upanisinnavagga,sn24-sotapattivagga
+U00082	sn24.5,sn24.6,sn24.7,sn24.8,sn24.9,sn24.10,sn24.11,sn24.12,sn24.13,sn24.14,sn24.15,sn24.16,sn24.17			307	13602	sn24-sotapattivagga
+U00083	sn24.18,sn24.19,sn24.20-35,sn24.36,sn24.37,sn24.38,sn24.39,sn24.40,sn24.41,sn24.42,sn24.43,sn24.44,sn24.45,sn24.46-69,sn24.70,sn24.71,sn24.72-95,sn24.96			388	14719	sn24-sotapattivagga,sn24-dutiyagamanavagga,sn24-tatiyagamanavagga,sn24-catutthagamanavagga
+U00084	sn25.1,sn25.2,sn25.3,sn25.4,sn25.5,sn25.6,sn25.7,sn25.8,sn25.9,sn25.10,sn26.1,sn26.2,sn26.3,sn26.4,sn26.5,sn26.6,sn26.7,sn26.8,sn26.9,sn26.10,sn27.1,sn27.2,sn27.3,sn27.4,sn27.5,sn27.6,sn27.7,sn27.8,sn27.9			413	14796	sn25-cakkhuvagga,sn26-uppadavagga,sn27-kilesavagga
+U00085	sn27.10,sn28.1,sn28.2,sn28.3,sn28.4,sn28.5,sn28.6,sn28.7,sn28.8,sn28.9,sn28.10,sn29.1,sn29.2,sn29.3,sn29.4,sn29.5,sn29.6,sn29.7,sn29.8,sn29.9,sn29.10			272	14257	sn27-kilesavagga,sn28-sariputtavagga,sn29-nagavagga
+U00086	sn29.11-20,sn29.21-50,sn30.1,sn30.2,sn30.3,sn30.4-6,sn30.7-16,sn30.17-46,sn31.1,sn31.2,sn31.3,sn31.4-12,sn31.13-22,sn31.23-112,sn32.1,sn32.2,sn32.3-12			356	14817	sn29-nagavagga,sn30-supannavagga,sn31-gandhabbavagga,sn32-valahakavagga
+U00087	sn32.13-52,sn32.53,sn32.54,sn32.55,sn32.56,sn32.57,sn33.1,sn33.2,sn33.3,sn33.4,sn33.5,sn33.6-10,sn33.11-15,sn33.16-20,sn33.21-25,sn33.26-30,sn33.31-35,sn33.36-40,sn33.41-45,sn33.46-50,sn33.51-54,sn33.55,sn34.1,sn34.2,sn34.3			323	14859	sn32-valahakavagga,sn33-vacchagottavagga,sn34-jhanavagga
+U00088	sn34.4,sn34.5,sn34.6,sn34.7,sn34.8,sn34.9,sn34.10,sn34.11,sn34.12,sn34.13,sn34.14,sn34.15,sn34.16,sn34.17,sn34.18,sn34.19,sn34.20-27,sn34.28-34,sn34.35-40,sn34.41-45,sn34.46-49,sn34.50-52			311	14831	sn34-jhanavagga
+U00089	sn34.53-54,sn34.55,sn35.1,sn35.2,sn35.3,sn35.4,sn35.5,sn35.6,sn35.7,sn35.8,sn35.9,sn35.10,sn35.11,sn35.12,sn35.13,sn35.14,sn35.15			363	14500	sn34-jhanavagga,sn35-aniccavagga,sn35-yamakavagga
+U00090	sn35.16,sn35.17,sn35.18,sn35.19,sn35.20,sn35.21,sn35.22,sn35.23,sn35.24,sn35.25,sn35.26,sn35.27			261	14630	sn35-yamakavagga,sn35-sabbavagga
+U00091	sn35.28,sn35.29,sn35.30,sn35.31,sn35.32,sn35.33-42,sn35.43-51			255	13657	sn35-sabbavagga,sn35-jatidhammavagga,sn35-sabbaaniccavagga
+U00092	sn35.52,sn35.53,sn35.54,sn35.55,sn35.56,sn35.57,sn35.58,sn35.59,sn35.60,sn35.61,sn35.62,sn35.63,sn35.64			288	13519	sn35-sabbaaniccavagga,sn35-avijjavagga,sn35-migajalavagga
+U00093	sn35.65,sn35.66,sn35.67,sn35.68,sn35.69,sn35.70,sn35.71,sn35.72,sn35.73,sn35.74			243	13798	sn35-migajalavagga,sn35-gilanavagga
+U00094	sn35.75,sn35.76,sn35.77,sn35.78,sn35.79,sn35.80,sn35.81,sn35.82,sn35.83,sn35.84,sn35.85,sn35.86			266	14179	sn35-gilanavagga,sn35-channavagga
+U00095	sn35.87,sn35.88,sn35.89			178	13596	sn35-channavagga
+U00096	sn35.90,sn35.91,sn35.92,sn35.93,sn35.94			177	9422	sn35-channavagga,sn35-salavagga
+U00097	sn35.95,sn35.96,sn35.97,sn35.98,sn35.99,sn35.100			327	13075	sn35-salavagga
+U00098	sn35.101,sn35.102,sn35.103,sn35.104,sn35.105,sn35.106,sn35.107,sn35.108,sn35.109,sn35.110,sn35.111,sn35.112			351	13423	sn35-salavagga,sn35-yogakkhemivagga
+U00099	sn35.113,sn35.114,sn35.115,sn35.116			187	12297	sn35-yogakkhemivagga,sn35-lokakamagunavagga
+U00100	sn35.117,sn35.118,sn35.119,sn35.120			159	13213	sn35-lokakamagunavagga
+U00101	sn35.121,sn35.122,sn35.123,sn35.124,sn35.125,sn35.126,sn35.127,sn35.128			214	13864	sn35-lokakamagunavagga,sn35-gahapativagga
+U00102	sn35.129,sn35.130,sn35.131,sn35.132			169	10378	sn35-gahapativagga
+U00103	sn35.133,sn35.134,sn35.135,sn35.136,sn35.137,sn35.138,sn35.139,sn35.140,sn35.141,sn35.142,sn35.143,sn35.144			289	14230	sn35-gahapativagga,sn35-devadahavagga
+U00104	sn35.145,sn35.146,sn35.147,sn35.148,sn35.149,sn35.150,sn35.151,sn35.152,sn35.153,sn35.154			229	14640	sn35-devadahavagga,sn35-navapuranavagga
+U00105	sn35.155,sn35.156,sn35.157,sn35.158,sn35.159,sn35.160,sn35.161,sn35.162,sn35.163,sn35.164,sn35.165,sn35.166,sn35.167,sn35.168,sn35.169,sn35.170,sn35.171-173,sn35.174-176,sn35.177-179,sn35.180-182			324	14898	sn35-navapuranavagga,sn35-nandikkhayavagga,sn35-satthipeyyalavagga
+U00106	sn35.183-185,sn35.186,sn35.187,sn35.188,sn35.189-191,sn35.192-194,sn35.195-197,sn35.198-200,sn35.201-203,sn35.204,sn35.205,sn35.206,sn35.207-209,sn35.210-212,sn35.213-215,sn35.216-218,sn35.219-221,sn35.222,sn35.223,sn35.224,sn35.225,sn35.226,sn35.227,sn35.228,sn35.229,sn35.230			291	12112	sn35-satthipeyyalavagga,sn35-samuddavagga
+U00107	sn35.231,sn35.232,sn35.233,sn35.234			170	13309	sn35-samuddavagga
+U00108	sn35.235,sn35.236,sn35.237,sn35.238,sn35.239			192	14325	sn35-samuddavagga,sn35-asivisavagga
+U00109	sn35.240,sn35.241,sn35.242,sn35.243			195	13807	sn35-asivisavagga
+U00110	sn35.244,sn35.245			137	11532	sn35-asivisavagga
+U00111	sn35.246,sn35.247,sn35.248,sn36.1,sn36.2,sn36.3			244	14818	sn35-asivisavagga,sn36-sagathavagga
+U00112	sn36.4,sn36.5,sn36.6,sn36.7,sn36.8,sn36.9,sn36.10			245	14806	sn36-sagathavagga
+U00113	sn36.11,sn36.12,sn36.13,sn36.14,sn36.15,sn36.16,sn36.17,sn36.18			184	9822	sn36-rahogatavagga
+U00114	sn36.19,sn36.20,sn36.21,sn36.22,sn36.23			253	14470	sn36-rahogatavagga,sn36-atthasatapariyayavagga
+U00115	sn36.24,sn36.25,sn36.26,sn36.27,sn36.28,sn36.29,sn36.30,sn36.31,sn37.1,sn37.2,sn37.3,sn37.4,sn37.5,sn37.6,sn37.7,sn37.8,sn37.9,sn37.10,sn37.11,sn37.12,sn37.13			263	14894	sn36-atthasatapariyayavagga,sn37-pathamapeyyalavagga
+U00116	sn37.14,sn37.15,sn37.16,sn37.17,sn37.18,sn37.19,sn37.20,sn37.21,sn37.22,sn37.23,sn37.24,sn37.25,sn37.26,sn37.27,sn37.28,sn37.29,sn37.30,sn37.31,sn37.32,sn37.33,sn37.34,sn38.1,sn38.2,sn38.3,sn38.4			298	14325	sn37-pathamapeyyalavagga,sn37-dutiyapeyyalavagga,sn37-balavagga,sn38-jambukhadakavagga
+U00117	sn38.5,sn38.6,sn38.7,sn38.8,sn38.9,sn38.10,sn38.11,sn38.12,sn38.13,sn38.14,sn38.15,sn38.16,sn39.1-15,sn39.16,sn40.1,sn40.2,sn40.3			296	14959	sn38-jambukhadakavagga,sn39-samandakavagga,sn40-moggallanavagga
+U00118	sn40.4,sn40.5,sn40.6,sn40.7,sn40.8,sn40.9			98	6222	sn40-moggallanavagga
+U00119	sn40.10			199	18841	sn40-moggallanavagga
+U00120	sn40.11,sn41.1,sn41.2,sn41.3,sn41.4			223	14893	sn40-moggallanavagga,sn41-cittavagga
+U00121	sn41.5,sn41.6,sn41.7,sn41.8			176	13013	sn41-cittavagga
+U00122	sn41.9,sn41.10,sn42.1,sn42.2,sn42.3,sn42.4			202	13634	sn41-cittavagga,sn42-gamanivagga
+U00123	sn42.5,sn42.6,sn42.7			124	10296	sn42-gamanivagga
+U00124	sn42.8,sn42.9			141	12540	sn42-gamanivagga
+U00125	sn42.10,sn42.11			82	6700	sn42-gamanivagga
+U00126	sn42.12			169	13894	sn42-gamanivagga
+U00127	sn42.13	sn42.13:0.1	sn42.13:19.6	158	13050	sn42-gamanivagga
+U00128	sn42.13	sn42.13:20.1	sn42.13:33.5	142	13143	sn42-gamanivagga
+U00129	sn43.1,sn43.2,sn43.3,sn43.4,sn43.5,sn43.6,sn43.7,sn43.8,sn43.9,sn43.10,sn43.11,sn43.12,sn43.13,sn43.14-43,sn43.44			331	14933	sn43-pathamavagga,sn43-dutiyavagga
+U00130	sn44.1			120	8791	sn44-abyakatavagga
+U00131	sn44.2,sn44.3,sn44.4,sn44.5			195	11881	sn44-abyakatavagga
+U00132	sn44.6,sn44.7,sn44.8			202	14006	sn44-abyakatavagga
+U00133	sn44.9,sn44.10,sn44.11,sn45.1,sn45.2,sn45.3,sn45.4			232	14333	sn44-abyakatavagga,sn45-avijjavagga
+U00134	sn45.5,sn45.6,sn45.7,sn45.8,sn45.9,sn45.10,sn45.11,sn45.12,sn45.13,sn45.14,sn45.15,sn45.16,sn45.17,sn45.18,sn45.19,sn45.20			292	14855	sn45-avijjavagga,sn45-viharavagga
+U00135	sn45.21,sn45.22,sn45.23,sn45.24,sn45.25,sn45.26,sn45.27,sn45.28,sn45.29,sn45.30,sn45.31,sn45.32,sn45.33,sn45.34,sn45.35,sn45.36,sn45.37,sn45.38,sn45.39,sn45.40,sn45.41,sn45.42-47,sn45.48,sn45.49			379	14871	sn45-micchattavagga,sn45-patipattivagga,sn45-annatitthiyapeyyalavagga,sn45-suriyapeyyalavagga
+U00136	sn45.50-54,sn45.55,sn45.56,sn45.57-61,sn45.62,sn45.63,sn45.64-68,sn45.69,sn45.70,sn45.71-75,sn45.76,sn45.77,sn45.78-82,sn45.83,sn45.84,sn45.85-89,sn45.90,sn45.91,sn45.92-95,sn45.96,sn45.97			228	14239	sn45-suriyapeyyalavagga,sn45-ekadhammapeyyalavagga,sn45-dutiyaekadhammapeyyalavagga,sn45-gangapeyyalavagga
+U00137	sn45.98-102,sn45.103,sn45.104-108,sn45.109,sn45.110-114,sn45.115,sn45.116-120,sn45.121,sn45.122-126,sn45.127,sn45.128-132,sn45.133,sn45.134-138			204	13275	sn45-gangapeyyalavagga,sn45-dutiyagangapeyyalavagga
+U00138	sn45.139,sn45.140,sn45.141-145,sn45.146-148,sn45.149,sn45.150,sn45.151,sn45.152,sn45.153,sn45.154			163	14353	sn45-appamadapeyyalavagga,sn45-balakaraniyavagga
+U00139	sn45.155,sn45.156,sn45.157,sn45.158,sn45.159,sn45.160,sn45.161,sn45.162,sn45.163,sn45.164,sn45.165,sn45.166,sn45.167,sn45.168,sn45.169			226	13777	sn45-balakaraniyavagga,sn45-esanavagga
+U00140	sn45.170,sn45.171,sn45.172,sn45.173,sn45.174,sn45.175,sn45.176,sn45.177,sn45.178,sn45.179,sn45.180,sn46.1,sn46.2			235	12552	sn45-esanavagga,sn45-oghavagga,sn46-pabbatavagga
+U00141	sn46.3,sn46.4,sn46.5,sn46.6,sn46.7,sn46.8			167	14756	sn46-pabbatavagga
+U00142	sn46.9,sn46.10,sn46.11,sn46.12,sn46.13,sn46.14,sn46.15,sn46.16,sn46.17,sn46.18,sn46.19,sn46.20,sn46.21,sn46.22,sn46.23,sn46.24,sn46.25,sn46.26,sn46.27			267	14759	sn46-pabbatavagga,sn46-gilanavagga,sn46-udayivagga
+U00143	sn46.28,sn46.29,sn46.30,sn46.31,sn46.32,sn46.33,sn46.34,sn46.35,sn46.36,sn46.37,sn46.38,sn46.39,sn46.40			206	14567	sn46-udayivagga,sn46-nivaranavagga
+U00144	sn46.41,sn46.42,sn46.43,sn46.44,sn46.45,sn46.46,sn46.47,sn46.48,sn46.49,sn46.50,sn46.51			218	13915	sn46-cakkavattivagga,sn46-sakacchavagga
+U00145	sn46.52,sn46.53			119	10497	sn46-sakacchavagga
+U00146	sn46.54			87	9370	sn46-sakacchavagga
+U00147	sn46.55,sn46.56			114	13122	sn46-sakacchavagga
+U00148	sn46.57,sn46.58,sn46.59,sn46.60,sn46.61,sn46.62,sn46.63,sn46.64,sn46.65,sn46.66,sn46.67,sn46.68,sn46.69,sn46.70,sn46.71,sn46.72,sn46.73,sn46.74,sn46.75,sn46.76,sn46.77-88,sn46.89-98,sn46.99-110,sn46.111-120,sn46.121-129,sn46.130,sn46.131-142,sn46.143-152,sn46.153-164,sn46.165-174,sn46.175-184,sn47.1,sn47.2			341	13314	sn46-anapanavagga,sn46-nirodhavagga,sn46-gangapeyyalavagga,sn46-appamadavagga,sn46-balakaraniyavagga,sn46-esanavagga,sn46-oghavagga,sn46-punagangapeyyalavagga,sn46-punaappamadavagga,sn46-punabalakaraniyavagga,sn46-punaesanavagga,sn46-punaoghavagga,sn47-ambapalivagga
+U00149	sn47.3,sn47.4,sn47.5,sn47.6,sn47.7,sn47.8			200	13926	sn47-ambapalivagga
+U00150	sn47.9,sn47.10,sn47.11,sn47.12			181	13136	sn47-ambapalivagga,sn47-nalandavagga
+U00151	sn47.13,sn47.14,sn47.15,sn47.16,sn47.17,sn47.18,sn47.19,sn47.20			216	14546	sn47-nalandavagga
+U00152	sn47.21,sn47.22,sn47.23,sn47.24,sn47.25,sn47.26,sn47.27,sn47.28,sn47.29,sn47.30,sn47.31,sn47.32,sn47.33,sn47.34			256	14993	sn47-silatthitivagga,sn47-ananussutavagga
+U00153	sn47.35,sn47.36,sn47.37,sn47.38,sn47.39,sn47.40,sn47.41,sn47.42,sn47.43,sn47.44,sn47.45,sn47.46,sn47.47,sn47.48,sn47.49,sn47.50			282	14185	sn47-ananussutavagga,sn47-amatavagga
+U00154	sn47.51-62,sn47.63-72,sn47.73-84,sn47.85-94,sn47.95-104,sn48.1,sn48.2,sn48.3,sn48.4,sn48.5,sn48.6,sn48.7,sn48.8,sn48.9,sn48.10,sn48.11,sn48.12,sn48.13,sn48.14			292	14575	sn47-gangapeyyalavagga,sn47-appamadavagga,sn47-balakaraniyavagga,sn47-esanavagga,sn47-oghavagga,sn48-suddhikavagga,sn48-mudutaravagga
+U00155	sn48.15,sn48.16,sn48.17,sn48.18,sn48.19,sn48.20,sn48.21,sn48.22,sn48.23,sn48.24,sn48.25,sn48.26,sn48.27,sn48.28,sn48.29,sn48.30,sn48.31,sn48.32,sn48.33,sn48.34,sn48.35,sn48.36			251	14723	sn48-mudutaravagga,sn48-chalindriyavagga,sn48-sukhindriyavagga
+U00156	sn48.37,sn48.38,sn48.39,sn48.40,sn48.41,sn48.42			197	13264	sn48-sukhindriyavagga,sn48-jaravagga
+U00157	sn48.43,sn48.44,sn48.45,sn48.46,sn48.47,sn48.48,sn48.49,sn48.50,sn48.51			204	13767	sn48-jaravagga,sn48-sukarakhatavagga
+U00158	sn48.52,sn48.53,sn48.54,sn48.55,sn48.56,sn48.57,sn48.58,sn48.59,sn48.60,sn48.61,sn48.62,sn48.63,sn48.64,sn48.65,sn48.66,sn48.67			247	14356	sn48-sukarakhatavagga,sn48-bodhipakkhiyavagga
+U00159	sn48.68,sn48.69,sn48.70,sn48.71-82,sn48.83-92,sn48.93-104,sn48.105-114,sn48.115-124,sn48.125-136,sn48.137-146,sn48.147-158,sn48.159-168,sn48.169-178,sn49.1-12,sn49.13-22,sn49.23-34,sn49.35-44,sn49.45-54,sn50.1-12,sn50.13-22,sn50.23-34,sn50.35-44,sn50.45-54,sn50.55-66,sn50.67-76,sn50.77-88,sn50.89-98			345	14980	sn48-bodhipakkhiyavagga,sn48-gangapeyyalavagga,sn48-appamadavagga,sn48-balakaraniyavagga,sn48-esanavagga,sn48-oghavagga,sn48-punagangapeyyalavagga,sn48-punaappamadavagga,sn48-punabalakaraniyavagga,sn48-punaesanavagga,sn48-punaoghavagga,sn49-gangapeyyalavagga,sn49-appamadavagga,sn49-balakaraniyavagga,sn49-esanavagga,sn49-oghavagga,sn50-gangapeyyalavagga,sn50-appamadavagga,sn50-balakaraniyavagga,sn50-esanavagga,sn50-oghavagga,sn50-punagangapeyyalavagga,sn50-punaappamadavagga,sn50-punabalakaraniyavagga,sn50-punaesanavagga
+U00160	sn50.99-108,sn51.1,sn51.2,sn51.3,sn51.4,sn51.5,sn51.6,sn51.7,sn51.8,sn51.9			138	9060	sn50-punaoghavagga,sn51-capalavagga
+U00161	sn51.10,sn51.11,sn51.12			151	13917	sn51-capalavagga,sn51-pasadakampanavagga
+U00162	sn51.13,sn51.14,sn51.15,sn51.16,sn51.17,sn51.18,sn51.19			187	13918	sn51-pasadakampanavagga
+U00163	sn51.20,sn51.21,sn51.22,sn51.23,sn51.24,sn51.25,sn51.26,sn51.27,sn51.28			247	14992	sn51-pasadakampanavagga,sn51-ayogulavagga
+U00164	sn51.29,sn51.30,sn51.31,sn51.32,sn51.33-44,sn51.45-54,sn51.55-66,sn51.67-76,sn51.77-86,sn52.1,sn52.2,sn52.3			251	14953	sn51-ayogulavagga,sn51-gangapeyyalavagga,sn51-appamadavagga,sn51-balakaraniyavagga,sn51-esanavagga,sn51-oghavagga,sn52-rahogatavagga
+U00165	sn52.4,sn52.5,sn52.6,sn52.7,sn52.8,sn52.9,sn52.10,sn52.11,sn52.12,sn52.13,sn52.14,sn52.15,sn52.16,sn52.17,sn52.18,sn52.19,sn52.20,sn52.21,sn52.22,sn52.23,sn52.24,sn53.1-12,sn53.13-22,sn53.23-34,sn53.35-44,sn53.45-54			291	13910	sn52-rahogatavagga,sn52-dutiyavagga,sn53-gangapeyyalavagga,sn53-appamadavagga,sn53-balakaraniyavagga,sn53-esanavagga,sn53-oghavagga
+U00166	sn54.1,sn54.2,sn54.3,sn54.4,sn54.5,sn54.6,sn54.7,sn54.8			200	13633	sn54-ekadhammavagga
+U00167	sn54.9,sn54.10,sn54.11,sn54.12			183	13503	sn54-ekadhammavagga,sn54-dutiyavagga
+U00168	sn54.13,sn54.14,sn54.15			109	10133	sn54-dutiyavagga
+U00169	sn54.16,sn54.17,sn54.18,sn54.19,sn54.20,sn55.1,sn55.2			154	11448	sn54-dutiyavagga,sn55-veludvaravagga
+U00170	sn55.3,sn55.4,sn55.5,sn55.6			196	12722	sn55-veludvaravagga
+U00171	sn55.7,sn55.8,sn55.9,sn55.10,sn55.11,sn55.12			210	14317	sn55-veludvaravagga,sn55-rajakaramavagga
+U00172	sn55.13,sn55.14,sn55.15,sn55.16,sn55.17,sn55.18,sn55.19,sn55.20,sn55.21,sn55.22			202	14408	sn55-rajakaramavagga,sn55-sarananivagga
+U00173	sn55.23,sn55.24,sn55.25			238	14391	sn55-sarananivagga
+U00174	sn55.26,sn55.27,sn55.28,sn55.29			186	14814	sn55-sarananivagga
+U00175	sn55.30,sn55.31,sn55.32,sn55.33,sn55.34,sn55.35,sn55.36,sn55.37,sn55.38,sn55.39,sn55.40			253	13639	sn55-sarananivagga,sn55-punnabhisandavagga
+U00176	sn55.41,sn55.42,sn55.43,sn55.44,sn55.45,sn55.46,sn55.47,sn55.48,sn55.49,sn55.50,sn55.51,sn55.52,sn55.53			259	13042	sn55-sagathakapunnabhisandavagga,sn55-sappannavagga
+U00177	sn55.54,sn55.55,sn55.56,sn55.57,sn55.58,sn55.59,sn55.60,sn55.61,sn55.62,sn55.63,sn55.64,sn55.65,sn55.66,sn55.67,sn55.68,sn55.69,sn55.70,sn55.71,sn55.72,sn55.73,sn55.74			191	6662	sn55-sappannavagga,sn55-mahapannavagga
+U00178	mn1			334	11999	mn-mulapariyayavagga
+U00179	mn2			125	10647	mn-mulapariyayavagga
+U00180	mn3			128	7897	mn-mulapariyayavagga
+U00181	mn4			165	16277	mn-mulapariyayavagga
+U00182	mn5			203	18218	mn-mulapariyayavagga
+U00183	mn6			51	6766	mn-mulapariyayavagga
+U00184	mn7			147	9103	mn-mulapariyayavagga
+U00185	mn8			170	15294	mn-mulapariyayavagga
+U00186	mn9	mn9:0.1	mn9:43.2	143	12801	mn-mulapariyayavagga
+U00187	mn9	mn9:44.1	mn9:71.5	91	8356	mn-mulapariyayavagga
+U00188	mn10	mn10:0.1	mn10:36.8	143	12765	mn-mulapariyayavagga
+U00189	mn10	mn10:37.1	mn10:48.4	92	9771	mn-mulapariyayavagga
+U00190	mn11			132	9413	mn-sihanadavagga
+U00191	mn12	mn12:0.1	mn12:29.9	103	13260	mn-sihanadavagga
+U00192	mn12	mn12:30.1	mn12:45.14	142	14087	mn-sihanadavagga
+U00193	mn12	mn12:46.1	mn12:64.9	127	10396	mn-sihanadavagga
+U00194	mn13			152	14880	mn-sihanadavagga
+U00195	mn14			144	12389	mn-sihanadavagga
+U00196	mn15	mn15:0.1	mn15:8.10	263	19618	mn-sihanadavagga
+U00197	mn16			83	7869	mn-sihanadavagga
+U00198	mn17			83	9906	mn-sihanadavagga
+U00199	mn18			150	13687	mn-sihanadavagga
+U00200	mn19			123	10472	mn-sihanadavagga
+U00201	mn20			87	8352	mn-sihanadavagga
+U00202	mn21			227	16098	mn-opammavagga
+U00203	mn22	mn22:0.1	mn22:13.26	176	13143	mn-opammavagga
+U00204	mn22	mn22:14.1	mn22:47.5	183	12963	mn-opammavagga
+U00205	mn23			104	5526	mn-opammavagga
+U00206	mn24			139	12517	mn-opammavagga
+U00207	mn25			199	19181	mn-opammavagga
+U00208	mn26	mn26:0.1	mn26:16.36	148	13473	mn-opammavagga
+U00209	mn26	mn26:17.1	mn26:42.8	217	16246	mn-opammavagga
+U00210	mn27			201	16140	mn-opammavagga
+U00211	mn28			166	14974	mn-opammavagga
+U00212	mn29			181	14459	mn-opammavagga
+U00213	mn30			163	14446	mn-opammavagga
+U00214	mn31			147	12265	mn-mahayamakavagga
+U00215	mn32			168	15799	mn-mahayamakavagga
+U00216	mn33,mn34			170	14118	mn-mahayamakavagga
+U00217	mn35			235	18663	mn-mahayamakavagga
+U00218	mn36	mn36:0.1	mn36:15.35	148	12902	mn-mahayamakavagga
+U00219	mn36	mn36:16.1	mn36:31.5	134	12953	mn-mahayamakavagga
+U00220	mn36	mn36:32.1	mn36:48.18	78	7324	mn-mahayamakavagga
+U00221	mn37			110	9363	mn-mahayamakavagga
+U00222	mn38	mn38:0.1	mn38:18.54	207	13692	mn-mahayamakavagga
+U00223	mn38	mn38:19.1	mn38:41.14	238	16198	mn-mahayamakavagga
+U00224	mn39			191	18638	mn-mahayamakavagga
+U00225	mn40			71	8272	mn-mahayamakavagga
+U00226	mn41			122	11139	mn-culayamakavagga
+U00227	mn42			122	8747	mn-culayamakavagga
+U00228	mn43			183	13352	mn-culayamakavagga
+U00229	mn44			138	11250	mn-culayamakavagga
+U00230	mn45			97	8016	mn-culayamakavagga
+U00231	mn46			176	15164	mn-culayamakavagga
+U00232	mn47			84	5888	mn-culayamakavagga
+U00233	mn48			110	10364	mn-culayamakavagga
+U00234	mn49			164	11641	mn-culayamakavagga
+U00235	mn50			239	13129	mn-culayamakavagga
+U00236	mn51	mn51:0.1	mn51:14.26	148	13703	mn-gahapativagga
+U00237	mn51	mn51:15.1	mn51:28.5	42	5902	mn-gahapativagga
+U00238	mn52			74	6901	mn-gahapativagga
+U00239	mn53			100	10518	mn-gahapativagga
+U00240	mn54			209	17171	mn-gahapativagga
+U00241	mn55			80	5817	mn-gahapativagga
+U00242	mn56	mn56:0.1	mn56:13.28	158	12754	mn-gahapativagga
+U00243	mn56	mn56:14.1	mn56:31.2	224	15371	mn-gahapativagga
+U00244	mn57			114	8970	mn-gahapativagga
+U00245	mn58,mn59			206	14996	mn-gahapativagga
+U00246	mn60	mn60:0.1	mn60:19.8	120	13060	mn-gahapativagga
+U00247	mn60	mn60:20.1	mn60:58.4	174	13433	mn-gahapativagga
+U00248	mn61			134	13097	mn-bhikkhuvagga
+U00249	mn62			122	10230	mn-bhikkhuvagga
+U00250	mn63			182	11087	mn-bhikkhuvagga
+U00251	mn64			123	9258	mn-bhikkhuvagga
+U00252	mn65			211	19177	mn-bhikkhuvagga
+U00253	mn66			202	17229	mn-bhikkhuvagga
+U00254	mn67			129	11271	mn-bhikkhuvagga
+U00255	mn68			177	13042	mn-bhikkhuvagga
+U00256	mn69			104	7843	mn-bhikkhuvagga
+U00257	mn70			203	17514	mn-bhikkhuvagga
+U00258	mn71			46	4089	mn-paribbajakavagga
+U00259	mn72			161	11292	mn-paribbajakavagga
+U00260	mn73			140	15418	mn-paribbajakavagga
+U00261	mn74			104	7320	mn-paribbajakavagga
+U00262	mn75	mn75:0.1	mn75:18.6	158	13150	mn-paribbajakavagga
+U00263	mn75	mn75:19.1	mn75:28.5	105	7950	mn-paribbajakavagga
+U00264	mn76	mn76:0.1	mn76:17.23	139	14194	mn-paribbajakavagga
+U00265	mn76	mn76:18.1	mn76:54.5	101	11434	mn-paribbajakavagga
+U00266	mn77	mn77:0.1	mn77:9.16	134	14504	mn-paribbajakavagga
+U00267	mn77	mn77:10.1	mn77:27.4	164	13022	mn-paribbajakavagga
+U00268	mn77	mn77:28.1	mn77:38.4	92	10447	mn-paribbajakavagga
+U00269	mn78			162	11821	mn-paribbajakavagga
+U00270	mn79			200	17381	mn-paribbajakavagga
+U00271	mn80			101	7680	mn-paribbajakavagga
+U00272	mn81			198	16156	mn-rajavagga
+U00273	mn82	mn82:0.1	mn82:19.12	154	13037	mn-rajavagga
+U00274	mn82	mn82:20.1	mn82:42.55	280	16294	mn-rajavagga
+U00275	mn83			181	16121	mn-rajavagga
+U00276	mn84			171	12043	mn-rajavagga
+U00277	mn85	mn85:0.1	mn85:18.14	162	12923	mn-rajavagga
+U00278	mn85	mn85:19.1	mn85:43.16	144	13110	mn-rajavagga
+U00279	mn85	mn85:44.1	mn85:61.17	247	16405	mn-rajavagga
+U00280	mn86			208	11953	mn-rajavagga
+U00281	mn87			150	10083	mn-rajavagga
+U00282	mn88			128	9045	mn-rajavagga
+U00283	mn89			159	12059	mn-rajavagga
+U00284	mn90			172	12935	mn-rajavagga
+U00285	mn91	mn91:0.1	mn91:24.9	159	13315	mn-brahmanavagga
+U00286	mn91	mn91:25.1	mn91:39.10	149	8995	mn-brahmanavagga
+U00287	mn92			205	10816	mn-brahmanavagga
+U00288	mn93			244	16674	mn-brahmanavagga
+U00289	mn94	mn94:0.1	mn94:16.25	136	13003	mn-brahmanavagga
+U00290	mn94	mn94:17.1	mn94:33.11	67	8085	mn-brahmanavagga
+U00291	mn95	mn95:0.1	mn95:14.15	154	12925	mn-brahmanavagga
+U00292	mn95	mn95:15.1	mn95:35.3	151	9954	mn-brahmanavagga
+U00293	mn96			143	13264	mn-brahmanavagga
+U00294	mn97	mn97:0.1	mn97:25.6	142	13335	mn-brahmanavagga
+U00295	mn97	mn97:26.1	mn97:38.8	90	6991	mn-brahmanavagga
+U00296	mn98			294	8030	mn-brahmanavagga
+U00297	mn99	mn99:0.1	mn99:18.2	164	12895	mn-brahmanavagga
+U00298	mn99	mn99:19.1	mn99:31.4	106	7860	mn-brahmanavagga
+U00299	mn100	mn100:0.1	mn100:16.12	155	13865	mn-brahmanavagga
+U00300	mn100	mn100:17.1	mn100:45.5	151	12829	mn-brahmanavagga
+U00301	mn101	mn101:0.1	mn101:21.2	164	13304	mn-devadahavagga
+U00302	mn101	mn101:22.1	mn101:39.2	154	12869	mn-devadahavagga
+U00303	mn101	mn101:40.1	mn101:46.27	44	5208	mn-devadahavagga
+U00304	mn102			161	16552	mn-devadahavagga
+U00305	mn103			128	8951	mn-devadahavagga
+U00306	mn104			166	13417	mn-devadahavagga
+U00307	mn105			188	15988	mn-devadahavagga
+U00308	mn106			127	7840	mn-devadahavagga
+U00309	mn107			104	9975	mn-devadahavagga
+U00310	mn108			160	14265	mn-devadahavagga
+U00311	mn109			117	8533	mn-devadahavagga
+U00312	mn110,mn111			197	14165	mn-devadahavagga,mn-anupadavagga
+U00313	mn112			147	12903	mn-anupadavagga
+U00314	mn113			218	13390	mn-anupadavagga
+U00315	mn114	mn114:0.1	mn114:11.16	175	13215	mn-anupadavagga
+U00316	mn114	mn114:12.1	mn114:61.3	198	11710	mn-anupadavagga
+U00317	mn115,mn116			254	14975	mn-anupadavagga
+U00318	mn117			152	10741	mn-anupadavagga
+U00319	mn118			154	15652	mn-anupadavagga
+U00320	mn119			190	16743	mn-anupadavagga
+U00321	mn120			201	10294	mn-anupadavagga
+U00322	mn121			102	9294	mn-sunnatavagga
+U00323	mn122			172	13893	mn-sunnatavagga
+U00324	mn123			107	10784	mn-sunnatavagga
+U00325	mn124			71	4871	mn-sunnatavagga
+U00326	mn125			145	15280	mn-sunnatavagga
+U00327	mn126			181	12506	mn-sunnatavagga
+U00328	mn127			147	12779	mn-sunnatavagga
+U00329	mn128			279	18388	mn-sunnatavagga
+U00330	mn129	mn129:0.1	mn129:28.10	170	13532	mn-sunnatavagga
+U00331	mn129	mn129:29.1	mn129:49.7	133	13630	mn-sunnatavagga
+U00332	mn130			203	15560	mn-sunnatavagga
+U00333	mn131,mn132			181	9012	mn-vibhangavagga
+U00334	mn133			232	13752	mn-vibhangavagga
+U00335	mn134			122	5670	mn-vibhangavagga
+U00336	mn135			137	11829	mn-vibhangavagga
+U00337	mn136			161	15683	mn-vibhangavagga
+U00338	mn137			195	12403	mn-vibhangavagga
+U00339	mn138			152	14732	mn-vibhangavagga
+U00340	mn139			201	13177	mn-vibhangavagga
+U00341	mn140			239	17949	mn-vibhangavagga
+U00342	mn141			122	8378	mn-vibhangavagga
+U00343	mn142			141	8500	mn-vibhangavagga
+U00344	mn143			193	10747	mn-salayatanavagga
+U00345	mn144,mn145			169	12675	mn-salayatanavagga
+U00346	mn146	mn146:0.1	mn146:19-20.27	260	13497	mn-salayatanavagga
+U00347	mn146	mn146:21.1	mn146:27.8	101	6800	mn-salayatanavagga
+U00348	mn147			115	5200	mn-salayatanavagga
+U00349	mn148			227	14267	mn-salayatanavagga
+U00350	mn149,mn150			164	13644	mn-salayatanavagga
+U00351	mn151			109	9115	mn-salayatanavagga
+U00352	mn152			141	9107	mn-salayatanavagga
+U00353	dn1	dn1:0.1	dn1:1.21.4	124	12935	dn-silakkhandhavagga
+U00354	dn1	dn1:1.22.1	dn1:1.37.2	84	12751	dn-silakkhandhavagga
+U00355	dn1	dn1:2.1.0	dn1:2.24.9	136	13277	dn-silakkhandhavagga
+U00356	dn1	dn1:2.25.1	dn1:3.13.8	166	12904	dn-silakkhandhavagga
+U00357	dn1	dn1:3.14.1	dn1:3.62.1	112	12877	dn-silakkhandhavagga
+U00358	dn1	dn1:3.63.1	dn1:3.74.7	40	4983	dn-silakkhandhavagga
+U00359	dn2	dn2:0.1	dn2:22.4	137	12904	dn-silakkhandhavagga
+U00360	dn2	dn2:23.1	dn2:40.3	160	12902	dn-silakkhandhavagga
+U00361	dn2	dn2:41.1	dn2:64.11	133	13275	dn-silakkhandhavagga
+U00362	dn2	dn2:65.0	dn2:88.6	122	12819	dn-silakkhandhavagga
+U00363	dn2	dn2:89.0	dn2:102.7	98	11994	dn-silakkhandhavagga
+U00364	dn3	dn3:0.1	dn3:1.21.11	147	13256	dn-silakkhandhavagga
+U00365	dn3	dn3:1.22.0	dn3:2.8.2	182	13084	dn-silakkhandhavagga
+U00366	dn3	dn3:2.9.1	dn3:2.22.9	108	9437	dn-silakkhandhavagga
+U00367	dn4	dn4:0.1	dn4:10.16	148	13618	dn-silakkhandhavagga
+U00368	dn4	dn4:11.0	dn4:27.2	149	11130	dn-silakkhandhavagga
+U00369	dn5	dn5:0.1	dn5:10.8	137	12861	dn-silakkhandhavagga
+U00370	dn5	dn5:11.1	dn5:20.12	149	13202	dn-silakkhandhavagga
+U00371	dn5	dn5:21.1	dn5:30.11	88	10098	dn-silakkhandhavagga
+U00372	dn6			156	14428	dn-silakkhandhavagga
+U00373	dn7			51	2705	dn-silakkhandhavagga
+U00374	dn8	dn8:0.1	dn8:16.30	135	13427	dn-silakkhandhavagga
+U00375	dn8	dn8:17.1	dn8:24.8	117	9326	dn-silakkhandhavagga
+U00376	dn9	dn9:0.1	dn9:28.3	188	12931	dn-silakkhandhavagga
+U00377	dn9	dn9:29.1	dn9:42.6	181	13165	dn-silakkhandhavagga
+U00378	dn9	dn9:43.1	dn9:56.5	105	9534	dn-silakkhandhavagga
+U00379	dn10	dn10:0.1	dn10:2.13.2	142	12902	dn-silakkhandhavagga
+U00380	dn10	dn10:2.14.1	dn10:2.37.11	143	16137	dn-silakkhandhavagga
+U00381	dn11			199	14861	dn-silakkhandhavagga
+U00382	dn12			189	13998	dn-silakkhandhavagga
+U00383	dn13	dn13:0.1	dn13:22.13	137	12930	dn-silakkhandhavagga
+U00384	dn13	dn13:23.1	dn13:83.5	143	10231	dn-silakkhandhavagga
+U00385	dn14	dn14:0.1	dn14:1.14.13	122	12950	dn-mahavagga
+U00386	dn14	dn14:1.15.1	dn14:1.34.8	139	13309	dn-mahavagga
+U00387	dn14	dn14:1.35.1	dn14:2.14.17	163	13084	dn-mahavagga
+U00388	dn14	dn14:2.15.0	dn14:3.6.4	172	13773	dn-mahavagga
+U00389	dn14	dn14:3.7.1	dn14:3.25.12	134	13498	dn-mahavagga
+U00390	dn14	dn14:3.26.1	dn14:3.33.7	121	10287	dn-mahavagga
+U00391	dn15	dn15:0.1	dn15:23.9	135	12865	dn-mahavagga
+U00392	dn15	dn15:24.1	dn15:36.6	142	10759	dn-mahavagga
+U00393	dn16	dn16:0.1	dn16:1.11.11	131	13505	dn-mahavagga
+U00394	dn16	dn16:1.12.1	dn16:1.33.3	156	12840	dn-mahavagga
+U00395	dn16	dn16:1.34.1	dn16:2.21.5	170	12832	dn-mahavagga
+U00396	dn16	dn16:2.22.1	dn16:3.18.2	126	12770	dn-mahavagga
+U00397	dn16	dn16:3.19.1	dn16:3.44.6	161	12889	dn-mahavagga
+U00398	dn16	dn16:3.45.1	dn16:4.18.6	190	13084	dn-mahavagga
+U00399	dn16	dn16:4.19.1	dn16:5.1.7	180	13246	dn-mahavagga
+U00400	dn16	dn16:5.2.1	dn16:5.17.9	174	12906	dn-mahavagga
+U00401	dn16	dn16:5.18.1	dn16:6.9.1	152	13415	dn-mahavagga
+U00402	dn16	dn16:6.10.1	dn16:6.28.21	224	16115	dn-mahavagga
+U00403	dn17	dn17:0.1	dn17:1.22.14	158	13224	dn-mahavagga
+U00404	dn17	dn17:1.23.1	dn17:2.6.7	133	13309	dn-mahavagga
+U00405	dn17	dn17:2.7.0	dn17:2.17.9	153	13818	dn-mahavagga
+U00406	dn18	dn18:0.1	dn18:16.6	161	13052	dn-mahavagga
+U00407	dn18	dn18:17.1	dn18:29.5	138	12618	dn-mahavagga
+U00408	dn19	dn19:0.1	dn19:27.3	163	12968	dn-mahavagga
+U00409	dn19	dn19:28.1	dn19:43.6	155	13021	dn-mahavagga
+U00410	dn19	dn19:44.0	dn19:62.8	241	14565	dn-mahavagga
+U00411	dn20			337	8630	dn-mahavagga
+U00412	dn21	dn21:0.1	dn21:2.1.11	259	13281	dn-mahavagga
+U00413	dn21	dn21:2.2.1	dn21:2.10.14	256	15208	dn-mahavagga
+U00414	dn22	dn22:0.1	dn22:13.13	147	13122	dn-mahavagga
+U00415	dn22	dn22:14.0	dn22:19.67	168	13791	dn-mahavagga
+U00416	dn22	dn22:20.0	dn22:22.28	139	7163	dn-mahavagga
+U00417	dn23	dn23:0.1	dn23:9.35	151	13182	dn-mahavagga
+U00418	dn23	dn23:10.1	dn23:18.35	208	14449	dn-mahavagga
+U00419	dn23	dn23:19.0	dn23:24.6	182	12752	dn-mahavagga
+U00420	dn23	dn23:25.0	dn23:35.7	174	14020	dn-mahavagga
+U00421	dn24	dn24:0.1	dn24:1.13.18	174	12943	dn-pathikavagga
+U00422	dn24	dn24:1.14.1	dn24:1.22.11	150	12804	dn-pathikavagga
+U00423	dn24	dn24:2.1.1	dn24:2.15.4	146	12918	dn-pathikavagga
+U00424	dn24	dn24:2.16.1	dn24:2.21.17	111	8742	dn-pathikavagga
+U00425	dn25	dn25:0.1	dn25:13.25	186	14476	dn-pathikavagga
+U00426	dn25	dn25:14.1	dn25:24.8	197	15536	dn-pathikavagga
+U00427	dn26	dn26:0.1	dn26:11.12	147	13021	dn-pathikavagga
+U00428	dn26	dn26:12.1	dn26:23.3	147	12898	dn-pathikavagga
+U00429	dn26	dn26:23.4.0	dn26:28.32	61	5809	dn-pathikavagga
+U00430	dn27	dn27:0.1	dn27:16.15	168	13083	dn-pathikavagga
+U00431	dn27	dn27:17.0	dn27:32.14	155	12503	dn-pathikavagga
+U00432	dn28	dn28:0.1	dn28:14.10	150	13359	dn-pathikavagga
+U00433	dn28	dn28:15.0	dn28:21.6	100	11266	dn-pathikavagga
+U00434	dn29	dn29:0.1	dn29:15.12	142	13147	dn-pathikavagga
+U00435	dn29	dn29:16.1	dn29:29.7	163	13359	dn-pathikavagga
+U00436	dn29	dn29:30.0	dn29:41.9	160	8492	dn-pathikavagga
+U00437	dn30	dn30:0.1	dn30:1.21.21	262	13221	dn-pathikavagga
+U00438	dn30	dn30:1.22.0	dn30:2.14.8	267	12779	dn-pathikavagga
+U00439	dn30	dn30:2.15.1	dn30:2.31.32	192	8974	dn-pathikavagga
+U00440	dn31			267	15024	dn-pathikavagga
+U00441	dn32	dn32:0.1	dn32:13.7	574	21843	dn-pathikavagga
+U00442	dn33	dn33:0.1	dn33:1.10.148	240	12948	dn-pathikavagga
+U00443	dn33	dn33:1.11.0	dn33:1.11.221	222	15635	dn-pathikavagga
+U00444	dn33	dn33:2.1.0	dn33:2.2.102	246	19453	dn-pathikavagga
+U00445	dn33	dn33:2.2.103	dn33:3.1.186	269	17447	dn-pathikavagga
+U00446	dn33	dn33:3.2.0	dn33:3.4.6	190	12357	dn-pathikavagga
+U00447	dn34	dn34:0.1	dn34:1.6.105	274	14812	dn-pathikavagga
+U00448	dn34	dn34:1.7.0	dn34:2.1.122	295	19415	dn-pathikavagga
+U00449	dn34	dn34:2.1.123	dn34:2.4.11	325	19030	dn-pathikavagga
+U00450	an1.1-10,an1.11-20,an1.21-30,an1.31-40,an1.41-50			244	13145	an1-cittapariyadanavagga,an1-nivaranappahanavagga,an1-akammaniyavagga,an1-adantavagga,an1-panihitaacchavagga
+U00451	an1.51-60,an1.61-70,an1.71-81,an1.82-97			219	11400	an1-accharasanghatavagga,an1-viriyarambhadivagga,an1-kalyanamittadivagga,an1-pamadadivagga
+U00452	an1.98-139,an1.140-149,an1.150-169,an1.170-187,an1.188-197,an1.198-208,an1.209-218,an1.219-234,an1.235-247			230	14395	an1-dutiyapamadadivagga,an1-adhammavagga,an1-anapattivagga,an1-ekapuggalavagga,an1-etadaggavagga
+U00453	an1.248-257,an1.258-267,an1.268-277,an1.278-286,an1.287-295,an1.296-305,an1.306-315			163	12121	an1-etadaggavagga,an1-atthana,an1-ekadhamma
+U00454	an1.316-332,an1.333-377,an1.378-393,an1.394-574			338	14486	an1-ekadhamma,an1-pasadakaradhammavagga,an1-aparaaccharasanghatavagga
+U00455	an1.575-615,an1.616-627,an2.1-10			219	13889	an1-kayagatasativagga,an1-amatavagga,an2-kammakaranavagga
+U00456	an2.11-20			175	12619	an2-adhikaranavagga
+U00457	an2.21-31			71	2780	an2-balavagga
+U00458	an2.32-41			168	13522	an2-samacittavagga
+U00459	an2.42-51,an2.52-63			232	14343	an2-parisavagga,an2-puggalavagga
+U00460	an2.64-76,an2.77-86,an2.87-97,an2.98-117,an2.118-129,an2.130-140			413	14689	an2-sukhavagga,an2-sanimittavagga,an2-dhammavagga,an2-balavagga2,an2-asaduppajahavagga,an2-ayacanavagga
+U00461	an2.141-150,an2.151-162,an2.163-179,an2.180-229,an2.230-279,an2.280-309,an2.310-479,an3.1			341	14308	an2-danavagga,an2-santharavagga,an2-samapattivagga,an2-kodhapeyyalavagga,an2-akusalapeyyalavagga,an2-vinayapeyyalavagga,an2-ragapeyyalavagga,an3-balavagga
+U00462	an3.2,an3.3,an3.4,an3.5,an3.6,an3.7,an3.8,an3.9,an3.10,an3.11,an3.12,an3.13,an3.14			240	14674	an3-balavagga,an3-rathakaravagga
+U00463	an3.15,an3.16,an3.17,an3.18,an3.19,an3.20			156	11996	an3-rathakaravagga
+U00464	an3.21,an3.22,an3.23,an3.24,an3.25,an3.26			176	13640	an3-puggalavagga
+U00465	an3.27,an3.28,an3.29,an3.30,an3.31,an3.32			235	13710	an3-puggalavagga,an3-devadutavagga
+U00466	an3.33,an3.34,an3.35,an3.36			226	14183	an3-devadutavagga
+U00467	an3.37,an3.38,an3.39,an3.40,an3.41,an3.42,an3.43,an3.44,an3.45,an3.46,an3.47			275	14851	an3-devadutavagga,an3-culavagga
+U00468	an3.48,an3.49,an3.50,an3.51,an3.52,an3.53,an3.54,an3.55			194	13057	an3-culavagga,an3-brahmanavagga
+U00469	an3.56,an3.57,an3.58,an3.59			209	14293	an3-brahmanavagga
+U00470	an3.60			119	9418	an3-brahmanavagga
+U00471	an3.61,an3.62			172	13236	an3-mahavagga
+U00472	an3.63,an3.64			140	13657	an3-mahavagga
+U00473	an3.65,an3.66			198	14160	an3-mahavagga
+U00474	an3.67,an3.68,an3.69			188	13066	an3-mahavagga
+U00475	an3.70			238	17686	an3-mahavagga
+U00476	an3.71,an3.72,an3.73,an3.74,an3.75,an3.76			178	14432	an3-anandavagga
+U00477	an3.77,an3.78,an3.79,an3.80,an3.81,an3.82,an3.83,an3.84,an3.85,an3.86			233	14923	an3-anandavagga,an3-samanavagga
+U00478	an3.87,an3.88,an3.89,an3.90,an3.91,an3.92			200	13846	an3-samanavagga,an3-lonakapallavagga
+U00479	an3.93,an3.94,an3.95,an3.96,an3.97,an3.98,an3.99			189	14279	an3-lonakapallavagga
+U00480	an3.100,an3.101			128	13591	an3-lonakapallavagga
+U00481	an3.102,an3.103,an3.104,an3.105,an3.106,an3.107,an3.108,an3.109,an3.110,an3.111			162	14528	an3-lonakapallavagga,an3-sambodhavagga
+U00482	an3.112,an3.113,an3.114,an3.115,an3.116,an3.117,an3.118,an3.119,an3.120			238	14375	an3-sambodhavagga,an3-apayikavagga
+U00483	an3.121,an3.122,an3.123,an3.124,an3.125,an3.126,an3.127			219	13687	an3-apayikavagga,an3-kusinaravagga
+U00484	an3.128,an3.129,an3.130,an3.131,an3.132,an3.133,an3.134,an3.135,an3.136,an3.137,an3.138,an3.139			218	12536	an3-kusinaravagga,an3-yodhajivavagga
+U00485	an3.140,an3.141,an3.142,an3.143,an3.144,an3.145,an3.146,an3.147,an3.148,an3.149,an3.150,an3.151,an3.152,an3.153,an3.154,an3.155			260	12766	an3-yodhajivavagga,an3-mangalavagga
+U00486	an3.156-162,an3.163-182,an3.183-352,an4.1,an4.2,an4.3,an4.4			299	14375	an3-patipadavagga,an3-kammapathapeyyavagga,an3-ragadipeyyalavagga,an4-bhandagamavagga
+U00487	an4.5,an4.6,an4.7,an4.8,an4.9,an4.10,an4.11			266	14640	an4-bhandagamavagga,an4-caravagga
+U00488	an4.12,an4.13,an4.14,an4.15,an4.16,an4.17,an4.18,an4.19,an4.20,an4.21			251	12902	an4-caravagga,an4-uruvelavagga
+U00489	an4.22,an4.23,an4.24,an4.25,an4.26,an4.27,an4.28,an4.29			227	12365	an4-uruvelavagga
+U00490	an4.30,an4.31,an4.32,an4.33,an4.34,an4.35			211	12736	an4-uruvelavagga,an4-cakkavagga
+U00491	an4.36,an4.37,an4.38,an4.39,an4.40,an4.41,an4.42,an4.43,an4.44			302	14162	an4-cakkavagga,an4-rohitassavagga
+U00492	an4.45,an4.46,an4.47,an4.48,an4.49,an4.50,an4.51			223	14045	an4-rohitassavagga,an4-punnabhisandavagga
+U00493	an4.52,an4.53,an4.54,an4.55,an4.56,an4.57,an4.58,an4.59			252	13913	an4-punnabhisandavagga
+U00494	an4.60,an4.61,an4.62,an4.63,an4.64,an4.65,an4.66,an4.67			264	13737	an4-punnabhisandavagga,an4-pattakammavagga
+U00495	an4.68,an4.69,an4.70,an4.71,an4.72,an4.73,an4.74,an4.75,an4.76,an4.77,an4.78			243	13583	an4-pattakammavagga,an4-apannakavagga
+U00496	an4.79,an4.80,an4.81,an4.82,an4.83,an4.84,an4.85,an4.86,an4.87,an4.88			193	13752	an4-apannakavagga,an4-macalavagga
+U00497	an4.89,an4.90,an4.91,an4.92,an4.93,an4.94,an4.95,an4.96			197	12956	an4-macalavagga,an4-asuravagga
+U00498	an4.97,an4.98,an4.99,an4.100,an4.101,an4.102			207	13181	an4-asuravagga,an4-valahakavagga
+U00499	an4.103,an4.104,an4.105,an4.106,an4.107,an4.108,an4.109,an4.110			304	14759	an4-valahakavagga
+U00500	an4.111,an4.112,an4.113,an4.114,an4.115,an4.116,an4.117			229	14920	an4-kesivagga
+U00501	an4.118,an4.119,an4.120,an4.121,an4.122,an4.123,an4.124			184	14961	an4-kesivagga,an4-bhayavagga
+U00502	an4.125,an4.126,an4.127,an4.128,an4.129,an4.130,an4.131,an4.132,an4.133,an4.134			194	14472	an4-bhayavagga,an4-puggalavagga
+U00503	an4.135,an4.136,an4.137,an4.138,an4.139,an4.140,an4.141,an4.142,an4.143,an4.144,an4.145,an4.146,an4.147,an4.148,an4.149,an4.150,an4.151,an4.152,an4.153,an4.154,an4.155,an4.156,an4.157,an4.158			302	14034	an4-puggalavagga,an4-abhavagga,an4-indriyavagga
+U00504	an4.159,an4.160,an4.161,an4.162,an4.163			215	13806	an4-indriyavagga,an4-patipadavagga
+U00505	an4.164,an4.165,an4.166,an4.167,an4.168,an4.169,an4.170			188	10951	an4-patipadavagga
+U00506	an4.171,an4.172,an4.173,an4.174,an4.175,an4.176,an4.177			197	13828	an4-sancetaniyavagga
+U00507	an4.178,an4.179,an4.180,an4.181,an4.182			203	13184	an4-sancetaniyavagga,an4-brahmanavagga
+U00508	an4.183,an4.184,an4.185,an4.186			182	12377	an4-brahmanavagga
+U00509	an4.187,an4.188,an4.189,an4.190			153	10074	an4-brahmanavagga
+U00510	an4.191,an4.192			172	12882	an4-mahavagga
+U00511	an4.193,an4.194			120	10092	an4-mahavagga
+U00512	an4.195,an4.196			160	10945	an4-mahavagga
+U00513	an4.197			61	5233	an4-mahavagga
+U00514	an4.198,an4.199			133	13272	an4-mahavagga
+U00515	an4.200,an4.201,an4.202,an4.203,an4.204			201	13973	an4-mahavagga,an4-sappurisavagga
+U00516	an4.205,an4.206,an4.207,an4.208,an4.209,an4.210,an4.211,an4.212,an4.213,an4.214,an4.215,an4.216,an4.217,an4.218,an4.219,an4.220,an4.221,an4.222,an4.223,an4.224,an4.225,an4.226,an4.227,an4.228,an4.229,an4.230			293	14717	an4-sappurisavagga,an4-parisavagga,an4-duccaritavagga
+U00517	an4.231,an4.232,an4.233,an4.234,an4.235,an4.236,an4.237,an4.238,an4.239,an4.240,an4.241			218	14829	an4-duccaritavagga,an4-kammavagga
+U00518	an4.242,an4.243,an4.244,an4.245,an4.246,an4.247,an4.248,an4.249,an4.250,an4.251,an4.252,an4.253,an4.254,an4.255,an4.256			262	14480	an4-kammavagga,an4-apattibhayavagga,an4-abhinnavagga
+U00519	an4.257,an4.258,an4.259,an4.260,an4.261,an4.262,an4.263,an4.264,an4.265,an4.266,an4.267,an4.268,an4.269,an4.270,an4.271,an4.272,an4.273,an4.274,an4.275,an4.276,an4.277-303,an4.304-783			232	14467	an4-abhinnavagga,an4-kammapathavagga,an4-ragapeyyala
+U00520	an5.1,an5.2,an5.3,an5.4,an5.5,an5.6,an5.7,an5.8,an5.9,an5.10,an5.11,an5.12,an5.13			217	13615	an5-sekhabalavagga,an5-balavagga
+U00521	an5.14,an5.15,an5.16,an5.17,an5.18,an5.19,an5.20,an5.21,an5.22,an5.23,an5.24			209	14520	an5-balavagga,an5-pancangikavagga
+U00522	an5.25,an5.26,an5.27,an5.28,an5.29			164	13334	an5-pancangikavagga
+U00523	an5.30,an5.31,an5.32,an5.33			198	12262	an5-pancangikavagga,an5-sumanavagga
+U00524	an5.34,an5.35,an5.36,an5.37,an5.38,an5.39,an5.40,an5.41,an5.42,an5.43			338	14271	an5-sumanavagga,an5-mundarajavagga
+U00525	an5.44,an5.45,an5.46,an5.47,an5.48,an5.49			205	12270	an5-mundarajavagga
+U00526	an5.50,an5.51,an5.52,an5.53,an5.54			197	14115	an5-mundarajavagga,an5-nivaranavagga
+U00527	an5.55,an5.56,an5.57			159	12491	an5-nivaranavagga
+U00528	an5.58,an5.59,an5.60,an5.61,an5.62,an5.63,an5.64,an5.65,an5.66,an5.67,an5.68,an5.69,an5.70,an5.71			224	13187	an5-nivaranavagga,an5-sannavagga,an5-yodhajivavagga
+U00529	an5.72,an5.73,an5.74,an5.75			180	13472	an5-yodhajivavagga
+U00530	an5.76,an5.77			179	14684	an5-yodhajivavagga
+U00531	an5.78,an5.79,an5.80,an5.81,an5.82,an5.83,an5.84			200	14528	an5-yodhajivavagga,an5-theravagga
+U00532	an5.85,an5.86,an5.87,an5.88,an5.89,an5.90,an5.91,an5.92,an5.93,an5.94,an5.95,an5.96,an5.97,an5.98,an5.99			223	13828	an5-theravagga,an5-kakudhavagga
+U00533	an5.100,an5.101,an5.102,an5.103,an5.104			201	14347	an5-kakudhavagga,an5-phasuviharavagga
+U00534	an5.105,an5.106,an5.107,an5.108,an5.109,an5.110,an5.111,an5.112,an5.113,an5.114,an5.115,an5.116,an5.117,an5.118,an5.119,an5.120			260	14478	an5-phasuviharavagga,an5-andhakavindavagga
+U00535	an5.121,an5.122,an5.123,an5.124,an5.125,an5.126,an5.127,an5.128,an5.129,an5.130,an5.131,an5.132,an5.133			193	13026	an5-gilanavagga,an5-rajavagga
+U00536	an5.134,an5.135,an5.136,an5.137,an5.138			138	9391	an5-rajavagga
+U00537	an5.139,an5.140,an5.141			167	12293	an5-rajavagga,an5-tikandakivagga
+U00538	an5.142,an5.143,an5.144,an5.145,an5.146,an5.147,an5.148,an5.149,an5.150,an5.151,an5.152,an5.153			222	14886	an5-tikandakivagga,an5-saddhammavagga
+U00539	an5.154,an5.155,an5.156,an5.157,an5.158,an5.159,an5.160,an5.161			221	14395	an5-saddhammavagga,an5-aghatavagga
+U00540	an5.162,an5.163,an5.164,an5.165,an5.166			184	13973	an5-aghatavagga
+U00541	an5.167,an5.168,an5.169,an5.170,an5.171,an5.172,an5.173,an5.174			224	14294	an5-aghatavagga,an5-upasakavagga
+U00542	an5.175,an5.176,an5.177,an5.178,an5.179			226	12304	an5-upasakavagga
+U00543	an5.180,an5.181,an5.182,an5.183,an5.184,an5.185,an5.186,an5.187,an5.188,an5.189,an5.190,an5.191			200	12509	an5-upasakavagga,an5-arannavagga,an5-brahmanavagga
+U00544	an5.192			120	10261	an5-brahmanavagga
+U00545	an5.193,an5.194,an5.195			131	13173	an5-brahmanavagga
+U00546	an5.196,an5.197,an5.198,an5.199,an5.200,an5.201,an5.202,an5.203,an5.204,an5.205,an5.206,an5.207			192	14480	an5-brahmanavagga,an5-kimilavagga
+U00547	an5.208,an5.209,an5.210,an5.211,an5.212,an5.213,an5.214,an5.215,an5.216,an5.217,an5.218,an5.219,an5.220,an5.221,an5.222,an5.223,an5.224,an5.225,an5.226,an5.227,an5.228,an5.229,an5.230			311	14296	an5-kimilavagga,an5-akkosakavagga,an5-dighacarikavagga
+U00548	an5.231,an5.232,an5.233,an5.234,an5.235,an5.236,an5.237,an5.238,an5.239,an5.240,an5.241,an5.242,an5.243,an5.244,an5.245,an5.246,an5.247,an5.248,an5.249,an5.250,an5.251,an5.252			352	14621	an5-avasikavagga,an5-duccaritavagga,an5-upasampadavagga
+U00549	an5.253,an5.254,an5.255,an5.256,an5.257-263,an5.264,an5.265-271,an5.272,an5.273-285,an5.286,an5.287-292,an5.293,an5.294-302,an5.303,an5.304,an5.305,an5.306,an5.307,an5.308-1152,an6.1			240	12969	an5-upasampadavagga,an5-sammutipeyyala,an5-sikkhapadapeyyala,an5-ragapeyyala,an6-ahuneyyavagga
+U00550	an6.2,an6.3,an6.4,an6.5,an6.6,an6.7,an6.8,an6.9,an6.10,an6.11			178	13913	an6-ahuneyyavagga,an6-saraniyavagga
+U00551	an6.12,an6.13,an6.14,an6.15,an6.16			192	13753	an6-saraniyavagga
+U00552	an6.17,an6.18,an6.19,an6.20			215	14538	an6-saraniyavagga
+U00553	an6.21,an6.22,an6.23,an6.24,an6.25,an6.26			188	12574	an6-anuttariyavagga
+U00554	an6.27,an6.28,an6.29			134	11963	an6-anuttariyavagga
+U00555	an6.30,an6.31,an6.32,an6.33,an6.34,an6.35			167	13431	an6-anuttariyavagga,an6-pathamapannasaka-devatavagga
+U00556	an6.36,an6.37,an6.38,an6.39,an6.40,an6.41,an6.42			218	14246	an6-pathamapannasaka-devatavagga
+U00557	an6.43,an6.44,an6.45			275	14025	an6-dhammikavagga
+U00558	an6.46,an6.47,an6.48,an6.49,an6.50,an6.51,an6.52			181	13282	an6-dhammikavagga
+U00559	an6.53,an6.54			196	13773	an6-dhammikavagga
+U00560	an6.55,an6.56			166	12973	an6-mahavagga
+U00561	an6.57,an6.58,an6.59			165	13376	an6-mahavagga
+U00562	an6.60,an6.61			154	13132	an6-mahavagga
+U00563	an6.62			157	11774	an6-mahavagga
+U00564	an6.63			142	10397	an6-mahavagga
+U00565	an6.64,an6.65,an6.66,an6.67,an6.68,an6.69,an6.70,an6.71			174	14490	an6-mahavagga,an6-dutiyapannasaka-devatavagga
+U00566	an6.72,an6.73,an6.74,an6.75,an6.76,an6.77,an6.78,an6.79,an6.80,an6.81,an6.82,an6.83,an6.84,an6.85,an6.86,an6.87,an6.88,an6.89,an6.90,an6.91			238	14678	an6-dutiyapannasaka-devatavagga,an6-arahattavagga,an6-sitivagga
+U00567	an6.92,an6.93,an6.94,an6.95,an6.96,an6.97,an6.98,an6.99,an6.100,an6.101,an6.102,an6.103,an6.104,an6.105,an6.106,an6.107,an6.108,an6.109,an6.110,an6.111,an6.112,an6.113,an6.114,an6.115,an6.116,an6.117,an6.118,an6.119			314	14566	an6-sitivagga,an6-anisamsavagga,an6-tikavagga,an6-samannavagga
+U00568	an6.120-139,an6.140,an6.141,an6.142,an6.143-169,an6.170-649,an7.1,an7.2,an7.3,an7.4,an7.5,an7.6,an7.7,an7.8,an7.9,an7.10,an7.11,an7.12,an7.13,an7.14			367	14428	an6-samannavagga,an6-ragapeyyala,an7-dhanavagga,an7-anusayavagga
+U00569	an7.15,an7.16,an7.17,an7.18,an7.19,an7.20,an7.21			165	9071	an7-anusayavagga,an7-vajjisattakavagga
+U00570	an7.22,an7.23,an7.24,an7.25,an7.26,an7.27,an7.28,an7.29,an7.30			218	13994	an7-vajjisattakavagga
+U00571	an7.31,an7.32,an7.33,an7.34,an7.35,an7.36,an7.37,an7.38,an7.39,an7.40,an7.41,an7.42			276	13858	an7-vajjisattakavagga,an7-devatavagga
+U00572	an7.43,an7.44,an7.45,an7.46,an7.47,an7.48			166	12022	an7-devatavagga,an7-mahayannavagga
+U00573	an7.49,an7.50			132	13652	an7-mahayannavagga
+U00574	an7.51,an7.52,an7.53			193	13559	an7-mahayannavagga
+U00575	an7.54,an7.55			117	9415	an7-abyakatavagga
+U00576	an7.56,an7.57,an7.58			191	13751	an7-abyakatavagga
+U00577	an7.59,an7.60,an7.61,an7.62,an7.63			211	11938	an7-abyakatavagga
+U00578	an7.64,an7.65,an7.66			250	14639	an7-abyakatavagga,an7-mahavagga
+U00579	an7.67,an7.68			199	14357	an7-mahavagga
+U00580	an7.69,an7.70,an7.71			174	14698	an7-mahavagga
+U00581	an7.72,an7.73			101	12719	an7-mahavagga
+U00582	an7.74,an7.75,an7.76,an7.77,an7.78,an7.79,an7.80,an7.81,an7.82,an7.83,an7.84,an7.85,an7.86,an7.87,an7.88,an7.89,an7.90,an7.91,an7.92,an7.93,an7.94,an7.95			281	13820	an7-mahavagga,an7-vinayavagga,an7-samanavagga,an7-ahuneyyavagga
+U00583	an7.96-614,an7.615,an7.616,an7.617,an7.618-644,an7.645-1124,an8.1,an8.2,an8.3,an8.4,an8.5			313	13405	an7-ahuneyyavagga,an7-ragapeyyala,an8-mettavagga
+U00584	an8.6,an8.7,an8.8,an8.9			284	14956	an8-mettavagga
+U00585	an8.10,an8.11			188	14081	an8-mettavagga,an8-mahavagga
+U00586	an8.12			152	12800	an8-mahavagga
+U00587	an8.13,an8.14,an8.15,an8.16,an8.17,an8.18			207	11295	an8-mahavagga
+U00588	an8.19,an8.20			148	14823	an8-mahavagga
+U00589	an8.21,an8.22,an8.23			203	13610	an8-gahapativagga
+U00590	an8.24,an8.25,an8.26,an8.27,an8.28,an8.29			207	12832	an8-gahapativagga
+U00591	an8.30,an8.31,an8.32,an8.33,an8.34			198	14133	an8-gahapativagga,an8-danavagga
+U00592	an8.35,an8.36,an8.37,an8.38,an8.39,an8.40			197	13216	an8-danavagga
+U00593	an8.41,an8.42,an8.43			202	13553	an8-uposathavagga
+U00594	an8.44,an8.45,an8.46,an8.47,an8.48			225	14149	an8-uposathavagga
+U00595	an8.49,an8.50,an8.51			209	14227	an8-uposathavagga,an8-gotamivagga
+U00596	an8.52,an8.53,an8.54,an8.55			205	14022	an8-gotamivagga
+U00597	an8.56,an8.57,an8.58,an8.59,an8.60,an8.61,an8.62			234	12167	an8-gotamivagga,an8-bhumicalavagga
+U00598	an8.63,an8.64,an8.65,an8.66,an8.67,an8.68,an8.69			192	12542	an8-bhumicalavagga
+U00599	an8.70,an8.71,an8.72			136	12046	an8-bhumicalavagga,an8-yamakavagga
+U00600	an8.73,an8.74,an8.75,an8.76			199	12938	an8-yamakavagga
+U00601	an8.77,an8.78,an8.79,an8.80			231	13874	an8-yamakavagga
+U00602	an8.81,an8.82,an8.83,an8.84,an8.85,an8.86,an8.87,an8.88			187	14160	an8-sativagga
+U00603	an8.89,an8.90,an8.91-117,an8.118,an8.119,an8.120,an8.121-147,an8.148-627,an9.1,an9.2,an9.3			233	14954	an8-sativagga,an8-samannavagga,an8-ragapeyyala,an9-sambodhivagga
+U00604	an9.4,an9.5			131	9826	an9-sambodhivagga
+U00605	an9.6,an9.7,an9.8,an9.9,an9.10			147	10097	an9-sambodhivagga
+U00606	an9.11,an9.12			122	11699	an9-sihanadavagga
+U00607	an9.13,an9.14,an9.15,an9.16,an9.17,an9.18,an9.19			161	12635	an9-sihanadavagga
+U00608	an9.20,an9.21,an9.22,an9.23,an9.24,an9.25			197	13297	an9-sihanadavagga,an9-sattavasavagga
+U00609	an9.26,an9.27,an9.28,an9.29,an9.30,an9.31,an9.32			178	11279	an9-sattavasavagga,an9-mahavagga
+U00610	an9.33,an9.34			140	11509	an9-mahavagga
+U00611	an9.35,an9.36			181	14953	an9-mahavagga
+U00612	an9.37,an9.38,an9.39			171	10908	an9-mahavagga
+U00613	an9.40			39	4209	an9-mahavagga
+U00614	an9.41			177	17079	an9-mahavagga
+U00615	an9.42,an9.43,an9.44,an9.45,an9.46,an9.47,an9.48,an9.49,an9.50,an9.51,an9.52,an9.53,an9.54,an9.55,an9.56,an9.57,an9.58,an9.59,an9.60,an9.61,an9.62,an9.63,an9.64,an9.65,an9.66,an9.67,an9.68,an9.69,an9.70			325	14306	an9-samannavagga,an9-khemavagga,an9-satipatthanavagga
+U00616	an9.71,an9.72,an9.73,an9.74-81,an9.82,an9.83,an9.84-91,an9.92,an9.93,an9.94,an9.95-112,an9.113-432,an10.1,an10.2,an10.3,an10.4			302	13991	an9-satipatthanavagga,an9-sammappadhanavagga,an9-iddhipadavagga,an9-ragapeyyala,an10-anisamsavagga
+U00617	an10.5,an10.6,an10.7,an10.8,an10.9,an10.10,an10.11			153	13932	an10-anisamsavagga,an10-nathavagga
+U00618	an10.12,an10.13,an10.14,an10.15,an10.16,an10.17			167	12757	an10-nathavagga
+U00619	an10.18,an10.19,an10.20			123	9969	an10-nathavagga
+U00620	an10.21,an10.22,an10.23			163	12317	an10-mahavagga
+U00621	an10.24,an10.25,an10.26			250	8759	an10-mahavagga
+U00622	an10.27			112	9389	an10-mahavagga
+U00623	an10.28,an10.29			199	14173	an10-mahavagga
+U00624	an10.30,an10.31,an10.32,an10.33,an10.34,an10.35,an10.36,an10.37,an10.38,an10.39			179	14619	an10-mahavagga,an10-pathamapannasaka-upalivagga
+U00625	an10.40,an10.41,an10.42,an10.43,an10.44,an10.45,an10.46			234	13892	an10-pathamapannasaka-upalivagga,an10-akkosavagga
+U00626	an10.47,an10.48,an10.49,an10.50,an10.51,an10.52			144	13734	an10-akkosavagga,an10-sacittavagga
+U00627	an10.53,an10.54,an10.55			171	14819	an10-sacittavagga
+U00628	an10.56,an10.57,an10.58,an10.59,an10.60			121	10113	an10-sacittavagga
+U00629	an10.61,an10.62,an10.63,an10.64,an10.65,an10.66			217	13667	an10-yamakavagga
+U00630	an10.67,an10.68,an10.69,an10.70			222	13084	an10-yamakavagga
+U00631	an10.71,an10.72,an10.73,an10.74			92	7841	an10-akankhavagga
+U00632	an10.75			117	8506	an10-akankhavagga
+U00633	an10.76,an10.77,an10.78,an10.79,an10.80,an10.81,an10.82			217	14117	an10-akankhavagga,an10-theravagga
+U00634	an10.83,an10.84,an10.85			156	11114	an10-theravagga
+U00635	an10.86,an10.87,an10.88			137	11910	an10-theravagga
+U00636	an10.89,an10.90			137	8289	an10-theravagga
+U00637	an10.91,an10.92			135	12629	an10-dutiyapannasaka-upalivagga
+U00638	an10.93,an10.94			166	11741	an10-dutiyapannasaka-upalivagga
+U00639	an10.95,an10.96,an10.97,an10.98			187	11924	an10-dutiyapannasaka-upalivagga
+U00640	an10.99,an10.100,an10.101,an10.102,an10.103			204	14192	an10-dutiyapannasaka-upalivagga,an10-samanasannavagga
+U00641	an10.104,an10.105,an10.106,an10.107,an10.108,an10.109,an10.110,an10.111,an10.112			194	14798	an10-samanasannavagga
+U00642	an10.113,an10.114,an10.115,an10.116,an10.117			270	14879	an10-paccorohanivagga
+U00643	an10.118,an10.119,an10.120,an10.121,an10.122,an10.123,an10.124,an10.125,an10.126,an10.127,an10.128,an10.129,an10.130,an10.131,an10.132,an10.133,an10.134,an10.135,an10.136,an10.137,an10.138,an10.139,an10.140,an10.141,an10.142,an10.143,an10.144,an10.145,an10.146,an10.147			409	14925	an10-paccorohanivagga,an10-parisuddhavagga,an10-tatiyapannasaka-sadhuvagga,an10-ariyavagga
+U00644	an10.148,an10.149,an10.150,an10.151,an10.152,an10.153,an10.154,an10.155,an10.156-166,an10.167,an10.168,an10.169,an10.170,an10.171			327	12667	an10-ariyavagga,an10-puggalavagga,an10-janussonivagga
+U00645	an10.172,an10.173,an10.174,an10.175			202	12241	an10-janussonivagga
+U00646	an10.176,an10.177			161	14875	an10-janussonivagga
+U00647	an10.178,an10.179,an10.180,an10.181,an10.182,an10.183,an10.184,an10.185,an10.186,an10.187,an10.188,an10.189,an10.190,an10.191,an10.192,an10.193,an10.194,an10.195,an10.196,an10.197,an10.198,an10.199-210,an10.211			366	14047	an10-catutthapannasaka-sadhuvagga,an10-ariyamaggavagga,an10-ariyapuggalavagga,an10-karajakayavagga
+U00648	an10.212,an10.213,an10.214,an10.215,an10.216			183	8100	an10-karajakayavagga
+U00649	an10.217,an10.218,an10.219			132	13843	an10-karajakayavagga
+U00650	an10.220,an10.221,an10.222,an10.223,an10.224,an10.225-228,an10.229-232,an10.233-236,an10.237,an10.238,an10.239,an10.240-266,an10.267-746			230	13731	an10-karajakayavagga,an10-samannavagga,an10-ragapeyyala
+U00651	an11.1,an11.2,an11.3,an11.4,an11.5,an11.6			207	11711	an11-nissayavagga
+U00652	an11.7,an11.8,an11.9,an11.10			143	14197	an11-nissayavagga
+U00653	an11.11,an11.12,an11.13			176	14101	an11-anussativagga
+U00654	an11.14,an11.15			62	8029	an11-anussativagga
+U00655	an11.16			72	7413	an11-anussativagga
+U00656	an11.17,an11.18,an11.19,an11.20			147	14353	an11-anussativagga
+U00657	an11.21,an11.22-29,an11.30-69,an11.70-117,an11.118-165,an11.166-213,an11.214-261,an11.262-309,an11.310-357,an11.358-405,an11.406-453,an11.454-501,an11.502-981,an11.982,an11.983-991,an11.992-1151			226	6359	an11-anussativagga,an11-samannavagga,an11-ragapeyyala
+U00658	snp1.1,snp1.2,snp1.3,snp1.4,snp1.5			429	13908	snp-uragavagga
+U00659	snp1.6,snp1.7,snp1.8,snp1.9,snp1.10,snp1.11			555	13906	snp-uragavagga
+U00660	snp1.12,snp2.1,snp2.2,snp2.3,snp2.4,snp2.5,snp2.6			389	11117	snp-uragavagga,snp-culavagga
+U00661	snp2.7,snp2.8,snp2.9,snp2.10,snp2.11,snp2.12,snp2.13			429	11918	snp-culavagga
+U00662	snp2.14,snp3.1,snp3.2,snp3.3			359	9572	snp-culavagga,snp-mahavagga
+U00663	snp3.4,snp3.5			286	9908	snp-mahavagga
+U00664	snp3.6			223	8838	snp-mahavagga
+U00665	snp3.7,snp3.8			291	12116	snp-mahavagga
+U00666	snp3.9,snp3.10			432	13688	snp-mahavagga
+U00667	snp3.11,snp3.12			501	14874	snp-mahavagga
+U00668	snp4.1,snp4.2,snp4.3,snp4.4,snp4.5,snp4.6,snp4.7,snp4.8,snp4.9,snp4.10,snp4.11			497	13131	snp-atthakavagga
+U00669	snp4.12,snp4.13,snp4.14,snp4.15,snp4.16			423	11129	snp-atthakavagga
+U00670	snp5.1,snp5.2,snp5.3,snp5.4,snp5.5,snp5.6,snp5.7,snp5.8,snp5.9,snp5.10,snp5.11,snp5.12			613	14822	snp-parayanavagga
+U00671	snp5.13,snp5.14,snp5.15,snp5.16,snp5.17,snp5.18,snp5.19			338	8591	snp-parayanavagga
+U00672	dhp1-20,dhp21-32,dhp33-43,dhp44-59,dhp60-75,dhp76-89,dhp90-99,dhp100-115			614	13508	dhp
+U00673	dhp116-128,dhp129-145,dhp146-156,dhp157-166,dhp167-178,dhp179-196,dhp197-208,dhp209-220,dhp221-234			619	13503	dhp
+U00674	dhp235-255,dhp256-272,dhp273-289,dhp290-305,dhp306-319,dhp320-333,dhp334-359			618	13945	dhp
+U00675	dhp360-382,dhp383-423			383	9006	dhp
+U00676	ud1.1,ud1.2,ud1.3,ud1.4,ud1.5,ud1.6,ud1.7,ud1.8,ud1.9,ud1.10			276	14106	ud-bodhivagga
+U00677	ud2.1,ud2.2,ud2.3,ud2.4,ud2.5,ud2.6,ud2.7			142	8739	ud-mucalindavagga
+U00678	ud2.8,ud2.9,ud2.10,ud3.1			169	11144	ud-mucalindavagga,ud-nandavagga
+U00679	ud3.2,ud3.3,ud3.4,ud3.5,ud3.6			189	14143	ud-nandavagga
+U00680	ud3.7,ud3.8,ud3.9,ud3.10			186	9151	ud-nandavagga
+U00681	ud4.1,ud4.2,ud4.3,ud4.4			178	12944	ud-meghiyavagga
+U00682	ud4.5,ud4.6,ud4.7,ud4.8,ud4.9,ud4.10,ud5.1,ud5.2			215	13286	ud-meghiyavagga,ud-sonavagga
+U00683	ud5.3,ud5.4			84	5454	ud-sonavagga
+U00684	ud5.5			109	11654	ud-sonavagga
+U00685	ud5.6,ud5.7,ud5.8,ud5.9,ud5.10			147	9859	ud-sonavagga
+U00686	ud6.1,ud6.2,ud6.3			106	11141	ud-jaccandhavagga
+U00687	ud6.4,ud6.5,ud6.6,ud6.7			245	13892	ud-jaccandhavagga
+U00688	ud6.8,ud6.9,ud6.10,ud7.1,ud7.2,ud7.3,ud7.4,ud7.5,ud7.6,ud7.7,ud7.8,ud7.9,ud7.10,ud8.1,ud8.2			256	14667	ud-jaccandhavagga,ud-culavagga,ud-pataligamiyavagga
+U00689	ud8.3,ud8.4,ud8.5			126	8580	ud-pataligamiyavagga
+U00690	ud8.6,ud8.7,ud8.8,ud8.9			212	13976	ud-pataligamiyavagga
+U00691	ud8.10			41	1517	ud-pataligamiyavagga
+U00692	iti1,iti2,iti3,iti4,iti5,iti6,iti7,iti8,iti9,iti10,iti11,iti12,iti13,iti14,iti15,iti16,iti17,iti18,iti19,iti20,iti21,iti22,iti23			470	14640	iti-ekakanipata-pathamavagga,iti-ekakanipata-dutiyavagga,iti-ekakanipata-tatiyavagga
+U00693	iti24,iti25,iti26,iti27,iti28,iti29,iti30,iti31,iti32,iti33,iti34,iti35,iti36,iti37,iti38,iti39,iti40			431	14270	iti-ekakanipata-tatiyavagga,iti-dukanipata-pathamavagga,iti-dukanipata-dutiyavagga
+U00694	iti41,iti42,iti43,iti44,iti45,iti46,iti47,iti48,iti49,iti50,iti51,iti52,iti53,iti54,iti55,iti56,iti57,iti58,iti59,iti60			475	14506	iti-dukanipata-dutiyavagga,iti-tikanipata-pathamavagga,iti-tikanipata-dutiyavagga
+U00695	iti61,iti62,iti63,iti64,iti65,iti66,iti67,iti68,iti69,iti70,iti71,iti72,iti73,iti74,iti75,iti76,iti77			444	14571	iti-tikanipata-dutiyavagga,iti-tikanipata-tatiyavagga
+U00696	iti78,iti79,iti80,iti81,iti82,iti83,iti84,iti85,iti86,iti87,iti88			352	14628	iti-tikanipata-tatiyavagga,iti-catutthavagga
+U00697	iti89,iti90,iti91,iti92,iti93,iti94,iti95,iti96,iti97,iti98,iti99,iti100			388	14568	iti-catutthavagga,iti-pancamavagga,iti-brahmanadhammayagavagga
+U00698	iti101,iti102,iti103,iti104,iti105,iti106,iti107,iti108,iti109,iti110			298	13585	iti-brahmanadhammayagavagga
+U00699	iti111,iti112			103	4655	iti-brahmanadhammayagavagga
+U00700	thag1.1,thag1.2,thag1.3,thag1.4,thag1.5,thag1.6,thag1.7,thag1.8,thag1.9,thag1.10,thag1.11,thag1.12,thag1.13,thag1.14,thag1.15,thag1.16,thag1.17,thag1.18,thag1.19,thag1.20,thag1.21,thag1.22,thag1.23,thag1.24,thag1.25,thag1.26,thag1.27,thag1.28,thag1.29,thag1.30,thag1.31,thag1.32,thag1.33,thag1.34,thag1.35,thag1.36,thag1.37,thag1.38,thag1.39,thag1.40,thag1.41,thag1.42,thag1.43,thag1.44,thag1.45,thag1.46,thag1.47,thag1.48,thag1.49,thag1.50,thag1.51,thag1.52,thag1.53,thag1.54,thag1.55,thag1.56,thag1.57,thag1.58,thag1.59,thag1.60,thag1.61,thag1.62,thag1.63,thag1.64,thag1.65,thag1.66,thag1.67,thag1.68,thag1.69,thag1.70,thag1.71			731	14892	thag-ekakanipata-pathamavagga,thag-ekakanipata-dutiyavagga,thag-ekakanipata-tatiyavagga,thag-ekakanipata-catutthavagga,thag-ekakanipata-pancamavagga,thag-chatthavagga,thag-sattamavagga,thag-atthamavagga
+U00701	thag1.72,thag1.73,thag1.74,thag1.75,thag1.76,thag1.77,thag1.78,thag1.79,thag1.80,thag1.81,thag1.82,thag1.83,thag1.84,thag1.85,thag1.86,thag1.87,thag1.88,thag1.89,thag1.90,thag1.91,thag1.92,thag1.93,thag1.94,thag1.95,thag1.96,thag1.97,thag1.98,thag1.99,thag1.100,thag1.101,thag1.102,thag1.103,thag1.104,thag1.105,thag1.106,thag1.107,thag1.108,thag1.109,thag1.110,thag1.111,thag1.112,thag1.113,thag1.114,thag1.115,thag1.116,thag1.117,thag1.118,thag1.119,thag1.120,thag2.1,thag2.2,thag2.3,thag2.4,thag2.5,thag2.6,thag2.7,thag2.8,thag2.9,thag2.10,thag2.11,thag2.12,thag2.13,thag2.14,thag2.15,thag2.16,thag2.17,thag2.18,thag2.19			755	14900	thag-atthamavagga,thag-navamavagga,thag-dasamavagga,thag-ekadasamavagga,thag-dvadasamavagga,thag-dukanipata-pathamavagga,thag-dukanipata-dutiyavagga
+U00702	thag2.20,thag2.21,thag2.22,thag2.23,thag2.24,thag2.25,thag2.26,thag2.27,thag2.28,thag2.29,thag2.30,thag2.31,thag2.32,thag2.33,thag2.34,thag2.35,thag2.36,thag2.37,thag2.38,thag2.39,thag2.40,thag2.41,thag2.42,thag2.43,thag2.44,thag2.45,thag2.46,thag2.47,thag2.48,thag2.49,thag3.1,thag3.2,thag3.3,thag3.4,thag3.5,thag3.6,thag3.7,thag3.8,thag3.9,thag3.10,thag3.11,thag3.12,thag3.13,thag3.14,thag3.15,thag3.16			724	14755	thag-dukanipata-dutiyavagga,thag-dukanipata-tatiyavagga,thag-dukanipata-catutthavagga,thag-dukanipata-pancamavagga,thag-tikanipata-pathamavagga
+U00703	thag4.1,thag4.2,thag4.3,thag4.4,thag4.5,thag4.6,thag4.7,thag4.8,thag4.9,thag4.10,thag4.11,thag4.12,thag5.1,thag5.2,thag5.3,thag5.4,thag5.5,thag5.6,thag5.7,thag5.8,thag5.9,thag5.10,thag5.11,thag5.12,thag6.1,thag6.2,thag6.3,thag6.4			688	14650	thag-catukkanipata-pathamavagga,thag-pancakanipata-pathamavagga,thag-chakkanipata-pathamavagga
+U00704	thag6.5,thag6.6,thag6.7,thag6.8,thag6.9,thag6.10,thag6.11,thag6.12,thag6.13,thag6.14,thag7.1,thag7.2,thag7.3,thag7.4,thag7.5,thag8.1,thag8.2,thag8.3,thag9.1			653	13988	thag-chakkanipata-pathamavagga,thag-sattakanipata-pathamavagga,thag-atthakanipata-pathamavagga,thag-navakanipata-pathamavagga
+U00705	thag10.1,thag10.2,thag10.3,thag10.4,thag10.5,thag10.6,thag10.7,thag11.1,thag12.1,thag12.2,thag13.1,thag14.1,thag14.2			691	14977	thag-dasakanipata-pathamavagga,thag-ekadasakanipata-pathamavagga,thag-dvadasakanipata-pathamavagga,thag-terasanipata-pathamavagga,thag-cuddasakanipata-pathamavagga
+U00706	thag15.1,thag15.2,thag16.1,thag16.2,thag16.3,thag16.4,thag16.5			647	14278	thag-solasakanipata-pathamavagga,thag-visatinipata-pathamavagga
+U00707	thag16.6,thag16.7,thag16.8,thag16.9,thag16.10,thag17.1			698	13870	thag-visatinipata-pathamavagga,thag-timsanipata-pathamavagga
+U00708	thag17.2,thag17.3,thag18.1			493	10275	thag-timsanipata-pathamavagga,thag-cattalisanipata-pathamavagga
+U00709	thag19.1,thag20.1			530	13454	thag-pannasanipata-pathamavagga,thag-satthinipata-pathamavagga
+U00710	thag21.1			309	7453	thag-mahanipata-pathamavagga
+U00711	thig1.1,thig1.2,thig1.3,thig1.4,thig1.5,thig1.6,thig1.7,thig1.8,thig1.9,thig1.10,thig1.11,thig1.12,thig1.13,thig1.14,thig1.15,thig1.16,thig1.17,thig1.18,thig2.1,thig2.2,thig2.3,thig2.4,thig2.5,thig2.6,thig2.7,thig2.8,thig2.9,thig2.10,thig3.1,thig3.2,thig3.3,thig3.4,thig3.5,thig3.6,thig3.7,thig3.8,thig4.1,thig5.1,thig5.2,thig5.3,thig5.4,thig5.5,thig5.6,thig5.7,thig5.8,thig5.9,thig5.10,thig5.11			713	14738	thig-ekakanipata,thig-dukanipata,thig-tikanipata,thig-catukkanipata,thig-pancakanipata
+U00712	thig5.12,thig6.1,thig6.2,thig6.3,thig6.4,thig6.5,thig6.6,thig6.7,thig6.8,thig7.1,thig7.2,thig7.3,thig8.1,thig9.1,thig10.1,thig11.1,thig12.1,thig13.1			682	14989	thig-pancakanipata,thig-chakkanipata,thig-sattakanipata,thig-atthakanipata,thig-navakanipata,thig-ekadasanipata,thig-dvadasakanipata,thig-solasakanipata,thig-visatinipata
+U00713	thig13.2,thig13.3,thig13.4,thig13.5,thig14.1			563	12764	thig-visatinipata,thig-timsanipata
+U00714	thig15.1,thig16.1			508	12097	thig-cattalisanipata,thig-mahanipata
+U00715	kp1,kp2,kp3,kp4,kp5,kp6,kp7,kp8,kp9,vv1,vv2,vv3,vv4,vv5			562	14091	kp,vv-pithavagga
+U00716	vv6,vv7,vv8,vv9,vv10,vv11,vv12,vv13,vv14,vv15,vv16,vv17			528	13597	vv-pithavagga
+U00717	vv18,vv19,vv20,vv21,vv22,vv23,vv24,vv25,vv26,vv27,vv28,vv29,vv30,vv31			651	14621	vv-cittalatavagga,vv-paricchattakavagga
+U00718	vv32,vv33,vv34,vv35			598	14187	vv-paricchattakavagga
+U00719	vv36,vv37,vv38,vv39,vv40,vv41,vv42,vv43,vv44,vv45,vv46,vv47,vv48			638	14632	vv-paricchattakavagga,vv-manjitthakavagga
+U00720	vv49,vv50,vv51,vv52,vv53,vv54,vv55,vv56,vv57,vv58,vv59,vv60			602	14694	vv-manjitthakavagga,vv-maharathavagga
+U00721	vv61,vv62,vv63,vv64,vv65,vv66,vv67,vv68,vv69,vv70,vv71,vv72,vv73,vv74			590	14850	vv-maharathavagga,vv-payasivagga
+U00722	vv75,vv76,vv77,vv78,vv79,vv80,vv81,vv82,vv83			478	11495	vv-sunikkhittavagga
+U00723	vv84,vv85,pv1,pv2,pv3,pv4,pv5,pv6,pv7,pv8,pv9			550	14146	vv-sunikkhittavagga,pv-uragavagga
+U00724	pv10,pv11,pv12,pv13,pv14,pv15,pv16			566	12768	pv-uragavagga,pv-ubbarivagga
+U00725	pv17,pv18,pv19,pv20,pv21			613	14388	pv-ubbarivagga
+U00726	pv22,pv23,pv24,pv25,pv26,pv27,pv28,pv29,pv30			602	13782	pv-ubbarivagga,pv-culavagga
+U00727	pv31,pv32,pv33,pv34,pv35			257	5778	pv-culavagga
+U00728	pv36			362	10740	pv-mahavagga
+U00729	pv37,pv38,pv39			571	14599	pv-mahavagga
+U00730	pv40,pv41,pv42,pv43,pv44,pv45,pv46,pv47,pv48,pv49,pv50,pv51			380	8677	pv-mahavagga
+U00731	tha-ap1,tha-ap2			573	14193	tha-buddhavagga
+U00732	tha-ap3	tha-ap3:0.1	tha-ap3:152.4	605	12753	tha-buddhavagga
+U00733	tha-ap3	tha-ap3:153.1	tha-ap3:238.1	338	7181	tha-buddhavagga
+U00734	tha-ap4,tha-ap5,tha-ap6,tha-ap7			288	6309	tha-buddhavagga
+U00735	tha-ap8,tha-ap9			699	14887	tha-buddhavagga
+U00736	tha-ap10,tha-ap11,tha-ap12,tha-ap13,tha-ap14,tha-ap15,tha-ap16,tha-ap17,tha-ap18,tha-ap19			649	14294	tha-buddhavagga,tha-sihasaniyavagga
+U00737	tha-ap20,tha-ap21,tha-ap22,tha-ap23,tha-ap24			639	13786	tha-sihasaniyavagga,tha-subhutivagga
+U00738	tha-ap25,tha-ap26,tha-ap27,tha-ap28,tha-ap29,tha-ap30,tha-ap31,tha-ap32,tha-ap33,tha-ap34,tha-ap35,tha-ap36			652	14274	tha-subhutivagga,tha-kundadhanavagga
+U00739	tha-ap37,tha-ap38,tha-ap39,tha-ap40,tha-ap41,tha-ap42,tha-ap43,tha-ap44,tha-ap45,tha-ap46,tha-ap47,tha-ap48,tha-ap49,tha-ap50			669	14737	tha-kundadhanavagga,tha-upalivagga
+U00740	tha-ap51,tha-ap52,tha-ap53,tha-ap54,tha-ap55,tha-ap56,tha-ap57,tha-ap58,tha-ap59,tha-ap60,tha-ap61,tha-ap62,tha-ap63,tha-ap64			664	14457	tha-upalivagga,tha-bijanivagga,tha-sakacintaniyavagga
+U00741	tha-ap65,tha-ap66,tha-ap67,tha-ap68,tha-ap69,tha-ap70,tha-ap71,tha-ap72,tha-ap73,tha-ap74,tha-ap75,tha-ap76,tha-ap77,tha-ap78,tha-ap79,tha-ap80,tha-ap81,tha-ap82,tha-ap83			677	14992	tha-sakacintaniyavagga,tha-nagasamalavagga,tha-timiravagga
+U00742	tha-ap84,tha-ap85,tha-ap86,tha-ap87,tha-ap88,tha-ap89,tha-ap90,tha-ap91,tha-ap92,tha-ap93,tha-ap94,tha-ap95,tha-ap96,tha-ap97,tha-ap98,tha-ap99,tha-ap100,tha-ap101,tha-ap102,tha-ap103,tha-ap104,tha-ap105,tha-ap106,tha-ap107			665	14862	tha-timiravagga,tha-sudhavagga,tha-bhikkhadayivagga
+U00743	tha-ap108,tha-ap109,tha-ap110,tha-ap111,tha-ap112,tha-ap113,tha-ap114,tha-ap115,tha-ap116,tha-ap117,tha-ap118,tha-ap119,tha-ap120,tha-ap121,tha-ap122,tha-ap123			631	13902	tha-bhikkhadayivagga,tha-mahaparivaravagga,tha-sereyyavagga
+U00744	tha-ap124,tha-ap125,tha-ap126,tha-ap127,tha-ap128,tha-ap129,tha-ap130,tha-ap131,tha-ap132,tha-ap133,tha-ap134,tha-ap135,tha-ap136,tha-ap137,tha-ap138,tha-ap139			674	14825	tha-sereyyavagga,tha-sobhitavagga
+U00745	tha-ap140,tha-ap141,tha-ap142,tha-ap143,tha-ap144,tha-ap145,tha-ap146,tha-ap147,tha-ap148,tha-ap149,tha-ap150,tha-ap151,tha-ap152,tha-ap153,tha-ap154,tha-ap155,tha-ap156,tha-ap157,tha-ap158,tha-ap159,tha-ap160,tha-ap161,tha-ap162,tha-ap163			657	14847	tha-sobhitavagga,tha-chattavagga,tha-bandhujivakavagga,tha-suparicariyavagga
+U00746	tha-ap164,tha-ap165,tha-ap166,tha-ap167,tha-ap168,tha-ap169,tha-ap170,tha-ap171,tha-ap172,tha-ap173,tha-ap174,tha-ap175,tha-ap176,tha-ap177,tha-ap178,tha-ap179,tha-ap180,tha-ap181,tha-ap182,tha-ap183,tha-ap184,tha-ap185,tha-ap186,tha-ap187,tha-ap188			635	14320	tha-suparicariyavagga,tha-kumudavagga,tha-kutajapupphiyavagga
+U00747	tha-ap189,tha-ap190,tha-ap191,tha-ap192,tha-ap193,tha-ap194,tha-ap195,tha-ap196,tha-ap197,tha-ap198,tha-ap199,tha-ap200,tha-ap201,tha-ap202,tha-ap203,tha-ap204,tha-ap205,tha-ap206,tha-ap207,tha-ap208,tha-ap209,tha-ap210,tha-ap211			637	14475	tha-kutajapupphiyavagga,tha-tamalapupphiyavagga,tha-kanikarapupphiyavagga
+U00748	tha-ap212,tha-ap213,tha-ap214,tha-ap215,tha-ap216,tha-ap217,tha-ap218,tha-ap219,tha-ap220,tha-ap221,tha-ap222,tha-ap223,tha-ap224,tha-ap225,tha-ap226,tha-ap227,tha-ap228,tha-ap229,tha-ap230,tha-ap231,tha-ap232,tha-ap233,tha-ap234,tha-ap235,tha-ap236			644	14573	tha-kanikarapupphiyavagga,tha-hatthivagga,tha-alambanadayakavagga,tha-udakasanavagga
+U00749	tha-ap237,tha-ap238,tha-ap239,tha-ap240,tha-ap241,tha-ap242,tha-ap243,tha-ap244,tha-ap245,tha-ap246,tha-ap247,tha-ap248,tha-ap249,tha-ap250,tha-ap251,tha-ap252,tha-ap253,tha-ap254,tha-ap255,tha-ap256,tha-ap257,tha-ap258,tha-ap259,tha-ap260,tha-ap261,tha-ap262,tha-ap263,tha-ap264,tha-ap265,tha-ap266,tha-ap267,tha-ap268			647	14836	tha-udakasanavagga,tha-tuvaradayakavagga,tha-thomakavagga,tha-padumukkhipavagga
+U00750	tha-ap269,tha-ap270,tha-ap271,tha-ap272,tha-ap273,tha-ap274,tha-ap275,tha-ap276,tha-ap277,tha-ap278,tha-ap279,tha-ap280,tha-ap281,tha-ap282,tha-ap283,tha-ap284,tha-ap285,tha-ap286,tha-ap287,tha-ap288,tha-ap289,tha-ap290,tha-ap291,tha-ap292,tha-ap293,tha-ap294,tha-ap295,tha-ap296			644	14779	tha-padumukkhipavagga,tha-suvannabibbohanavagga,tha-pannadayakavagga,tha-citakapujakavagga
+U00751	tha-ap297,tha-ap298,tha-ap299,tha-ap300,tha-ap301,tha-ap302,tha-ap303,tha-ap304,tha-ap305,tha-ap306,tha-ap307,tha-ap308,tha-ap309,tha-ap310,tha-ap311,tha-ap312,tha-ap313,tha-ap314,tha-ap315,tha-ap316,tha-ap317,tha-ap318,tha-ap319,tha-ap320,tha-ap321			653	14874	tha-citakapujakavagga,tha-padumakesaravagga,tha-arakkhadayakavagga
+U00752	tha-ap322,tha-ap323,tha-ap324,tha-ap325,tha-ap326,tha-ap327,tha-ap328,tha-ap329,tha-ap330,tha-ap331,tha-ap332,tha-ap333,tha-ap334,tha-ap335,tha-ap336			667	14861	tha-arakkhadayakavagga,tha-umapupphiyavagga,tha-gandhodakavagga
+U00753	tha-ap337,tha-ap338,tha-ap339,tha-ap340,tha-ap341,tha-ap342,tha-ap343,tha-ap344,tha-ap345,tha-ap346,tha-ap347,tha-ap348,tha-ap349			672	14760	tha-gandhodakavagga,tha-ekapadumiyavagga
+U00754	tha-ap350,tha-ap351,tha-ap352,tha-ap353,tha-ap354,tha-ap355,tha-ap356,tha-ap357,tha-ap358,tha-ap359,tha-ap360,tha-ap361,tha-ap362,tha-ap363,tha-ap364,tha-ap365,tha-ap366,tha-ap367,tha-ap368,tha-ap369,tha-ap370,tha-ap371,tha-ap372,tha-ap373,tha-ap374,tha-ap375,tha-ap376			639	14842	tha-ekapadumiyavagga,tha-saddasannakavagga,tha-mandaravapupphiyavagga,tha-bodhivandanavagga
+U00755	tha-ap377,tha-ap378,tha-ap379,tha-ap380,tha-ap381,tha-ap382,tha-ap383,tha-ap384,tha-ap385,tha-ap386,tha-ap387,tha-ap388,tha-ap389,tha-ap390,tha-ap391,tha-ap392			577	12322	tha-bodhivandanavagga,tha-avataphalavagga
+U00756	tha-ap393			906	19350	tha-pilindavacchavagga
+U00757	tha-ap394,tha-ap395,tha-ap396			589	12511	tha-pilindavacchavagga
+U00758	tha-ap397,tha-ap398,tha-ap399,tha-ap400,tha-ap401,tha-ap402			705	14972	tha-pilindavacchavagga
+U00759	tha-ap403,tha-ap404,tha-ap405,tha-ap406,tha-ap407			659	13825	tha-metteyyavagga
+U00760	tha-ap408,tha-ap409,tha-ap410,tha-ap411			689	14481	tha-metteyyavagga
+U00761	tha-ap412,tha-ap413,tha-ap414,tha-ap415,tha-ap416			692	14674	tha-metteyyavagga,tha-bhaddalivagga
+U00762	tha-ap417,tha-ap418,tha-ap419,tha-ap420,tha-ap421,tha-ap422,tha-ap423,tha-ap424,tha-ap425,tha-ap426,tha-ap427,tha-ap428			701	14981	tha-bhaddalivagga,tha-sakimsammajjakavagga
+U00763	tha-ap429,tha-ap430,tha-ap431,tha-ap432,tha-ap433,tha-ap434,tha-ap435,tha-ap436,tha-ap437,tha-ap438,tha-ap439,tha-ap440,tha-ap441			698	14933	tha-sakimsammajjakavagga,tha-ekaviharivagga
+U00764	tha-ap442,tha-ap443,tha-ap444,tha-ap445,tha-ap446,tha-ap447,tha-ap448,tha-ap449,tha-ap450,tha-ap451,tha-ap452,tha-ap453,tha-ap454,tha-ap455,tha-ap456,tha-ap457,tha-ap458,tha-ap459,tha-ap460,tha-ap461,tha-ap462			695	14843	tha-ekaviharivagga,tha-vibhitakavagga,tha-jagatidayakavagga
+U00765	tha-ap463,tha-ap464,tha-ap465,tha-ap466,tha-ap467,tha-ap468,tha-ap469,tha-ap470,tha-ap471,tha-ap472,tha-ap473,tha-ap474,tha-ap475,tha-ap476,tha-ap477,tha-ap478,tha-ap479,tha-ap480			620	13406	tha-salakusumiyavagga,tha-nalamalivagga
+U00766	tha-ap481,tha-ap482,tha-ap483,tha-ap484,tha-ap485,tha-ap486,tha-ap487,tha-ap488			574	12212	tha-nalamalivagga,tha-pamsukulavagga
+U00767	tha-ap489,tha-ap490,tha-ap491,tha-ap492,tha-ap493,tha-ap494,tha-ap495,tha-ap496,tha-ap497,tha-ap498			673	14453	tha-pamsukulavagga,tha-kinkanipupphavagga
+U00768	tha-ap499,tha-ap500,tha-ap501,tha-ap502,tha-ap503,tha-ap504,tha-ap505,tha-ap506,tha-ap507,tha-ap508,tha-ap509,tha-ap510,tha-ap511,tha-ap512			699	14949	tha-kinkanipupphavagga,tha-kanikaravagga
+U00769	tha-ap513,tha-ap514,tha-ap515,tha-ap516,tha-ap517,tha-ap518,tha-ap519,tha-ap520,tha-ap521,tha-ap522,tha-ap523,tha-ap524,tha-ap525,tha-ap526,tha-ap527,tha-ap528,tha-ap529,tha-ap530			677	14603	tha-phaladayakavagga,tha-tinadayakavagga
+U00770	tha-ap531,tha-ap532,tha-ap533,tha-ap534,tha-ap535			663	13920	tha-tinadayakavagga,tha-kaccayanavagga
+U00771	tha-ap536,tha-ap537,tha-ap538,tha-ap539			581	12382	tha-kaccayanavagga
+U00772	tha-ap540,tha-ap541,tha-ap542,tha-ap543,tha-ap544			683	14436	tha-kaccayanavagga,tha-bhaddiyavagga
+U00773	tha-ap545,tha-ap546,tha-ap547,tha-ap548,tha-ap549			697	14612	tha-bhaddiyavagga
+U00774	tha-ap550,tha-ap551,tha-ap552,tha-ap553,tha-ap554,tha-ap555,tha-ap556,tha-ap557			596	12545	tha-bhaddiyavagga,tha-yasavagga
+U00775	tha-ap558,tha-ap559,tha-ap560,tha-ap561,tha-ap562,tha-ap563,thi-ap1,thi-ap2			698	14798	tha-yasavagga,thi-sumedhavagga
+U00776	thi-ap3,thi-ap4,thi-ap5,thi-ap6,thi-ap7,thi-ap8,thi-ap9,thi-ap10,thi-ap11,thi-ap12,thi-ap13,thi-ap14			696	14623	thi-sumedhavagga,thi-ekuposathikavagga
+U00777	thi-ap15,thi-ap16			148	3084	thi-ekuposathikavagga
+U00778	thi-ap17			771	16387	thi-ekuposathikavagga
+U00779	thi-ap18			383	8023	thi-ekuposathikavagga
+U00780	thi-ap19,thi-ap20			526	11093	thi-ekuposathikavagga
+U00781	thi-ap21,thi-ap22,thi-ap23,thi-ap24			672	14274	thi-kundalakesivagga
+U00782	thi-ap25,thi-ap26,thi-ap27			598	12514	thi-kundalakesivagga
+U00783	thi-ap28,thi-ap29			455	9652	thi-kundalakesivagga
+U00784	thi-ap30,thi-ap31,thi-ap32,thi-ap33			588	12763	thi-kundalakesivagga,thi-khattiyavagga
+U00785	thi-ap34,thi-ap35,thi-ap36,thi-ap37,thi-ap38,thi-ap39,thi-ap40			651	13622	thi-khattiyavagga
+U00786	bv1			334	7734	bv
+U00787	bv2			775	16993	bv
+U00788	bv3,bv4,bv5,bv6,bv7			676	14168	bv
+U00789	bv8,bv9,bv10,bv11,bv12			618	12872	bv
+U00790	bv13,bv14,bv15,bv16,bv17,bv18			688	14407	bv
+U00791	bv19,bv20,bv21,bv22,bv23			612	12948	bv
+U00792	bv24,bv25,bv26,bv27,bv28,bv29			705	14884	bv
+U00793	cp1,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9,cp10,cp11			691	14629	cp-danaparami,cp-silaparami
+U00794	cp12,cp13,cp14,cp15,cp16,cp17,cp18,cp19,cp20,cp21,cp22,cp23,cp24,cp25,cp26,cp27			703	14918	cp-silaparami,cp-nekkhammaparami,cp-aditthanaparami,cp-saccaparami
+U00795	cp28,cp29,cp30,cp31,cp32,cp33,cp34,cp35,ja1,ja2,ja3,ja4,ja5,ja6,ja7,ja8,ja9,ja10,ja11,ja12,ja13,ja14,ja15,ja16,ja17,ja18,ja19,ja20,ja21,ja22,ja23,ja24,ja25,ja26,ja27,ja28,ja29,ja30,ja31,ja32,ja33,ja34,ja35,ja36,ja37,ja38,ja39,ja40,ja41,ja42,ja43,ja44,ja45			741	14903	cp-saccaparami,cp-mettaparami,cp-upekkhaparami,ja-apannakavagga,ja-silavagga,ja-kurungavagga,ja-kulavakavagga,ja-atthakamavagga
+U00796	ja46,ja47,ja48,ja49,ja50,ja51,ja52,ja53,ja54,ja55,ja56,ja57,ja58,ja59,ja60,ja61,ja62,ja63,ja64,ja65,ja66,ja67,ja68,ja69,ja70,ja71,ja72,ja73,ja74,ja75,ja76,ja77,ja78,ja79,ja80,ja81,ja82,ja83,ja84,ja85,ja86,ja87,ja88,ja89,ja90,ja91,ja92,ja93,ja94,ja95,ja96,ja97,ja98,ja99,ja100,ja101,ja102,ja103,ja104,ja105,ja106,ja107,ja108,ja109,ja110,ja111,ja112,ja113,ja114,ja115,ja116,ja117,ja118,ja119,ja120,ja121,ja122,ja123,ja124			777	14894	ja-atthakamavagga,ja-asisavagga,ja-itthivagga,ja-varunavagga,ja-apayimhavagga,ja-littavagga,ja-parosatavagga,ja-hamcivagga,ja-kusanalivagga
+U00797	ja125,ja126,ja127,ja128,ja129,ja130,ja131,ja132,ja133,ja134,ja135,ja136,ja137,ja138,ja139,ja140,ja141,ja142,ja143,ja144,ja145,ja146,ja147,ja148,ja149,ja150,ja151,ja152,ja153,ja154,ja155,ja156,ja157,ja158,ja159,ja160,ja161,ja162,ja163,ja164,ja165,ja166,ja167,ja168,ja169,ja170,ja171,ja172,ja173,ja174,ja175,ja176,ja177,ja178,ja179,ja180,ja181,ja182,ja183			735	14916	ja-kusanalivagga,ja-asampadanavagga,ja-kakantakavagga,ja-dalhavagga,ja-santhavavagga,ja-kalyanavagga,ja-asadisavagga
+U00798	ja184,ja185,ja186,ja187,ja188,ja189,ja190,ja191,ja192,ja193,ja194,ja195,ja196,ja197,ja198,ja199,ja200,ja201,ja202,ja203,ja204,ja205,ja206,ja207,ja208,ja209,ja210,ja211,ja212,ja213,ja214,ja215,ja216,ja217,ja218,ja219,ja220,ja221,ja222,ja223,ja224,ja225,ja226,ja227,ja228,ja229,ja230,ja231,ja232,ja233			717	14958	ja-asadisavagga,ja-ruhakavagga,ja-natamdalhavagga,ja-biranathambhavagga,ja-kasavavagga,ja-upahanavagga
+U00799	ja234,ja235,ja236,ja237,ja238,ja239,ja240,ja241,ja242,ja243,ja244,ja245,ja246,ja247,ja248,ja249,ja250,ja251,ja252,ja253,ja254,ja255,ja256,ja257,ja258,ja259,ja260,ja261,ja262,ja263,ja264,ja265,ja266,ja267,ja268,ja269,ja270,ja271,ja272,ja273,ja274,ja275,ja276			705	14605	ja-upahanavagga,ja-singalavagga,ja-sankappavagga,ja-padumavagga,ja-udapanavagga
+U00800	ja277,ja278,ja279,ja280,ja281,ja282,ja283,ja284,ja285,ja286,ja287,ja288,ja289,ja290,ja291,ja292,ja293,ja294,ja295,ja296,ja297,ja298,ja299,ja300,ja301,ja302,ja303,ja304,ja305,ja306,ja307,ja308,ja309,ja310,ja311			678	14584	ja-udapanavagga,ja-abbhantaravagga,ja-kumbhavagga,ja-kalingavagga,ja-pucimandavagga
+U00801	ja312,ja313,ja314,ja315,ja316,ja317,ja318,ja319,ja320,ja321,ja322,ja323,ja324,ja325,ja326,ja327,ja328,ja329,ja330,ja331,ja332,ja333,ja334,ja335,ja336,ja337,ja338,ja339,ja340,ja341,ja342			680	14694	ja-pucimandavagga,ja-kutidusakavagga,ja-kokilavagga,ja-catukkanipata-culakunalavagga
+U00802	ja343,ja344,ja345,ja346,ja347,ja348,ja349,ja350,ja351,ja352,ja353,ja354,ja355,ja356,ja357,ja358,ja359,ja360,ja361,ja362,ja363,ja364,ja365,ja366,ja367,ja368			677	14860	ja-catukkanipata-culakunalavagga,ja-manikundalavagga,ja-vannarohavagga
+U00803	ja369,ja370,ja371,ja372,ja373,ja374,ja375,ja376,ja377,ja378,ja379,ja380,ja381,ja382,ja383,ja384,ja385,ja386,ja387			652	14377	ja-vannarohavagga,ja-addhavagga,ja-avariyavagga,ja-kharaputtavagga
+U00804	ja388,ja389,ja390,ja391,ja392,ja393,ja394,ja395,ja396,ja397,ja398,ja399,ja400,ja401,ja402,ja403,ja404,ja405			634	14902	ja-kharaputtavagga,ja-kukkuvagga
+U00805	ja406,ja407,ja408,ja409,ja410,ja411,ja412,ja413,ja414,ja415,ja416,ja417,ja418,ja419,ja420,ja421			616	14176	ja-gandharavagga,ja-kaccanivagga
+U00806	ja422,ja423,ja424,ja425,ja426,ja427,ja428,ja429,ja430,ja431,ja432,ja433,ja434,ja435			638	14293	ja-kaccanivagga,ja-gijjhavagga
+U00807	ja436,ja437,ja438,ja439,ja440,ja441,ja442,ja443,ja444,ja445,ja446			570	14352	ja-gijjhavagga,ja-catudvaravagga
+U00808	ja447,ja448,ja449,ja450,ja451,ja452,ja453,ja454,ja455,ja456,ja457			565	14152	ja-catudvaravagga,ja-matuposakavagga
+U00809	ja458,ja459,ja460,ja461,ja462,ja463,ja464,ja465,ja466,ja467			606	14076	ja-matuposakavagga,ja-dvadasakanipata-culakunalavagga
+U00810	ja468,ja469,ja470,ja471,ja472,ja473,ja474,ja475,ja476,ja477			620	14387	ja-dvadasakanipata-culakunalavagga,ja-ambavagga
+U00811	ja478,ja479,ja480,ja481,ja482,ja483,ja484			527	12493	ja-ambavagga,ja-salikedaravagga
+U00812	ja485,ja486,ja487,ja488,ja489,ja490			538	13556	ja-salikedaravagga
+U00813	ja491,ja492,ja493,ja494,ja495			566	13027	ja-salikedaravagga
+U00814	ja496,ja497,ja498,ja499,ja500			560	14505	ja-salikedaravagga,ja-matangavagga
+U00815	ja501,ja502,ja503,ja504,ja505			575	13867	ja-matangavagga
+U00816	ja506,ja507,ja508,ja509			518	13414	ja-matangavagga
+U00817	ja510,ja511,ja512,ja513			519	14153	ja-matangavagga,ja-kimchandavagga
+U00818	ja514,ja515,ja516			553	13143	ja-kimchandavagga
+U00819	ja517,ja518,ja519			468	11441	ja-kimchandavagga
+U00820	ja520,ja521,ja522			567	13905	ja-kimchandavagga,ja-tesakunavagga
+U00821	ja523,ja524			420	10611	ja-tesakunavagga
+U00822	ja525,ja526			446	11572	ja-tesakunavagga,ja-nilinikavagga
+U00823	ja527,ja528			547	13094	ja-nilinikavagga
+U00824	ja529,ja530			570	12448	ja-sonakavagga
+U00825	ja531			377	8375	ja-kusavagga
+U00826	ja532			399	8498	ja-kusavagga
+U00827	ja533			359	7771	ja-culahamsavagga
+U00828	ja534			433	9402	ja-culahamsavagga
+U00829	ja535			406	11763	ja-culahamsavagga
+U00830	ja536	ja536:0.1	ja536:51.5	160	12877	ja-culahamsavagga
+U00831	ja536	ja536:52.1	ja536:124.1	286	7916	ja-culahamsavagga
+U00832	ja537			514	14324	ja-culahamsavagga
+U00833	ja538			499	10829	ja-mugapakkhavagga
+U00834	ja539			763	16618	ja-mugapakkhavagga
+U00835	ja540			511	10969	ja-mugapakkhavagga
+U00836	ja541			773	18294	ja-mugapakkhavagga
+U00837	ja542			825	18031	ja-mugapakkhavagga
+U00838	ja543	ja543:0.1	ja543:142.4	565	12766	ja-mugapakkhavagga
+U00839	ja543	ja543:143.1	ja543:205.1	250	6834	ja-mugapakkhavagga
+U00840	ja544			700	16890	ja-mugapakkhavagga
+U00841	ja545			801	18066	ja-mugapakkhavagga
+U00842	ja546	ja546:0.1	ja546:128.4	516	12790	ja-mugapakkhavagga
+U00843	ja546	ja546:129.1	ja546:259.4	521	12826	ja-mugapakkhavagga
+U00844	ja546	ja546:260.1	ja546:321.1	245	6893	ja-mugapakkhavagga
+U00845	ja547	ja547:0.1	ja547:141.4	592	12827	ja-mugapakkhavagga
+U00846	ja547	ja547:142.1	ja547:279.4	595	12824	ja-mugapakkhavagga
+U00847	ja547	ja547:280.1	ja547:416.4	592	12788	ja-mugapakkhavagga
+U00848	ja547	ja547:417.1	ja547:561.4	602	12824	ja-mugapakkhavagga
+U00849	ja547	ja547:562.1	ja547:704.4	596	12800	ja-mugapakkhavagga
+U00850	ja547	ja547:705.1	ja547:803.1	405	8625	ja-mugapakkhavagga
+U00851	mnd1	mnd1:0.1	mnd1:40.4	220	12769	mnd
+U00852	mnd1	mnd1:41.1	mnd1:85.1	296	14804	mnd
+U00853	mnd2	mnd2:0.1	mnd2:30.1	245	12763	mnd
+U00854	mnd2	mnd2:31.1	mnd2:62.21	274	13031	mnd
+U00855	mnd2	mnd2:63.1	mnd2:102.5	327	13359	mnd
+U00856	mnd2	mnd2:103.1	mnd2:131.1	228	12497	mnd
+U00857	mnd3	mnd3:0.1	mnd3:29.21	248	13158	mnd
+U00858	mnd3	mnd3:30.1	mnd3:66.1	317	17055	mnd
+U00859	mnd4	mnd4:0.1	mnd4:40.6	196	13436	mnd
+U00860	mnd4	mnd4:41.1	mnd4:72.1	212	10893	mnd
+U00861	mnd5	mnd5:0.1	mnd5:42.4	210	13063	mnd
+U00862	mnd5	mnd5:43.1	mnd5:60.1	162	6925	mnd
+U00863	mnd6	mnd6:0.1	mnd6:58.5	306	12868	mnd
+U00864	mnd6	mnd6:59.1	mnd6:94.1	287	16007	mnd
+U00865	mnd7	mnd7:0.1	mnd7:32.9	195	13540	mnd
+U00866	mnd7	mnd7:33.1	mnd7:82.1	296	17313	mnd
+U00867	mnd8	mnd8:0.1	mnd8:45.5	236	12870	mnd
+U00868	mnd8	mnd8:46.1	mnd8:86.1	176	13516	mnd
+U00869	mnd9	mnd9:0.1	mnd9:39.7	183	12842	mnd
+U00870	mnd9	mnd9:40.1	mnd9:91.8	232	12805	mnd
+U00871	mnd9	mnd9:92.1	mnd9:118.1	130	9095	mnd
+U00872	mnd10	mnd10:0.1	mnd10:23.21	206	13308	mnd
+U00873	mnd10	mnd10:24.1	mnd10:46.14	263	13010	mnd
+U00874	mnd10	mnd10:47.1	mnd10:73.22	175	13262	mnd
+U00875	mnd10	mnd10:74.1	mnd10:111.8	232	13259	mnd
+U00876	mnd10	mnd10:112.1	mnd10:145.1	266	11225	mnd
+U00877	mnd11	mnd11:0.1	mnd11:34.4	255	12969	mnd
+U00878	mnd11	mnd11:35.1	mnd11:70.4	277	12772	mnd
+U00879	mnd11	mnd11:71.1	mnd11:128.1	258	15728	mnd
+U00880	mnd12	mnd12:0.1	mnd12:64.4	234	12888	mnd
+U00881	mnd12	mnd12:65.1	mnd12:116.1	201	10779	mnd
+U00882	mnd13	mnd13:0.1	mnd13:42.8	210	12845	mnd
+U00883	mnd13	mnd13:43.1	mnd13:97.7	211	12818	mnd
+U00884	mnd13	mnd13:98.1	mnd13:139.5	214	12857	mnd
+U00885	mnd13	mnd13:140.1	mnd13:160.1	124	6713	mnd
+U00886	mnd14	mnd14:0.1	mnd14:23.7	182	12778	mnd
+U00887	mnd14	mnd14:24.1	mnd14:60.3	192	12939	mnd
+U00888	mnd14	mnd14:61.1	mnd14:99.2	191	12883	mnd
+U00889	mnd14	mnd14:100.1	mnd14:129.3	135	12775	mnd
+U00890	mnd14	mnd14:130.1	mnd14:163.3	202	12936	mnd
+U00891	mnd14	mnd14:164.1	mnd14:193.4	149	12876	mnd
+U00892	mnd14	mnd14:194.1	mnd14:228.1	225	13707	mnd
+U00893	mnd15	mnd15:0.1	mnd15:41.13	316	13060	mnd
+U00894	mnd15	mnd15:42.1	mnd15:77.5	164	13119	mnd
+U00895	mnd15	mnd15:78.1	mnd15:111.13	275	12818	mnd
+U00896	mnd15	mnd15:112.1	mnd15:158.7	301	12988	mnd
+U00897	mnd15	mnd15:159.1	mnd15:207.1	291	12287	mnd
+U00898	mnd16	mnd16:0.1	mnd16:31.12	163	13801	mnd
+U00899	mnd16	mnd16:32.1	mnd16:67.21	186	13691	mnd
+U00900	mnd16	mnd16:68.1	mnd16:114.4	230	12818	mnd
+U00901	mnd16	mnd16:115.1	mnd16:150.9	245	13479	mnd
+U00902	mnd16	mnd16:151.1	mnd16:184.32	237	13413	mnd
+U00903	mnd16	mnd16:185.1	mnd16:225.5	204	12909	mnd
+U00904	mnd16	mnd16:226.1	mnd16:269.14	208	13085	mnd
+U00905	mnd16	mnd16:270.1	mnd16:292.1	93	5966	mnd
+U00906	cnd1			235	5169	cnd-parayanavaggagatha
+U00907	cnd2,cnd3			532	13642	cnd-parayanavaggagatha
+U00908	cnd4			83	2013	cnd-parayanavaggagatha
+U00909	cnd5	cnd5:0.1	cnd5:27.48	199	13596	cnd-parayanavagganiddesa
+U00910	cnd5	cnd5:28.1	cnd5:68.6	271	14399	cnd-parayanavagganiddesa
+U00911	cnd6			146	9746	cnd-parayanavagganiddesa
+U00912	cnd7	cnd7:0.1	cnd7:34.7	212	12950	cnd-parayanavagganiddesa
+U00913	cnd7	cnd7:35.1	cnd7:68.4	201	13763	cnd-parayanavagganiddesa
+U00914	cnd8	cnd8:0.1	cnd8:34.10	185	13310	cnd-parayanavagganiddesa
+U00915	cnd8	cnd8:35.1	cnd8:68.36	241	13258	cnd-parayanavagganiddesa
+U00916	cnd8	cnd8:69.1	cnd8:106.40	283	14461	cnd-parayanavagganiddesa
+U00917	cnd8	cnd8:107.1	cnd8:118.3	78	5157	cnd-parayanavagganiddesa
+U00918	cnd9	cnd9:0.1	cnd9:40.13	231	13474	cnd-parayanavagganiddesa
+U00919	cnd9	cnd9:41.1	cnd9:61.3	133	6705	cnd-parayanavagganiddesa
+U00920	cnd10			320	16926	cnd-parayanavagganiddesa
+U00921	cnd11	cnd11:0.1	cnd11:43.6	229	13016	cnd-parayanavagganiddesa
+U00922	cnd11	cnd11:44.1	cnd11:68.4	121	7019	cnd-parayanavagganiddesa
+U00923	cnd12			147	9079	cnd-parayanavagganiddesa
+U00924	cnd13			165	6705	cnd-parayanavagganiddesa
+U00925	cnd14			178	11851	cnd-parayanavagganiddesa
+U00926	cnd15			186	11207	cnd-parayanavagganiddesa
+U00927	cnd16			212	9936	cnd-parayanavagganiddesa
+U00928	cnd17			263	15445	cnd-parayanavagganiddesa
+U00929	cnd18			245	15261	cnd-parayanavagganiddesa
+U00930	cnd19	cnd19:0.1	cnd19:30.2	180	12921	cnd-parayanavagganiddesa
+U00931	cnd19	cnd19:31.1	cnd19:68.3	268	14632	cnd-parayanavagganiddesa
+U00932	cnd20			185	10871	cnd-parayanavagganiddesa
+U00933	cnd21			211	11911	cnd-parayanavagganiddesa
+U00934	cnd22	cnd22:0.1	cnd22:30.3	286	13038	cnd-parayanavagganiddesa
+U00935	cnd22	cnd22:31.1	cnd22:84.5	208	13259	cnd-parayanavagganiddesa
+U00936	cnd22	cnd22:85.1	cnd22:125.4	285	12817	cnd-parayanavagganiddesa
+U00937	cnd22	cnd22:126.1	cnd22:140.6	112	5605	cnd-parayanavagganiddesa
+U00938	cnd23	cnd23:0.1	cnd23:31.7	226	13482	cnd
+U00939	cnd23	cnd23:32.1	cnd23:74.2	237	12817	cnd
+U00940	cnd23	cnd23:75.1	cnd23:112.7	202	12925	cnd
+U00941	cnd23	cnd23:113.1	cnd23:163.5	207	13304	cnd
+U00942	cnd23	cnd23:164.1	cnd23:202.10	224	13664	cnd
+U00943	cnd23	cnd23:203.1	cnd23:225.3	195	12940	cnd
+U00944	cnd23	cnd23:226.1	cnd23:262.3	199	12801	cnd
+U00945	cnd23	cnd23:263.1	cnd23:290.8	176	12755	cnd
+U00946	cnd23	cnd23:291.1	cnd23:327.10	195	12868	cnd
+U00947	cnd23	cnd23:328.1	cnd23:356.5	157	8853	cnd
+U00948	ps1.0			81	3666	ps-mahavagga
+U00949	ps1.1	ps1.1:0.1	ps1.1:50.15	467	13016	ps-mahavagga
+U00950	ps1.1	ps1.1:51.1	ps1.1:77.10	370	12770	ps-mahavagga
+U00951	ps1.1	ps1.1:78.1	ps1.1:126.30	343	13609	ps-mahavagga
+U00952	ps1.1	ps1.1:127.1	ps1.1:169.32	258	13700	ps-mahavagga
+U00953	ps1.1	ps1.1:170.1	ps1.1:212.3	228	12753	ps-mahavagga
+U00954	ps1.1	ps1.1:213.1	ps1.1:254.18	230	13386	ps-mahavagga
+U00955	ps1.1	ps1.1:255.1	ps1.1:283.7	267	12758	ps-mahavagga
+U00956	ps1.1	ps1.1:284.1	ps1.1:328.39	322	12946	ps-mahavagga
+U00957	ps1.1	ps1.1:329.1	ps1.1:373.7	299	12850	ps-mahavagga
+U00958	ps1.1	ps1.1:374.1	ps1.1:401.59	252	13343	ps-mahavagga
+U00959	ps1.1	ps1.1:402.1	ps1.1:425.5	281	13029	ps-mahavagga
+U00960	ps1.1	ps1.1:426.1	ps1.1:452.32	237	12772	ps-mahavagga
+U00961	ps1.1	ps1.1:453.1	ps1.1:480.13	286	12797	ps-mahavagga
+U00962	ps1.1	ps1.1:481.0	ps1.1:505.12	255	13133	ps-mahavagga
+U00963	ps1.1	ps1.1:506.0	ps1.1:521.3	156	13372	ps-mahavagga
+U00964	ps1.1	ps1.1:522.1	ps1.1:556.14	221	12829	ps-mahavagga
+U00965	ps1.1	ps1.1:557.1	ps1.1:580.5	316	10992	ps-mahavagga
+U00966	ps1.2	ps1.2:0.1	ps1.2:37.39	370	13491	ps-mahavagga
+U00967	ps1.2	ps1.2:38.1	ps1.2:54.31	375	12785	ps-mahavagga
+U00968	ps1.2	ps1.2:55.1	ps1.2:72.4	380	12791	ps-mahavagga
+U00969	ps1.2	ps1.2:73.1	ps1.2:102.9	388	13114	ps-mahavagga
+U00970	ps1.2	ps1.2:103.1	ps1.2:128.5	162	7389	ps-mahavagga
+U00971	ps1.3	ps1.3:0.1	ps1.3:41.19	260	12861	ps-mahavagga
+U00972	ps1.3	ps1.3:42.1	ps1.3:64.16	252	13181	ps-mahavagga
+U00973	ps1.3	ps1.3:65.1	ps1.3:90.5	189	12760	ps-mahavagga
+U00974	ps1.3	ps1.3:91.1	ps1.3:115.16	248	13241	ps-mahavagga
+U00975	ps1.3	ps1.3:116.1	ps1.3:145.9	263	14226	ps-mahavagga
+U00976	ps1.4	ps1.4:0.1	ps1.4:16.4	126	12781	ps-mahavagga
+U00977	ps1.4	ps1.4:17.1	ps1.4:47.6	83	12889	ps-mahavagga
+U00978	ps1.4	ps1.4:48.1	ps1.4:67.6	118	13021	ps-mahavagga
+U00979	ps1.4	ps1.4:68.1	ps1.4:85.4	203	12948	ps-mahavagga
+U00980	ps1.4	ps1.4:86.1	ps1.4:105.5	165	10390	ps-mahavagga
+U00981	ps1.5	ps1.5:0.1	ps1.5:44.22	250	12902	ps-mahavagga
+U00982	ps1.5	ps1.5:45.1	ps1.5:65.18	267	13115	ps-mahavagga
+U00983	ps1.5	ps1.5:66.1	ps1.5:90.7	224	13060	ps-mahavagga
+U00984	ps1.5	ps1.5:91.1	ps1.5:117.4	164	12834	ps-mahavagga
+U00985	ps1.5	ps1.5:118.1	ps1.5:139.9	208	9735	ps-mahavagga
+U00986	ps1.6,ps1.7,ps1.8			231	13994	ps-mahavagga
+U00987	ps1.9,ps1.10			232	14870	ps-mahavagga
+U00988	ps2.1			301	18664	ps-yuganaddhavagga
+U00989	ps2.2			292	16660	ps-yuganaddhavagga
+U00990	ps2.3	ps2.3:0.1	ps2.3:30.18	226	13063	ps-yuganaddhavagga
+U00991	ps2.3	ps2.3:31.1	ps2.3:53.5	174	10411	ps-yuganaddhavagga
+U00992	ps2.4			308	17424	ps-yuganaddhavagga
+U00993	ps2.5			148	9413	ps-yuganaddhavagga
+U00994	ps2.6	ps2.6:0.1	ps2.6:49.6	257	12931	ps-yuganaddhavagga
+U00995	ps2.6	ps2.6:50.1	ps2.6:79.2	150	8081	ps-yuganaddhavagga
+U00996	ps2.7			290	12972	ps-yuganaddhavagga
+U00997	ps2.8			74	2341	ps-yuganaddhavagga
+U00998	ps2.9			265	15440	ps-yuganaddhavagga
+U00999	ps2.10			303	13340	ps-yuganaddhavagga
+U01000	ps3.1	ps3.1:0.1	ps3.1:21.30	242	14249	ps-pannavagga
+U01001	ps3.1	ps3.1:22.1	ps3.1:50.5	322	16976	ps-pannavagga
+U01002	ps3.2			251	14533	ps-pannavagga
+U01003	ps3.3			89	6471	ps-pannavagga
+U01004	ps3.4,ps3.5			149	10914	ps-pannavagga
+U01005	ps3.6,ps3.7,ps3.8			272	13201	ps-pannavagga
+U01006	ps3.9			188	11290	ps-pannavagga
+U01007	ps3.10,ne1,ne2,ne3			343	10511	ps-pannavagga,ne
+U01008	ne4			127	6111	ne-vibhanga
+U01009	ne5			277	14815	ne-vibhanga
+U01010	ne6,ne7			159	12106	ne-vibhanga
+U01011	ne8,ne9			212	13308	ne-vibhanga
+U01012	ne10,ne11			201	14584	ne-vibhanga
+U01013	ne12,ne13			99	7477	ne-vibhanga
+U01014	ne14			143	10154	ne-vibhanga
+U01015	ne15,ne16			221	10808	ne-vibhanga
+U01016	ne17,ne18			160	11328	ne-vibhanga
+U01017	ne19,ne20			142	7372	ne-vibhanga,ne-sampata
+U01018	ne21	ne21:0.1	ne21:23.15	120	13115	ne-sampata
+U01019	ne21	ne21:24.1	ne21:44.3	78	10713	ne-sampata
+U01020	ne22,ne23,ne24,ne25,ne26,ne27,ne28,ne29,ne30,ne31,ne32,ne33,ne34,ne35			175	7788	ne-sampata
+U01021	ne36	ne36:0.1	ne36:26.2	148	12938	ne
+U01022	ne36	ne36:27.1	ne36:63.3	145	15177	ne
+U01023	ne37	ne37:0.1	ne37:86.4	276	12900	ne
+U01024	ne37	ne37:87.1	ne37:221.3	460	12966	ne
+U01025	ne37	ne37:222.1	ne37:312.4	256	12977	ne
+U01026	ne37	ne37:313.1	ne37:392.9	240	12928	ne
+U01027	ne37	ne37:393.1	ne37:452.8	271	12832	ne
+U01028	ne37	ne37:453.1	ne37:531.6	280	15526	ne
+U01029	pe1	pe1:0.1	pe1:113.11	343	13011	pe
+U01030	pe1	pe1:114.1	pe1:150.1	183	8311	pe
+U01031	pe2	pe2:0.1	pe2:39.5	192	13003	pe
+U01032	pe2	pe2:40.1	pe2:84.3	192	12799	pe
+U01033	pe2	pe2:85.1	pe2:210.1	352	11464	pe
+U01034	pe3			330	14662	pe
+U01035	pe4			111	8184	pe
+U01036	pe5	pe5:0.1	pe5:32.8	201	12811	pe
+U01037	pe5	pe5:33.1	pe5:61.9	214	13284	pe
+U01038	pe5	pe5:62.1	pe5:78.1	122	9711	pe
+U01039	pe6	pe6:0.1	pe6:27.12	191	13792	pe
+U01040	pe6	pe6:28.1	pe6:56.3	148	12980	pe
+U01041	pe6	pe6:57.1	pe6:74.1	76	5582	pe
+U01042	pe7			78	6430	pe
+U01043	pe8	pe8:0.1	pe8:20.2	156	12799	pe
+U01044	pe8	pe8:21.1	pe8:53.23	243	13885	pe
+U01045	pe8	pe8:54.1	pe8:81.8	221	12965	pe
+U01046	pe8	pe8:82.1	pe8:105.7	185	12801	pe
+U01047	pe8	pe8:106.1	pe8:151.10	182	13421	pe
+U01048	pe8	pe8:152.1	pe8:189.12	214	12791	pe
+U01049	pe8	pe8:190.1	pe8:244.2	194	12775	pe
+U01050	pe8	pe8:245.1	pe8:299.11	198	12850	pe
+U01051	pe8	pe8:300.1	pe8:313.7	60	5929	pe
+U01052	pe9	pe9:0.1	pe9:38.12	149	13020	pe
+U01053	pe9	pe9:39.1	pe9:66.1	120	9962	pe
+U01054	mil1			31	1964	mil-arambhakatha
+U01055	mil2	mil2:0.1	mil2:28.4	120	12812	mil-bahirakatha
+U01056	mil2	mil2:29.1	mil2:55.2	109	12758	mil-bahirakatha
+U01057	mil2	mil2:56.1	mil2:82.1	108	10242	mil-bahirakatha
+U01058	mil3.1.1,mil3.1.2,mil3.1.3,mil3.1.4,mil3.1.5,mil3.1.6,mil3.1.7,mil3.1.8			252	13728	mil-mahavagga
+U01059	mil3.1.9,mil3.1.10,mil3.1.11,mil3.1.12,mil3.1.13,mil3.1.14,mil3.1.15,mil3.1.16,mil3.2.1,mil3.2.2			220	14894	mil-mahavagga,mil-addhanavagga
+U01060	mil3.2.3,mil3.2.4,mil3.2.5,mil3.2.6,mil3.2.7,mil3.2.8,mil3.2.9,mil3.3.1			210	14911	mil-addhanavagga,mil-vicaravagga
+U01061	mil3.3.2,mil3.3.3,mil3.3.4,mil3.3.5,mil3.3.6			139	11075	mil-vicaravagga
+U01062	mil3.3.7,mil3.3.8,mil3.3.9,mil3.3.10,mil3.3.11,mil3.3.12,mil3.3.13,mil3.3.14,mil3.4.1,mil3.4.2,mil3.4.3,mil3.4.4			204	14340	mil-vicaravagga,mil-nibbanavagga
+U01063	mil3.4.5,mil3.4.6,mil3.4.7,mil3.4.8,mil3.4.9,mil3.4.10,mil3.5.1,mil3.5.2,mil3.5.3,mil3.5.4,mil3.5.5,mil3.5.6,mil3.5.7,mil3.5.8,mil3.5.9,mil3.5.10,mil3.6.1,mil3.6.2			297	14809	mil-nibbanavagga,mil-milindapanha-buddhavagga,mil-sativagga
+U01064	mil3.6.3,mil3.6.4,mil3.6.5,mil3.6.6,mil3.6.7,mil3.6.8,mil3.6.9,mil3.6.10,mil3.6.11,mil3.7.1,mil3.7.2,mil3.7.3,mil3.7.4,mil3.7.5			270	14982	mil-sativagga,mil-arupadhammavavatthanavagga
+U01065	mil3.7.6,mil3.7.7,mil3.7.8,mil3.7.9,mil3.7.10,mil3.7.11,mil3.7.12,mil3.7.13,mil3.7.14,mil3.7.15,mil3.7.16,mil3.8,mil4.1,mil4.2			239	14534	mil-arupadhammavavatthanavagga,mil-milindapanhapucchavisajjana,mil-upasakagunavagga
+U01066	mil4.3,mil4.4,mil4.5,mil4.6			55	4396	mil-upasakagunavagga
+U01067	mil5.1.1			107	11080	mil-iddhibalavagga
+U01068	mil5.1.2			98	9197	mil-iddhibalavagga
+U01069	mil5.1.3			65	8615	mil-iddhibalavagga
+U01070	mil5.1.4			68	9627	mil-iddhibalavagga
+U01071	mil5.1.5			60	6181	mil-iddhibalavagga
+U01072	mil5.1.6			119	11875	mil-iddhibalavagga
+U01073	mil5.1.7,mil5.1.8			129	12664	mil-iddhibalavagga
+U01074	mil5.1.9,mil5.1.10,mil5.2.1,mil5.2.2			138	11357	mil-iddhibalavagga,mil-abhejjavagga
+U01075	mil5.2.3,mil5.2.4			146	13653	mil-abhejjavagga
+U01076	mil5.2.5,mil5.2.6,mil5.2.7,mil5.2.8			127	11791	mil-abhejjavagga
+U01077	mil5.3.1,mil5.3.2,mil5.3.3			127	13355	mil-panamitavagga
+U01078	mil5.3.4,mil5.3.5,mil5.3.6,mil5.3.7			138	12798	mil-panamitavagga
+U01079	mil5.3.8,mil5.3.9,mil5.3.10,mil5.3.11,mil5.3.12			154	12897	mil-panamitavagga
+U01080	mil5.4.1,mil5.4.2,mil5.4.3,mil5.4.4			119	10402	mil-sabbannutananavagga
+U01081	mil5.4.5,mil5.4.6			70	8873	mil-sabbannutananavagga
+U01082	mil5.4.7,mil5.4.8,mil5.4.9			123	13082	mil-sabbannutananavagga
+U01083	mil5.4.10,mil5.5.1,mil5.5.2,mil5.5.3,mil5.5.4			164	13407	mil-sabbannutananavagga,mil-santhavavagga
+U01084	mil5.5.5,mil5.5.6,mil5.5.7,mil5.5.8			123	13288	mil-santhavavagga
+U01085	mil5.5.9,mil5.5.10,mil5.5.11			138	13705	mil-santhavavagga
+U01086	mil6.1.1,mil6.1.2,mil6.1.3			121	12335	mil-anumanapanha-buddhavagga
+U01087	mil6.1.4,mil6.1.5			122	13107	mil-anumanapanha-buddhavagga
+U01088	mil6.1.6,mil6.1.7,mil6.1.8			104	9217	mil-anumanapanha-buddhavagga
+U01089	mil6.1.9,mil6.2.1,mil6.2.2,mil6.2.3			142	13418	mil-anumanapanha-buddhavagga,mil-nippapancavagga
+U01090	mil6.2.4,mil6.2.5,mil6.2.6,mil6.2.7,mil6.2.8,mil6.2.9,mil6.2.10			123	11626	mil-nippapancavagga
+U01091	mil6.3.1			128	15683	mil-vessantaravagga
+U01092	mil6.3.2,mil6.3.3			143	14903	mil-vessantaravagga
+U01093	mil6.3.4,mil6.3.5			110	10951	mil-vessantaravagga
+U01094	mil6.3.6,mil6.3.7			138	13917	mil-vessantaravagga
+U01095	mil6.3.8,mil6.3.9			78	9186	mil-vessantaravagga
+U01096	mil6.3.10			141	11445	mil-vessantaravagga
+U01097	mil6.3.11,mil6.3.12			83	8524	mil-vessantaravagga
+U01098	mil6.4.1	mil6.4.1:0.1	mil6.4.1:27.3	139	13106	mil-anumanavagga
+U01099	mil6.4.1	mil6.4.1:28.1	mil6.4.1:95.1	208	13698	mil-anumanavagga
+U01100	mil6.4.2	mil6.4.2:0.1	mil6.4.2:48.3	93	13942	mil-anumanavagga
+U01101	mil6.4.2	mil6.4.2:49.1	mil6.4.2:65.1	38	8490	mil-anumanavagga
+U01102	mil7.1,mil7.2.1,mil7.2.2,mil7.2.3,mil7.2.4,mil7.2.5,mil7.2.6,mil7.2.7,mil7.2.8			293	14262	mil-matika,mil-gadrabhavagga
+U01103	mil7.2.9,mil7.2.10,mil7.3.1,mil7.3.2,mil7.3.3,mil7.3.4,mil7.3.5,mil7.3.6,mil7.3.7,mil7.3.8,mil7.3.9,mil7.3.10			235	13620	mil-gadrabhavagga,mil-samuddavagga
+U01104	mil7.4.1,mil7.4.2,mil7.4.3,mil7.4.4,mil7.4.5,mil7.4.6,mil7.4.7,mil7.4.8,mil7.4.9			267	14492	mil-pathavivagga
+U01105	mil7.4.10,mil7.5.1,mil7.5.2,mil7.5.3,mil7.5.4,mil7.5.5,mil7.5.6,mil7.5.7,mil7.5.8,mil7.5.9,mil7.5.10			239	12664	mil-pathavivagga,mil-upacikavagga
+U01106	mil7.6.1,mil7.6.2,mil7.6.3,mil7.6.4,mil7.6.5,mil7.6.6,mil7.6.7,mil7.6.8,mil7.6.9,mil7.6.10,mil7.7.1,mil7.7.2,mil7.7.3,mil7.7.4			255	14775	mil-sihavagga,mil-makkatakavagga
+U01107	mil7.7.5,mil7.7.6,mil7.7.7,mil7.7.8,mil7.7.9,mil7.7.10,mil7.8.1,mil7.8.2,mil7.8.3,mil7.8.4,mil7.8.5,mil7.8.6			249	12855	mil-makkatakavagga,mil-kumbhavagga
+U01108	mil7.8.7,mil8			105	4633	mil-kumbhavagga,mil-nigamana
+U01109	pli-tv-bu-vb-pj1	pli-tv-bu-vb-pj1:0.1	pli-tv-bu-vb-pj1:2.2.12	143	13043	pli-tv-bu-vb-pj
+U01110	pli-tv-bu-vb-pj1	pli-tv-bu-vb-pj1:3.1.1	pli-tv-bu-vb-pj1:5.2.48	140	14351	pli-tv-bu-vb-pj
+U01111	pli-tv-bu-vb-pj1	pli-tv-bu-vb-pj1:5.3.1	pli-tv-bu-vb-pj1:5.10.27	174	13565	pli-tv-bu-vb-pj
+U01112	pli-tv-bu-vb-pj1	pli-tv-bu-vb-pj1:5.11.1	pli-tv-bu-vb-pj1:8.2.125	247	15007	pli-tv-bu-vb-pj
+U01113	pli-tv-bu-vb-pj1	pli-tv-bu-vb-pj1:8.3.1	pli-tv-bu-vb-pj1:9.4.85	301	13241	pli-tv-bu-vb-pj
+U01114	pli-tv-bu-vb-pj1	pli-tv-bu-vb-pj1:9.5.0	pli-tv-bu-vb-pj1:10.17.10	342	13188	pli-tv-bu-vb-pj
+U01115	pli-tv-bu-vb-pj1	pli-tv-bu-vb-pj1:10.18.1	pli-tv-bu-vb-pj1:10.27.6	119	5135	pli-tv-bu-vb-pj
+U01116	pli-tv-bu-vb-pj2	pli-tv-bu-vb-pj2:0.1	pli-tv-bu-vb-pj2:3.43	205	12796	pli-tv-bu-vb-pj
+U01117	pli-tv-bu-vb-pj2	pli-tv-bu-vb-pj2:4.1.0.1	pli-tv-bu-vb-pj2:4.30.6	275	13046	pli-tv-bu-vb-pj
+U01118	pli-tv-bu-vb-pj2	pli-tv-bu-vb-pj2:4.31.1	pli-tv-bu-vb-pj2:7.13.11	353	12969	pli-tv-bu-vb-pj
+U01119	pli-tv-bu-vb-pj2	pli-tv-bu-vb-pj2:7.14.1	pli-tv-bu-vb-pj2:7.39.15	309	12878	pli-tv-bu-vb-pj
+U01120	pli-tv-bu-vb-pj2	pli-tv-bu-vb-pj2:7.40.1	pli-tv-bu-vb-pj2:7.49.10	108	5296	pli-tv-bu-vb-pj
+U01121	pli-tv-bu-vb-pj3	pli-tv-bu-vb-pj3:0.1	pli-tv-bu-vb-pj3:3.47	193	13158	pli-tv-bu-vb-pj
+U01122	pli-tv-bu-vb-pj3	pli-tv-bu-vb-pj3:4.1.0.1	pli-tv-bu-vb-pj3:5.6.13	276	13251	pli-tv-bu-vb-pj
+U01123	pli-tv-bu-vb-pj3	pli-tv-bu-vb-pj3:5.7.1	pli-tv-bu-vb-pj3:5.33.22	413	15815	pli-tv-bu-vb-pj
+U01124	pli-tv-bu-vb-pj4	pli-tv-bu-vb-pj4:0.1	pli-tv-bu-vb-pj4:4.2.29	246	12909	pli-tv-bu-vb-pj
+U01125	pli-tv-bu-vb-pj4	pli-tv-bu-vb-pj4:4.3.1	pli-tv-bu-vb-pj4:4.6.108	359	13179	pli-tv-bu-vb-pj
+U01126	pli-tv-bu-vb-pj4	pli-tv-bu-vb-pj4:4.7.1	pli-tv-bu-vb-pj4:5.4.28	281	13015	pli-tv-bu-vb-pj
+U01127	pli-tv-bu-vb-pj4	pli-tv-bu-vb-pj4:6.1.0	pli-tv-bu-vb-pj4:8.13.21	367	13028	pli-tv-bu-vb-pj
+U01128	pli-tv-bu-vb-pj4	pli-tv-bu-vb-pj4:8.14.1	pli-tv-bu-vb-pj4:9.7.30	207	11674	pli-tv-bu-vb-pj
+U01129	pli-tv-bu-vb-ss1	pli-tv-bu-vb-ss1:0.1	pli-tv-bu-vb-ss1:3.6.93	389	15718	pli-tv-bu-vb-ss
+U01130	pli-tv-bu-vb-ss1	pli-tv-bu-vb-ss1:3.6.94.0	pli-tv-bu-vb-ss1:5.17.32	395	15237	pli-tv-bu-vb-ss
+U01131	pli-tv-bu-vb-ss2	pli-tv-bu-vb-ss2:0.1	pli-tv-bu-vb-ss2:3.4.46	302	13808	pli-tv-bu-vb-ss
+U01132	pli-tv-bu-vb-ss2	pli-tv-bu-vb-ss2:3.5.0	pli-tv-bu-vb-ss2:4.11.8	172	8719	pli-tv-bu-vb-ss
+U01133	pli-tv-bu-vb-ss3			230	9102	pli-tv-bu-vb-ss
+U01134	pli-tv-bu-vb-ss4			182	7815	pli-tv-bu-vb-ss
+U01135	pli-tv-bu-vb-ss5	pli-tv-bu-vb-ss5:0.1	pli-tv-bu-vb-ss5:4.4.68	303	13724	pli-tv-bu-vb-ss
+U01136	pli-tv-bu-vb-ss5	pli-tv-bu-vb-ss5:4.4.69.0	pli-tv-bu-vb-ss5:4.10.53	336	12913	pli-tv-bu-vb-ss
+U01137	pli-tv-bu-vb-ss5	pli-tv-bu-vb-ss5:4.11.0	pli-tv-bu-vb-ss5:5.4.5	193	7238	pli-tv-bu-vb-ss
+U01138	pli-tv-bu-vb-ss6	pli-tv-bu-vb-ss6:0.1	pli-tv-bu-vb-ss6:2.2.48	225	13317	pli-tv-bu-vb-ss
+U01139	pli-tv-bu-vb-ss6	pli-tv-bu-vb-ss6:2.3.1	pli-tv-bu-vb-ss6:3.11.19	215	13272	pli-tv-bu-vb-ss
+U01140	pli-tv-bu-vb-ss6	pli-tv-bu-vb-ss6:3.12.0	pli-tv-bu-vb-ss6:3.16.9	100	5891	pli-tv-bu-vb-ss
+U01141	pli-tv-bu-vb-ss7			222	11412	pli-tv-bu-vb-ss
+U01142	pli-tv-bu-vb-ss8	pli-tv-bu-vb-ss8:0.1	pli-tv-bu-vb-ss8:2.30	213	12783	pli-tv-bu-vb-ss
+U01143	pli-tv-bu-vb-ss8	pli-tv-bu-vb-ss8:3.1.0.1	pli-tv-bu-vb-ss8:4.5.13	201	7891	pli-tv-bu-vb-ss
+U01144	pli-tv-bu-vb-ss9			271	12081	pli-tv-bu-vb-ss
+U01145	pli-tv-bu-vb-ss10,pli-tv-bu-vb-ss11			289	13696	pli-tv-bu-vb-ss
+U01146	pli-tv-bu-vb-ss12			117	5349	pli-tv-bu-vb-ss
+U01147	pli-tv-bu-vb-ss13			235	18415	pli-tv-bu-vb-ss
+U01148	pli-tv-bu-vb-ay1,pli-tv-bu-vb-ay2			311	13888	pli-tv-bu-vb-ay
+U01149	pli-tv-bu-vb-np1			107	5014	pli-tv-bu-vb-np
+U01150	pli-tv-bu-vb-np2			185	10083	pli-tv-bu-vb-np
+U01151	pli-tv-bu-vb-np3,pli-tv-bu-vb-np4			222	9738	pli-tv-bu-vb-np
+U01152	pli-tv-bu-vb-np5,pli-tv-bu-vb-np6,pli-tv-bu-vb-np7			308	14948	pli-tv-bu-vb-np
+U01153	pli-tv-bu-vb-np8,pli-tv-bu-vb-np9			218	9278	pli-tv-bu-vb-np
+U01154	pli-tv-bu-vb-np10,pli-tv-bu-vb-np11,pli-tv-bu-vb-np12			283	13666	pli-tv-bu-vb-np
+U01155	pli-tv-bu-vb-np13,pli-tv-bu-vb-np14,pli-tv-bu-vb-np15			292	14483	pli-tv-bu-vb-np
+U01156	pli-tv-bu-vb-np16,pli-tv-bu-vb-np17,pli-tv-bu-vb-np18			258	11937	pli-tv-bu-vb-np
+U01157	pli-tv-bu-vb-np19,pli-tv-bu-vb-np20,pli-tv-bu-vb-np21			291	12606	pli-tv-bu-vb-np
+U01158	pli-tv-bu-vb-np22			189	9215	pli-tv-bu-vb-np
+U01159	pli-tv-bu-vb-np23,pli-tv-bu-vb-np24			204	12149	pli-tv-bu-vb-np
+U01160	pli-tv-bu-vb-np25,pli-tv-bu-vb-np26,pli-tv-bu-vb-np27			258	12152	pli-tv-bu-vb-np
+U01161	pli-tv-bu-vb-np28,pli-tv-bu-vb-np29,pli-tv-bu-vb-np30			266	12091	pli-tv-bu-vb-np
+U01162	pli-tv-bu-vb-pc1			152	9130	pli-tv-bu-vb-pc
+U01163	pli-tv-bu-vb-pc2	pli-tv-bu-vb-pc2:0.1	pli-tv-bu-vb-pc2:2.2.34	152	12863	pli-tv-bu-vb-pc
+U01164	pli-tv-bu-vb-pc2	pli-tv-bu-vb-pc2:2.2.35.0	pli-tv-bu-vb-pc2:2.9.9	86	9875	pli-tv-bu-vb-pc
+U01165	pli-tv-bu-vb-pc3,pli-tv-bu-vb-pc4,pli-tv-bu-vb-pc5			237	14528	pli-tv-bu-vb-pc
+U01166	pli-tv-bu-vb-pc6,pli-tv-bu-vb-pc7			205	11015	pli-tv-bu-vb-pc
+U01167	pli-tv-bu-vb-pc8	pli-tv-bu-vb-pc8:0.1	pli-tv-bu-vb-pc8:2.3.54	201	13422	pli-tv-bu-vb-pc
+U01168	pli-tv-bu-vb-pc8	pli-tv-bu-vb-pc8:2.3.55.0	pli-tv-bu-vb-pc8:2.6.4	116	6273	pli-tv-bu-vb-pc
+U01169	pli-tv-bu-vb-pc9,pli-tv-bu-vb-pc10,pli-tv-bu-vb-pc11			208	9685	pli-tv-bu-vb-pc
+U01170	pli-tv-bu-vb-pc12,pli-tv-bu-vb-pc13,pli-tv-bu-vb-pc14			227	11789	pli-tv-bu-vb-pc
+U01171	pli-tv-bu-vb-pc15,pli-tv-bu-vb-pc16,pli-tv-bu-vb-pc17,pli-tv-bu-vb-pc18			266	12215	pli-tv-bu-vb-pc
+U01172	pli-tv-bu-vb-pc19,pli-tv-bu-vb-pc20			121	4973	pli-tv-bu-vb-pc
+U01173	pli-tv-bu-vb-pc21,pli-tv-bu-vb-pc22			250	13933	pli-tv-bu-vb-pc
+U01174	pli-tv-bu-vb-pc23,pli-tv-bu-vb-pc24,pli-tv-bu-vb-pc25,pli-tv-bu-vb-pc26			283	12787	pli-tv-bu-vb-pc
+U01175	pli-tv-bu-vb-pc27,pli-tv-bu-vb-pc28,pli-tv-bu-vb-pc29,pli-tv-bu-vb-pc30			309	13569	pli-tv-bu-vb-pc
+U01176	pli-tv-bu-vb-pc31,pli-tv-bu-vb-pc32			231	11179	pli-tv-bu-vb-pc
+U01177	pli-tv-bu-vb-pc33,pli-tv-bu-vb-pc34			236	12309	pli-tv-bu-vb-pc
+U01178	pli-tv-bu-vb-pc35,pli-tv-bu-vb-pc36,pli-tv-bu-vb-pc37,pli-tv-bu-vb-pc38			302	12644	pli-tv-bu-vb-pc
+U01179	pli-tv-bu-vb-pc39,pli-tv-bu-vb-pc40,pli-tv-bu-vb-pc41,pli-tv-bu-vb-pc42			284	12449	pli-tv-bu-vb-pc
+U01180	pli-tv-bu-vb-pc43,pli-tv-bu-vb-pc44,pli-tv-bu-vb-pc45,pli-tv-bu-vb-pc46			314	14125	pli-tv-bu-vb-pc
+U01181	pli-tv-bu-vb-pc47,pli-tv-bu-vb-pc48,pli-tv-bu-vb-pc49,pli-tv-bu-vb-pc50			296	13817	pli-tv-bu-vb-pc
+U01182	pli-tv-bu-vb-pc51,pli-tv-bu-vb-pc52,pli-tv-bu-vb-pc53,pli-tv-bu-vb-pc54,pli-tv-bu-vb-pc55			274	12431	pli-tv-bu-vb-pc
+U01183	pli-tv-bu-vb-pc56,pli-tv-bu-vb-pc57,pli-tv-bu-vb-pc58,pli-tv-bu-vb-pc59			322	13945	pli-tv-bu-vb-pc
+U01184	pli-tv-bu-vb-pc60,pli-tv-bu-vb-pc61,pli-tv-bu-vb-pc62,pli-tv-bu-vb-pc63,pli-tv-bu-vb-pc64,pli-tv-bu-vb-pc65			359	14977	pli-tv-bu-vb-pc
+U01185	pli-tv-bu-vb-pc66,pli-tv-bu-vb-pc67,pli-tv-bu-vb-pc68			262	13061	pli-tv-bu-vb-pc
+U01186	pli-tv-bu-vb-pc69,pli-tv-bu-vb-pc70,pli-tv-bu-vb-pc71			252	13708	pli-tv-bu-vb-pc
+U01187	pli-tv-bu-vb-pc72,pli-tv-bu-vb-pc73,pli-tv-bu-vb-pc74,pli-tv-bu-vb-pc75,pli-tv-bu-vb-pc76,pli-tv-bu-vb-pc77			315	14407	pli-tv-bu-vb-pc
+U01188	pli-tv-bu-vb-pc78,pli-tv-bu-vb-pc79,pli-tv-bu-vb-pc80,pli-tv-bu-vb-pc81,pli-tv-bu-vb-pc82			289	13316	pli-tv-bu-vb-pc
+U01189	pli-tv-bu-vb-pc83,pli-tv-bu-vb-pc84			235	13677	pli-tv-bu-vb-pc
+U01190	pli-tv-bu-vb-pc85,pli-tv-bu-vb-pc86,pli-tv-bu-vb-pc87,pli-tv-bu-vb-pc88,pli-tv-bu-vb-pc89			332	13918	pli-tv-bu-vb-pc
+U01191	pli-tv-bu-vb-pc90,pli-tv-bu-vb-pc91,pli-tv-bu-vb-pc92,pli-tv-bu-vb-pd1,pli-tv-bu-vb-pd2			306	12829	pli-tv-bu-vb-pc,pli-tv-bu-vb-pd
+U01192	pli-tv-bu-vb-pd3,pli-tv-bu-vb-pd4,pli-tv-bu-vb-sk1,pli-tv-bu-vb-sk2,pli-tv-bu-vb-sk3,pli-tv-bu-vb-sk4			327	14983	pli-tv-bu-vb-pd,pli-tv-bu-vb-sk
+U01193	pli-tv-bu-vb-sk5,pli-tv-bu-vb-sk6,pli-tv-bu-vb-sk7,pli-tv-bu-vb-sk8,pli-tv-bu-vb-sk9,pli-tv-bu-vb-sk10,pli-tv-bu-vb-sk11,pli-tv-bu-vb-sk12,pli-tv-bu-vb-sk13,pli-tv-bu-vb-sk14,pli-tv-bu-vb-sk15,pli-tv-bu-vb-sk16,pli-tv-bu-vb-sk17,pli-tv-bu-vb-sk18,pli-tv-bu-vb-sk19,pli-tv-bu-vb-sk20,pli-tv-bu-vb-sk21,pli-tv-bu-vb-sk22,pli-tv-bu-vb-sk23,pli-tv-bu-vb-sk24,pli-tv-bu-vb-sk25,pli-tv-bu-vb-sk26,pli-tv-bu-vb-sk27,pli-tv-bu-vb-sk28,pli-tv-bu-vb-sk29,pli-tv-bu-vb-sk30			595	14768	pli-tv-bu-vb-sk
+U01194	pli-tv-bu-vb-sk31,pli-tv-bu-vb-sk32,pli-tv-bu-vb-sk33,pli-tv-bu-vb-sk34,pli-tv-bu-vb-sk35,pli-tv-bu-vb-sk36,pli-tv-bu-vb-sk37,pli-tv-bu-vb-sk38,pli-tv-bu-vb-sk39,pli-tv-bu-vb-sk40,pli-tv-bu-vb-sk41,pli-tv-bu-vb-sk42,pli-tv-bu-vb-sk43,pli-tv-bu-vb-sk44,pli-tv-bu-vb-sk45,pli-tv-bu-vb-sk46,pli-tv-bu-vb-sk47,pli-tv-bu-vb-sk48,pli-tv-bu-vb-sk49,pli-tv-bu-vb-sk50,pli-tv-bu-vb-sk51,pli-tv-bu-vb-sk52,pli-tv-bu-vb-sk53			584	14620	pli-tv-bu-vb-sk
+U01195	pli-tv-bu-vb-sk54,pli-tv-bu-vb-sk55,pli-tv-bu-vb-sk56,pli-tv-bu-vb-sk57,pli-tv-bu-vb-sk58,pli-tv-bu-vb-sk59,pli-tv-bu-vb-sk60,pli-tv-bu-vb-sk61,pli-tv-bu-vb-sk62,pli-tv-bu-vb-sk63,pli-tv-bu-vb-sk64,pli-tv-bu-vb-sk65,pli-tv-bu-vb-sk66,pli-tv-bu-vb-sk67,pli-tv-bu-vb-sk68,pli-tv-bu-vb-sk69,pli-tv-bu-vb-sk70,pli-tv-bu-vb-sk71			518	14957	pli-tv-bu-vb-sk
+U01196	pli-tv-bu-vb-sk72,pli-tv-bu-vb-sk73,pli-tv-bu-vb-sk74,pli-tv-bu-vb-sk75,pli-tv-bu-vb-as1-7,pli-tv-bi-vb-pj1-4			162	4993	pli-tv-bu-vb-sk,pli-tv-bu-vb-as,pli-tv-bi-vb-pj
+U01197	pli-tv-bi-vb-pj5,pli-tv-bi-vb-pj6			254	14351	pli-tv-bi-vb-pj
+U01198	pli-tv-bi-vb-pj7,pli-tv-bi-vb-pj8,pli-tv-bi-vb-ss1			280	13352	pli-tv-bi-vb-pj,pli-tv-bi-vb-ss
+U01199	pli-tv-bi-vb-ss2,pli-tv-bi-vb-ss3,pli-tv-bi-vb-ss4			303	14073	pli-tv-bi-vb-ss
+U01200	pli-tv-bi-vb-ss5,pli-tv-bi-vb-ss6,pli-tv-bi-vb-ss10			246	12454	pli-tv-bi-vb-ss
+U01201	pli-tv-bi-vb-ss11,pli-tv-bi-vb-ss12			209	10020	pli-tv-bi-vb-ss
+U01202	pli-tv-bi-vb-ss13,pli-tv-bi-vb-np1			251	12413	pli-tv-bi-vb-ss,pli-tv-bi-vb-np
+U01203	pli-tv-bi-vb-np2,pli-tv-bi-vb-np3,pli-tv-bi-vb-np4,pli-tv-bi-vb-np5,pli-tv-bi-vb-np6			318	13731	pli-tv-bi-vb-np
+U01204	pli-tv-bi-vb-np7,pli-tv-bi-vb-np8,pli-tv-bi-vb-np9,pli-tv-bi-vb-np10,pli-tv-bi-vb-np11			299	12525	pli-tv-bi-vb-np
+U01205	pli-tv-bi-vb-np12,pli-tv-bi-vb-pc1,pli-tv-bi-vb-pc2,pli-tv-bi-vb-pc3,pli-tv-bi-vb-pc4,pli-tv-bi-vb-pc5,pli-tv-bi-vb-pc6			371	14225	pli-tv-bi-vb-np,pli-tv-bi-vb-pc
+U01206	pli-tv-bi-vb-pc7,pli-tv-bi-vb-pc8,pli-tv-bi-vb-pc9,pli-tv-bi-vb-pc10,pli-tv-bi-vb-pc11,pli-tv-bi-vb-pc12,pli-tv-bi-vb-pc13			368	13657	pli-tv-bi-vb-pc
+U01207	pli-tv-bi-vb-pc14,pli-tv-bi-vb-pc15,pli-tv-bi-vb-pc16,pli-tv-bi-vb-pc17,pli-tv-bi-vb-pc18,pli-tv-bi-vb-pc19			338	13994	pli-tv-bi-vb-pc
+U01208	pli-tv-bi-vb-pc20,pli-tv-bi-vb-pc21,pli-tv-bi-vb-pc22,pli-tv-bi-vb-pc23,pli-tv-bi-vb-pc24,pli-tv-bi-vb-pc25,pli-tv-bi-vb-pc26,pli-tv-bi-vb-pc27			373	14934	pli-tv-bi-vb-pc
+U01209	pli-tv-bi-vb-pc28,pli-tv-bi-vb-pc29,pli-tv-bi-vb-pc30,pli-tv-bi-vb-pc31,pli-tv-bi-vb-pc32,pli-tv-bi-vb-pc33,pli-tv-bi-vb-pc34			329	13365	pli-tv-bi-vb-pc
+U01210	pli-tv-bi-vb-pc35,pli-tv-bi-vb-pc36,pli-tv-bi-vb-pc37,pli-tv-bi-vb-pc38,pli-tv-bi-vb-pc39,pli-tv-bi-vb-pc40			325	13114	pli-tv-bi-vb-pc
+U01211	pli-tv-bi-vb-pc41,pli-tv-bi-vb-pc42,pli-tv-bi-vb-pc43,pli-tv-bi-vb-pc44,pli-tv-bi-vb-pc45,pli-tv-bi-vb-pc46,pli-tv-bi-vb-pc47,pli-tv-bi-vb-pc48			379	14128	pli-tv-bi-vb-pc
+U01212	pli-tv-bi-vb-pc49,pli-tv-bi-vb-pc50,pli-tv-bi-vb-pc51,pli-tv-bi-vb-pc52,pli-tv-bi-vb-pc53,pli-tv-bi-vb-pc54			332	13848	pli-tv-bi-vb-pc
+U01213	pli-tv-bi-vb-pc55,pli-tv-bi-vb-pc56,pli-tv-bi-vb-pc57,pli-tv-bi-vb-pc58,pli-tv-bi-vb-pc59,pli-tv-bi-vb-pc60,pli-tv-bi-vb-pc61,pli-tv-bi-vb-pc62			369	12700	pli-tv-bi-vb-pc
+U01214	pli-tv-bi-vb-pc63,pli-tv-bi-vb-pc64,pli-tv-bi-vb-pc65,pli-tv-bi-vb-pc66			280	13759	pli-tv-bi-vb-pc
+U01215	pli-tv-bi-vb-pc67,pli-tv-bi-vb-pc68,pli-tv-bi-vb-pc69,pli-tv-bi-vb-pc70,pli-tv-bi-vb-pc71,pli-tv-bi-vb-pc72			340	14435	pli-tv-bi-vb-pc
+U01216	pli-tv-bi-vb-pc73,pli-tv-bi-vb-pc74,pli-tv-bi-vb-pc75,pli-tv-bi-vb-pc76,pli-tv-bi-vb-pc77,pli-tv-bi-vb-pc78			337	14920	pli-tv-bi-vb-pc
+U01217	pli-tv-bi-vb-pc79,pli-tv-bi-vb-pc80,pli-tv-bi-vb-pc81,pli-tv-bi-vb-pc82,pli-tv-bi-vb-pc83,pli-tv-bi-vb-pc84,pli-tv-bi-vb-pc85,pli-tv-bi-vb-pc86,pli-tv-bi-vb-pc87			419	14579	pli-tv-bi-vb-pc
+U01218	pli-tv-bi-vb-pc88,pli-tv-bi-vb-pc89,pli-tv-bi-vb-pc90,pli-tv-bi-vb-pc91-93,pli-tv-bi-vb-pc94,pli-tv-bi-vb-pc95,pli-tv-bi-vb-pc96,pli-tv-bi-vb-pd1			380	13142	pli-tv-bi-vb-pc,pli-tv-bi-vb-pd
+U01219	pli-tv-bi-vb-pd2-8,pli-tv-bi-vb-sk1,pli-tv-bi-vb-sk75,pli-tv-bi-vb-as1-7			228	8119	pli-tv-bi-vb-pd,pli-tv-bi-vb-sk,pli-tv-bi-vb-as
+U01220	pli-tv-kd1	pli-tv-kd1:0.1	pli-tv-kd1:6.1.6	215	12893	pli-tv-kd
+U01221	pli-tv-kd1	pli-tv-kd1:6.2.1	pli-tv-kd1:6.37.5	170	13017	pli-tv-kd
+U01222	pli-tv-kd1	pli-tv-kd1:6.38.1	pli-tv-kd1:8.3.5	187	12764	pli-tv-kd
+U01223	pli-tv-kd1	pli-tv-kd1:8.4.1	pli-tv-kd1:15.5.4	191	13106	pli-tv-kd
+U01224	pli-tv-kd1	pli-tv-kd1:15.6.1	pli-tv-kd1:20.15.6	196	13225	pli-tv-kd
+U01225	pli-tv-kd1	pli-tv-kd1:20.16.1	pli-tv-kd1:22.12.4	160	12831	pli-tv-kd
+U01226	pli-tv-kd1	pli-tv-kd1:22.13.1	pli-tv-kd1:25.4.5	210	13143	pli-tv-kd
+U01227	pli-tv-kd1	pli-tv-kd1:25.5.1	pli-tv-kd1:26.3.7	163	13055	pli-tv-kd
+U01228	pli-tv-kd1	pli-tv-kd1:26.4.1	pli-tv-kd1:28.5.11	190	13223	pli-tv-kd
+U01229	pli-tv-kd1	pli-tv-kd1:28.6.1	pli-tv-kd1:32.3.42	218	13451	pli-tv-kd
+U01230	pli-tv-kd1	pli-tv-kd1:32.3.43.0	pli-tv-kd1:33.1.111	202	14587	pli-tv-kd
+U01231	pli-tv-kd1	pli-tv-kd1:34.1.0	pli-tv-kd1:37.1.3	145	12908	pli-tv-kd
+U01232	pli-tv-kd1	pli-tv-kd1:37.2.1	pli-tv-kd1:39.1.10	134	12773	pli-tv-kd
+U01233	pli-tv-kd1	pli-tv-kd1:39.2.1	pli-tv-kd1:49.5.8	222	12791	pli-tv-kd
+U01234	pli-tv-kd1	pli-tv-kd1:49.6.1	pli-tv-kd1:54.6.5	176	12910	pli-tv-kd
+U01235	pli-tv-kd1	pli-tv-kd1:55.1.1	pli-tv-kd1:69.1.4	240	12880	pli-tv-kd
+U01236	pli-tv-kd1	pli-tv-kd1:69.2.1	pli-tv-kd1:76.8.15	313	13052	pli-tv-kd
+U01237	pli-tv-kd1	pli-tv-kd1:76.9.1	pli-tv-kd1:79.4.131	275	9941	pli-tv-kd
+U01238	pli-tv-kd2	pli-tv-kd2:0.1	pli-tv-kd2:8.4.11	230	13078	pli-tv-kd
+U01239	pli-tv-kd2	pli-tv-kd2:9.1.0	pli-tv-kd2:15.11.4	228	12857	pli-tv-kd
+U01240	pli-tv-kd2	pli-tv-kd2:16.1.0	pli-tv-kd2:22.2.7	254	13035	pli-tv-kd
+U01241	pli-tv-kd2	pli-tv-kd2:22.3.1	pli-tv-kd2:27.2.4	231	13014	pli-tv-kd
+U01242	pli-tv-kd2	pli-tv-kd2:27.3.1	pli-tv-kd2:29.1.7	221	12793	pli-tv-kd
+U01243	pli-tv-kd2	pli-tv-kd2:29.2.1	pli-tv-kd2:34.1.4	242	12932	pli-tv-kd
+U01244	pli-tv-kd2	pli-tv-kd2:34.2.1	pli-tv-kd2:36.4.59	200	11460	pli-tv-kd
+U01245	pli-tv-kd3	pli-tv-kd3:0.1	pli-tv-kd3:6.1.8	308	12940	pli-tv-kd
+U01246	pli-tv-kd3	pli-tv-kd3:6.2.0	pli-tv-kd3:7.8.4	195	12879	pli-tv-kd
+U01247	pli-tv-kd3	pli-tv-kd3:8.1.1	pli-tv-kd3:14.3.10	273	12976	pli-tv-kd
+U01248	pli-tv-kd3	pli-tv-kd3:14.4.1	pli-tv-kd3:14.11.89	147	9010	pli-tv-kd
+U01249	pli-tv-kd4	pli-tv-kd4:0.1	pli-tv-kd4:3.5.77	228	13808	pli-tv-kd
+U01250	pli-tv-kd4	pli-tv-kd4:4.1.0	pli-tv-kd4:7.4.21	250	12803	pli-tv-kd
+U01251	pli-tv-kd4	pli-tv-kd4:7.5.1	pli-tv-kd4:11.2.114	296	14749	pli-tv-kd
+U01252	pli-tv-kd4	pli-tv-kd4:12.1.0	pli-tv-kd4:15.4.12	180	13267	pli-tv-kd
+U01253	pli-tv-kd4	pli-tv-kd4:15.5.1	pli-tv-kd4:16.25.7	184	13040	pli-tv-kd
+U01254	pli-tv-kd4	pli-tv-kd4:16.26.1	pli-tv-kd4:18.6.34	134	8498	pli-tv-kd
+U01255	pli-tv-kd5	pli-tv-kd5:0.1	pli-tv-kd5:1.27.20	175	13046	pli-tv-kd
+U01256	pli-tv-kd5	pli-tv-kd5:1.28.0	pli-tv-kd5:8.2.9	172	12993	pli-tv-kd
+U01257	pli-tv-kd5	pli-tv-kd5:8.3.1	pli-tv-kd5:13.8.6	188	13231	pli-tv-kd
+U01258	pli-tv-kd5	pli-tv-kd5:13.9.1	pli-tv-kd5:13.13.53	100	4893	pli-tv-kd
+U01259	pli-tv-kd6	pli-tv-kd6:0.1	pli-tv-kd6:14.1.13	226	13311	pli-tv-kd
+U01260	pli-tv-kd6	pli-tv-kd6:14.2.1	pli-tv-kd6:17.3.10	247	13126	pli-tv-kd
+U01261	pli-tv-kd6	pli-tv-kd6:17.4.1	pli-tv-kd6:23.5.6	195	13218	pli-tv-kd
+U01262	pli-tv-kd6	pli-tv-kd6:23.6.1	pli-tv-kd6:26.2.8	195	12872	pli-tv-kd
+U01263	pli-tv-kd6	pli-tv-kd6:26.3.1	pli-tv-kd6:29.1.9	168	12962	pli-tv-kd
+U01264	pli-tv-kd6	pli-tv-kd6:29.2.1	pli-tv-kd6:31.9.11	151	12881	pli-tv-kd
+U01265	pli-tv-kd6	pli-tv-kd6:31.10.1	pli-tv-kd6:34.11.7	169	13053	pli-tv-kd
+U01266	pli-tv-kd6	pli-tv-kd6:34.12.1	pli-tv-kd6:36.6.12	159	13198	pli-tv-kd
+U01267	pli-tv-kd6	pli-tv-kd6:36.7.1	pli-tv-kd6:40.3.66	135	6794	pli-tv-kd
+U01268	pli-tv-kd7	pli-tv-kd7:0.1	pli-tv-kd7:6.4.24	238	13862	pli-tv-kd
+U01269	pli-tv-kd7	pli-tv-kd7:7.1.0	pli-tv-kd7:10.2.22	247	13269	pli-tv-kd
+U01270	pli-tv-kd7	pli-tv-kd7:10.3.1	pli-tv-kd7:13.2.125	263	11709	pli-tv-kd
+U01271	pli-tv-kd8	pli-tv-kd8:0.1	pli-tv-kd8:1.17.13	212	13384	pli-tv-kd
+U01272	pli-tv-kd8	pli-tv-kd8:1.18.1	pli-tv-kd8:1.33.17	201	13320	pli-tv-kd
+U01273	pli-tv-kd8	pli-tv-kd8:1.33.18.0	pli-tv-kd8:10.3.11	250	12855	pli-tv-kd
+U01274	pli-tv-kd8	pli-tv-kd8:11.1.1	pli-tv-kd8:15.8.6	181	12921	pli-tv-kd
+U01275	pli-tv-kd8	pli-tv-kd8:15.9.1	pli-tv-kd8:24.3.12	212	13226	pli-tv-kd
+U01276	pli-tv-kd8	pli-tv-kd8:24.4.1	pli-tv-kd8:28.1.12	206	12859	pli-tv-kd
+U01277	pli-tv-kd8	pli-tv-kd8:28.2.0	pli-tv-kd8:32.1.105	273	12561	pli-tv-kd
+U01278	pli-tv-kd9	pli-tv-kd9:0.1	pli-tv-kd9:3.1.20	190	13197	pli-tv-kd
+U01279	pli-tv-kd9	pli-tv-kd9:3.2.1	pli-tv-kd9:4.7.29	217	13041	pli-tv-kd
+U01280	pli-tv-kd9	pli-tv-kd9:4.8.1	pli-tv-kd9:6.5.13	282	13656	pli-tv-kd
+U01281	pli-tv-kd9	pli-tv-kd9:6.6.1	pli-tv-kd9:7.7.16	282	13216	pli-tv-kd
+U01282	pli-tv-kd9	pli-tv-kd9:7.8.0	pli-tv-kd9:7.14.48	270	13174	pli-tv-kd
+U01283	pli-tv-kd9	pli-tv-kd9:7.14.49.0	pli-tv-kd9:7.19.55	275	16178	pli-tv-kd
+U01284	pli-tv-kd9	pli-tv-kd9:7.20.0	pli-tv-kd9:7.20.277	283	10458	pli-tv-kd
+U01285	pli-tv-kd10	pli-tv-kd10:0.1	pli-tv-kd10:2.2.19	167	13176	pli-tv-kd
+U01286	pli-tv-kd10	pli-tv-kd10:2.3.0	pli-tv-kd10:2.16.31	135	12886	pli-tv-kd
+U01287	pli-tv-kd10	pli-tv-kd10:2.17.1	pli-tv-kd10:5.1.8	199	13068	pli-tv-kd
+U01288	pli-tv-kd10	pli-tv-kd10:5.2.1	pli-tv-kd10:6.3.66	270	16332	pli-tv-kd
+U01289	pli-tv-kd11	pli-tv-kd11:0.1	pli-tv-kd11:3.1.37	177	13617	pli-tv-kd
+U01290	pli-tv-kd11	pli-tv-kd11:4.1.0	pli-tv-kd11:10.1.74	238	14657	pli-tv-kd
+U01291	pli-tv-kd11	pli-tv-kd11:10.1.75.0	pli-tv-kd11:13.4.25	164	13220	pli-tv-kd
+U01292	pli-tv-kd11	pli-tv-kd11:13.5.1	pli-tv-kd11:14.2.24	178	14458	pli-tv-kd
+U01293	pli-tv-kd11	pli-tv-kd11:15.1.0	pli-tv-kd11:18.6.24	187	12770	pli-tv-kd
+U01294	pli-tv-kd11	pli-tv-kd11:19.1.0	pli-tv-kd11:25.2.29	207	13797	pli-tv-kd
+U01295	pli-tv-kd11	pli-tv-kd11:26.1.0	pli-tv-kd11:29.1.26	178	14333	pli-tv-kd
+U01296	pli-tv-kd11	pli-tv-kd11:30.1.1	pli-tv-kd11:31.1.178	209	14418	pli-tv-kd
+U01297	pli-tv-kd11	pli-tv-kd11:31.1.179.0	pli-tv-kd11:33.1.34	169	13266	pli-tv-kd
+U01298	pli-tv-kd11	pli-tv-kd11:33.1.35.0	pli-tv-kd11:35.1.162	275	12148	pli-tv-kd
+U01299	pli-tv-kd12	pli-tv-kd12:0.1	pli-tv-kd12:4.1.111	262	16564	pli-tv-kd
+U01300	pli-tv-kd12	pli-tv-kd12:5.1.0	pli-tv-kd12:8.1.21	256	13290	pli-tv-kd
+U01301	pli-tv-kd12	pli-tv-kd12:9.1.0	pli-tv-kd12:9.1.116	155	4768	pli-tv-kd
+U01302	pli-tv-kd13	pli-tv-kd13:0.1	pli-tv-kd13:5.1.10	184	12903	pli-tv-kd
+U01303	pli-tv-kd13	pli-tv-kd13:5.2.1	pli-tv-kd13:10.1.41	222	15061	pli-tv-kd
+U01304	pli-tv-kd13	pli-tv-kd13:11.1.0	pli-tv-kd13:14.3.38	193	14890	pli-tv-kd
+U01305	pli-tv-kd13	pli-tv-kd13:15.1.0	pli-tv-kd13:20.1.9	168	13275	pli-tv-kd
+U01306	pli-tv-kd13	pli-tv-kd13:20.2.1	pli-tv-kd13:23.3.15	215	13518	pli-tv-kd
+U01307	pli-tv-kd13	pli-tv-kd13:23.4.1	pli-tv-kd13:25.2.45	240	15284	pli-tv-kd
+U01308	pli-tv-kd13	pli-tv-kd13:25.3.1	pli-tv-kd13:27.5.19	257	13168	pli-tv-kd
+U01309	pli-tv-kd13	pli-tv-kd13:28.1.0	pli-tv-kd13:31.1.15	187	12755	pli-tv-kd
+U01310	pli-tv-kd13	pli-tv-kd13:31.2.1	pli-tv-kd13:34.2.30	244	13992	pli-tv-kd
+U01311	pli-tv-kd13	pli-tv-kd13:35.1.0	pli-tv-kd13:36.2.72	183	14234	pli-tv-kd
+U01312	pli-tv-kd13	pli-tv-kd13:36.3.1	pli-tv-kd13:36.4.69	82	5865	pli-tv-kd
+U01313	pli-tv-kd14	pli-tv-kd14:0.1	pli-tv-kd14:4.6.14	185	12954	pli-tv-kd
+U01314	pli-tv-kd14	pli-tv-kd14:4.7.1	pli-tv-kd14:6.2.30	257	13726	pli-tv-kd
+U01315	pli-tv-kd14	pli-tv-kd14:7.1.0	pli-tv-kd14:13.3.28	262	14505	pli-tv-kd
+U01316	pli-tv-kd14	pli-tv-kd14:13.4.1	pli-tv-kd14:14.12.16	198	13096	pli-tv-kd
+U01317	pli-tv-kd14	pli-tv-kd14:14.13.0	pli-tv-kd14:14.24.37	214	14282	pli-tv-kd
+U01318	pli-tv-kd14	pli-tv-kd14:14.25.0	pli-tv-kd14:14.30.28	269	13824	pli-tv-kd
+U01319	pli-tv-kd14	pli-tv-kd14:14.31.1	pli-tv-kd14:14.34.4	112	6890	pli-tv-kd
+U01320	pli-tv-kd15	pli-tv-kd15:0.1	pli-tv-kd15:8.1.30	286	14499	pli-tv-kd
+U01321	pli-tv-kd15	pli-tv-kd15:8.2.1	pli-tv-kd15:11.7.11	292	12846	pli-tv-kd
+U01322	pli-tv-kd15	pli-tv-kd15:12.1.0	pli-tv-kd15:18.1.14	292	12996	pli-tv-kd
+U01323	pli-tv-kd15	pli-tv-kd15:19.1.1	pli-tv-kd15:22.1.16	209	13745	pli-tv-kd
+U01324	pli-tv-kd15	pli-tv-kd15:22.2.1	pli-tv-kd15:28.2.16	277	13285	pli-tv-kd
+U01325	pli-tv-kd15	pli-tv-kd15:29.1.1	pli-tv-kd15:35.4.24	292	13458	pli-tv-kd
+U01326	pli-tv-kd15	pli-tv-kd15:36.1.0	pli-tv-kd15:37.1.213	232	7289	pli-tv-kd
+U01327	pli-tv-kd16	pli-tv-kd16:0.1	pli-tv-kd16:3.2.9	276	12753	pli-tv-kd
+U01328	pli-tv-kd16	pli-tv-kd16:3.3.0	pli-tv-kd16:4.5.17	252	12944	pli-tv-kd
+U01329	pli-tv-kd16	pli-tv-kd16:4.6.1	pli-tv-kd16:6.5.6	205	13073	pli-tv-kd
+U01330	pli-tv-kd16	pli-tv-kd16:7.0	pli-tv-kd16:13.1.11	235	12786	pli-tv-kd
+U01331	pli-tv-kd16	pli-tv-kd16:13.2.1	pli-tv-kd16:17.3.41	272	14565	pli-tv-kd
+U01332	pli-tv-kd16	pli-tv-kd16:18.1.0	pli-tv-kd16:21.3.201	321	11660	pli-tv-kd
+U01333	pli-tv-kd17	pli-tv-kd17:0.1	pli-tv-kd17:2.2.31	232	12916	pli-tv-kd
+U01334	pli-tv-kd17	pli-tv-kd17:2.3.0	pli-tv-kd17:3.4.26	191	13110	pli-tv-kd
+U01335	pli-tv-kd17	pli-tv-kd17:3.5.1	pli-tv-kd17:3.12.24	223	13389	pli-tv-kd
+U01336	pli-tv-kd17	pli-tv-kd17:3.13.1	pli-tv-kd17:4.6.16	210	13371	pli-tv-kd
+U01337	pli-tv-kd17	pli-tv-kd17:4.7.1	pli-tv-kd17:5.6.32	256	12464	pli-tv-kd
+U01338	pli-tv-kd18	pli-tv-kd18:0.1	pli-tv-kd18:4.1.29	194	12998	pli-tv-kd
+U01339	pli-tv-kd18	pli-tv-kd18:4.2.0	pli-tv-kd18:6.2.28	229	12801	pli-tv-kd
+U01340	pli-tv-kd18	pli-tv-kd18:6.3.1	pli-tv-kd18:11.3.3	189	12842	pli-tv-kd
+U01341	pli-tv-kd18	pli-tv-kd18:11.4.1	pli-tv-kd18:12.8.1	171	12829	pli-tv-kd
+U01342	pli-tv-kd18	pli-tv-kd18:12.8.2.1	pli-tv-kd18:12.11.161	188	13644	pli-tv-kd
+U01343	pli-tv-kd18	pli-tv-kd18:12.11.162.0	pli-tv-kd18:12.11.564	407	12340	pli-tv-kd
+U01344	pli-tv-kd19	pli-tv-kd19:0.1	pli-tv-kd19:3.1.21	144	13464	pli-tv-kd
+U01345	pli-tv-kd19	pli-tv-kd19:3.2.0	pli-tv-kd19:3.7.21	184	12810	pli-tv-kd
+U01346	pli-tv-kd19	pli-tv-kd19:3.8.0	pli-tv-kd19:5.7.88	227	14076	pli-tv-kd
+U01347	pli-tv-kd20	pli-tv-kd20:0.1	pli-tv-kd20:4.1.6	150	12793	pli-tv-kd
+U01348	pli-tv-kd20	pli-tv-kd20:5.1.1	pli-tv-kd20:9.5.57	265	14260	pli-tv-kd
+U01349	pli-tv-kd20	pli-tv-kd20:10.1.0	pli-tv-kd20:17.4.19	248	13427	pli-tv-kd
+U01350	pli-tv-kd20	pli-tv-kd20:17.5.1	pli-tv-kd20:22.3.46	289	13609	pli-tv-kd
+U01351	pli-tv-kd20	pli-tv-kd20:23.1.0	pli-tv-kd20:27.4.201	286	9365	pli-tv-kd
+U01352	pli-tv-kd21			320	18769	pli-tv-kd
+U01353	pli-tv-kd22	pli-tv-kd22:0.1	pli-tv-kd22:1.9.44	208	13213	pli-tv-kd
+U01354	pli-tv-kd22	pli-tv-kd22:1.10.0	pli-tv-kd22:2.9.18	350	17997	pli-tv-kd
+U01355	pli-tv-pvr1.1	pli-tv-pvr1.1:0.1	pli-tv-pvr1.1:49.8	393	12985	pli-tv-pvr
+U01356	pli-tv-pvr1.1	pli-tv-pvr1.1:50.1	pli-tv-pvr1.1:93.10	325	13149	pli-tv-pvr
+U01357	pli-tv-pvr1.1	pli-tv-pvr1.1:94.1	pli-tv-pvr1.1:134.8	307	12882	pli-tv-pvr
+U01358	pli-tv-pvr1.1	pli-tv-pvr1.1:135.1	pli-tv-pvr1.1:172.8	302	12875	pli-tv-pvr
+U01359	pli-tv-pvr1.1	pli-tv-pvr1.1:173.1	pli-tv-pvr1.1:212.8	311	12833	pli-tv-pvr
+U01360	pli-tv-pvr1.1	pli-tv-pvr1.1:213.1	pli-tv-pvr1.1:277.4	334	12789	pli-tv-pvr
+U01361	pli-tv-pvr1.1	pli-tv-pvr1.1:278.1	pli-tv-pvr1.1:332.1	240	9639	pli-tv-pvr
+U01362	pli-tv-pvr1.2	pli-tv-pvr1.2:0.1	pli-tv-pvr1.2:82.3	268	12829	pli-tv-pvr
+U01363	pli-tv-pvr1.2	pli-tv-pvr1.2:83.1	pli-tv-pvr1.2:175.2	266	12809	pli-tv-pvr
+U01364	pli-tv-pvr1.2	pli-tv-pvr1.2:176.1	pli-tv-pvr1.2:240.3	133	5503	pli-tv-pvr
+U01365	pli-tv-pvr1.3,pli-tv-pvr1.4,pli-tv-pvr1.5,pli-tv-pvr1.6,pli-tv-pvr1.7,pli-tv-pvr1.8,pli-tv-pvr1.9			332	14937	pli-tv-pvr
+U01366	pli-tv-pvr1.10,pli-tv-pvr1.11,pli-tv-pvr1.12,pli-tv-pvr1.13,pli-tv-pvr1.14,pli-tv-pvr1.15,pli-tv-pvr1.16			194	10935	pli-tv-pvr
+U01367	pli-tv-pvr2.1	pli-tv-pvr2.1:0.1	pli-tv-pvr2.1:45.8	352	12806	pli-tv-pvr
+U01368	pli-tv-pvr2.1	pli-tv-pvr2.1:46.1	pli-tv-pvr2.1:86.8	318	12801	pli-tv-pvr
+U01369	pli-tv-pvr2.1	pli-tv-pvr2.1:87.1	pli-tv-pvr2.1:128.8	336	13019	pli-tv-pvr
+U01370	pli-tv-pvr2.1	pli-tv-pvr2.1:129.1	pli-tv-pvr2.1:186.2	395	15021	pli-tv-pvr
+U01371	pli-tv-pvr2.2	pli-tv-pvr2.2:0.1	pli-tv-pvr2.2:86.3	272	12780	pli-tv-pvr
+U01372	pli-tv-pvr2.2	pli-tv-pvr2.2:87.1	pli-tv-pvr2.2:143.2	159	7070	pli-tv-pvr
+U01373	pli-tv-pvr2.3,pli-tv-pvr2.4,pli-tv-pvr2.5,pli-tv-pvr2.6,pli-tv-pvr2.7,pli-tv-pvr2.8,pli-tv-pvr2.9			310	14274	pli-tv-pvr
+U01374	pli-tv-pvr2.10,pli-tv-pvr2.11,pli-tv-pvr2.12,pli-tv-pvr2.13,pli-tv-pvr2.14,pli-tv-pvr2.15,pli-tv-pvr2.16			192	10188	pli-tv-pvr
+U01375	pli-tv-pvr3			295	6463	pli-tv-pvr
+U01376	pli-tv-pvr4	pli-tv-pvr4:0.1	pli-tv-pvr4:39.14	262	12761	pli-tv-pvr
+U01377	pli-tv-pvr4	pli-tv-pvr4:40.1	pli-tv-pvr4:72.1	227	12773	pli-tv-pvr
+U01378	pli-tv-pvr4	pli-tv-pvr4:73.0	pli-tv-pvr4:85.4	94	5120	pli-tv-pvr
+U01379	pli-tv-pvr5	pli-tv-pvr5:0.1	pli-tv-pvr5:76.3	291	12774	pli-tv-pvr
+U01380	pli-tv-pvr5	pli-tv-pvr5:77.1	pli-tv-pvr5:128.4	184	12887	pli-tv-pvr
+U01381	pli-tv-pvr5	pli-tv-pvr5:129.1	pli-tv-pvr5:177.6	148	10087	pli-tv-pvr
+U01382	pli-tv-pvr6			102	3762	pli-tv-pvr
+U01383	pli-tv-pvr7	pli-tv-pvr7:0.1	pli-tv-pvr7:26.37	395	13362	pli-tv-pvr
+U01384	pli-tv-pvr7	pli-tv-pvr7:27.1	pli-tv-pvr7:50.22	270	14342	pli-tv-pvr
+U01385	pli-tv-pvr7	pli-tv-pvr7:51.1	pli-tv-pvr7:66.24	237	14396	pli-tv-pvr
+U01386	pli-tv-pvr7	pli-tv-pvr7:67.1	pli-tv-pvr7:104.2	179	12903	pli-tv-pvr
+U01387	pli-tv-pvr7	pli-tv-pvr7:105.1	pli-tv-pvr7:153.1	246	9734	pli-tv-pvr
+U01388	pli-tv-pvr8,pli-tv-pvr9			137	6084	pli-tv-pvr
+U01389	pli-tv-pvr10			374	9014	pli-tv-pvr
+U01390	pli-tv-pvr11	pli-tv-pvr11:0.1	pli-tv-pvr11:34.10	234	13397	pli-tv-pvr
+U01391	pli-tv-pvr11	pli-tv-pvr11:35.1	pli-tv-pvr11:71.6	197	10837	pli-tv-pvr
+U01392	pli-tv-pvr12,pli-tv-pvr13,pli-tv-pvr14			332	13780	pli-tv-pvr
+U01393	pli-tv-pvr15	pli-tv-pvr15:0.1	pli-tv-pvr15:25.4	111	12990	pli-tv-pvr
+U01394	pli-tv-pvr15	pli-tv-pvr15:26.0	pli-tv-pvr15:44.4	125	6964	pli-tv-pvr
+U01395	pli-tv-pvr16			347	17948	pli-tv-pvr
+U01396	pli-tv-pvr17	pli-tv-pvr17:0.1	pli-tv-pvr17:40.8	168	13323	pli-tv-pvr
+U01397	pli-tv-pvr17	pli-tv-pvr17:41.1	pli-tv-pvr17:82.1	186	12755	pli-tv-pvr
+U01398	pli-tv-pvr17	pli-tv-pvr17:83.1	pli-tv-pvr17:127.16	174	13323	pli-tv-pvr
+U01399	pli-tv-pvr17	pli-tv-pvr17:128.1	pli-tv-pvr17:173.8	183	12831	pli-tv-pvr
+U01400	pli-tv-pvr17	pli-tv-pvr17:174.1	pli-tv-pvr17:206.4	188	12874	pli-tv-pvr
+U01401	pli-tv-pvr17	pli-tv-pvr17:207.1	pli-tv-pvr17:261.4	210	11867	pli-tv-pvr
+U01402	pli-tv-pvr18			136	7608	pli-tv-pvr
+U01403	pli-tv-pvr19			450	9946	pli-tv-pvr
+U01404	pli-tv-pvr20			230	6163	pli-tv-pvr
+U01405	pli-tv-pvr21			352	18089	pli-tv-pvr
+U01406	pli-tv-bu-pm	pli-tv-bu-pm:0.1	pli-tv-bu-pm:40.1	182	12798	pli-tv-vi
+U01407	pli-tv-bu-pm	pli-tv-bu-pm:41.0	pli-tv-bu-pm:102.1	190	12790	pli-tv-vi
+U01408	pli-tv-bu-pm	pli-tv-bu-pm:103.0	pli-tv-bu-pm:168.1	182	12818	pli-tv-vi
+U01409	pli-tv-bu-pm	pli-tv-bu-pm:169.0	pli-tv-bu-pm:255.14	200	7619	pli-tv-vi
+U01410	pli-tv-bi-pm	pli-tv-bi-pm:0.1	pli-tv-bi-pm:33.12	152	13371	pli-tv-vi
+U01411	pli-tv-bi-pm	pli-tv-bi-pm:34.0	pli-tv-bi-pm:77.1	168	12831	pli-tv-vi
+U01412	pli-tv-bi-pm	pli-tv-bi-pm:78.0	pli-tv-bi-pm:172.1	212	12790	pli-tv-vi
+U01413	pli-tv-bi-pm	pli-tv-bi-pm:173.0	pli-tv-bi-pm:237.1	177	12758	pli-tv-vi
+U01414	pli-tv-bi-pm	pli-tv-bi-pm:238.0	pli-tv-bi-pm:333.13	237	10203	pli-tv-vi
+U01415	ds1.1,ds1.2			421	14413	ds
+U01416	ds1.3			130	3499	ds
+U01417	ds2.1.1	ds2.1.1:0.1	ds2.1.1:67.3	182	13002	ds
+U01418	ds2.1.1	ds2.1.1:68.1	ds2.1.1:127.4	184	12957	ds
+U01419	ds2.1.1	ds2.1.1:128.1	ds2.1.1:179.7	164	13270	ds
+U01420	ds2.1.2	ds2.1.2:0.1	ds2.1.2:32.3	139	12909	ds
+U01421	ds2.1.2	ds2.1.2:33.1	ds2.1.2:69.3	171	12807	ds
+U01422	ds2.1.2	ds2.1.2:70.1	ds2.1.2:112.13	213	14605	ds
+U01423	ds2.1.3,ds2.1.4			203	6416	ds
+U01424	ds2.1.5	ds2.1.5:0.1	ds2.1.5:48.3	150	12815	ds
+U01425	ds2.1.5	ds2.1.5:49.1	ds2.1.5:90.6	227	15737	ds
+U01426	ds2.1.6	ds2.1.6:0.1	ds2.1.6:46.3	155	12896	ds
+U01427	ds2.1.6	ds2.1.6:47.1	ds2.1.6:73.6	106	10030	ds
+U01428	ds2.1.7	ds2.1.7:0.1	ds2.1.7:58.5	212	13274	ds
+U01429	ds2.1.7	ds2.1.7:59.1	ds2.1.7:79.6	101	6773	ds
+U01430	ds2.1.8	ds2.1.8:0.1	ds2.1.8:23.16	194	13494	ds
+U01431	ds2.1.8	ds2.1.8:24.0	ds2.1.8:43.5	173	13076	ds
+U01432	ds2.1.8	ds2.1.8:44.1	ds2.1.8:51.7	86	5790	ds
+U01433	ds2.1.9,ds2.1.10,ds2.2.1			186	12649	ds
+U01434	ds2.2.2			321	15373	ds
+U01435	ds2.2.3	ds2.2.3:0.1	ds2.2.3:23.3	109	13007	ds
+U01436	ds2.2.3	ds2.2.3:24.1	ds2.2.3:54.3	125	12929	ds
+U01437	ds2.2.3	ds2.2.3:55.1	ds2.2.3:140.3	305	12844	ds
+U01438	ds2.2.3	ds2.2.3:141.1	ds2.2.3:229.6	302	12854	ds
+U01439	ds2.2.3	ds2.2.3:230.1	ds2.2.3:316.3	274	12796	ds
+U01440	ds2.2.3	ds2.2.3:317.1	ds2.2.3:391.8	263	14040	ds
+U01441	ds2.3.1			336	14874	ds
+U01442	ds2.3.2	ds2.3.2:0.1	ds2.3.2:74.4	220	12966	ds
+U01443	ds2.3.2	ds2.3.2:75.0	ds2.3.2:114.5	168	12893	ds
+U01444	ds2.3.2	ds2.3.2:115.0	ds2.3.2:172.5	227	13138	ds
+U01445	ds2.3.2	ds2.3.2:173.1	ds2.3.2:228.2	220	12829	ds
+U01446	ds2.3.2	ds2.3.2:229.1	ds2.3.2:277.5	213	13873	ds
+U01447	ds2.3.3			330	15274	ds
+U01448	ds2.4.1			238	13395	ds
+U01449	ds2.4.2	ds2.4.2:0.1	ds2.4.2:58.3	242	12802	ds
+U01450	ds2.4.2	ds2.4.2:59.0	ds2.4.2:126.5	267	12836	ds
+U01451	ds2.4.2	ds2.4.2:127.0	ds2.4.2:180.5	220	12577	ds
+U01452	vb1	vb1:0.1	vb1:40.3	198	12763	vb
+U01453	vb1	vb1:41.1	vb1:75.3	196	12878	vb
+U01454	vb1	vb1:76.1	vb1:164.3	301	12902	vb
+U01455	vb1	vb1:165.1	vb1:233.2	267	12766	vb
+U01456	vb1	vb1:234.1	vb1:298.12	267	13316	vb
+U01457	vb1	vb1:299.1	vb1:402.22	315	13882	vb
+U01458	vb1	vb1:403.1	vb1:498.2	302	12827	vb
+U01459	vb1	vb1:499.1	vb1:530.29	224	12956	vb
+U01460	vb1	vb1:531.1	vb1:538.1	88	4917	vb
+U01461	vb2	vb2:0.1	vb2:57.2	181	12872	vb
+U01462	vb2	vb2:58.1	vb2:74.1	252	13988	vb
+U01463	vb3	vb3:0.1	vb3:52.10	215	12769	vb
+U01464	vb3	vb3:53.1	vb3:87.20	198	12837	vb
+U01465	vb3	vb3:88.0	vb3:101.1	138	7267	vb
+U01466	vb4	vb4:0.1	vb4:53.1	233	12766	vb
+U01467	vb4	vb4:54.0	vb4:117.3	205	12851	vb
+U01468	vb4	vb4:118.1	vb4:145.1	310	15193	vb
+U01469	vb5	vb5:0.1	vb5:56.10	233	12948	vb
+U01470	vb5	vb5:57.1	vb5:82.1	213	12333	vb
+U01471	vb6	vb6:0.1	vb6:49.3	188	13321	vb
+U01472	vb6	vb6:50.1	vb6:113.3	245	12791	vb
+U01473	vb6	vb6:114.1	vb6:177.3	246	12880	vb
+U01474	vb6	vb6:178.1	vb6:231.4	258	12836	vb
+U01475	vb6	vb6:232.1	vb6:289.0.4	211	12858	vb
+U01476	vb6	vb6:289.1	vb6:337.3	189	12836	vb
+U01477	vb6	vb6:338.1	vb6:371.3	163	12843	vb
+U01478	vb6	vb6:372.1	vb6:394.1	82	6077	vb
+U01479	vb7	vb7:0.1	vb7:23.8	137	13656	vb
+U01480	vb7	vb7:24.1	vb7:55.1	216	13453	vb
+U01481	vb8			310	14279	vb
+U01482	vb9			322	17159	vb
+U01483	vb10			237	12470	vb
+U01484	vb11			251	13470	vb
+U01485	vb12	vb12:0.1	vb12:37.7	153	13136	vb
+U01486	vb12	vb12:38.1	vb12:129.5	273	12856	vb
+U01487	vb12	vb12:130.1	vb12:197.11	207	13019	vb
+U01488	vb12	vb12:198.0	vb12:237.1	120	8297	vb
+U01489	vb13	vb13:0.1	vb13:74.3	215	12841	vb
+U01490	vb13	vb13:75.1	vb13:126.1	164	10084	vb
+U01491	vb14			183	13529	vb
+U01492	vb15	vb15:0.1	vb15:35.15	221	13300	vb
+U01493	vb15	vb15:36.1	vb15:85.1	206	12398	vb
+U01494	vb16	vb16:0.1	vb16:180.2	214	13013	vb
+U01495	vb16	vb16:181.1	vb16:260.5	135	12800	vb
+U01496	vb16	vb16:261.1	vb16:337.10	189	13004	vb
+U01497	vb16	vb16:338.1	vb16:371.4	160	12905	vb
+U01498	vb16	vb16:372.1	vb16:405.1	113	7639	vb
+U01499	vb17	vb17:0.1	vb17:53.5	358	12949	vb
+U01500	vb17	vb17:54.1	vb17:111.4	229	12840	vb
+U01501	vb17	vb17:112.1	vb17:196.3	283	12840	vb
+U01502	vb17	vb17:197.1	vb17:253.9	233	13024	vb
+U01503	vb17	vb17:254.1	vb17:300.3	251	12937	vb
+U01504	vb17	vb17:301.1	vb17:343.2	194	12814	vb
+U01505	vb17	vb17:344.1	vb17:365.1	94	6316	vb
+U01506	vb18	vb18:0.1	vb18:80.2	234	12915	vb
+U01507	vb18	vb18:81.1	vb18:134.4	192	12876	vb
+U01508	vb18	vb18:135.1	vb18:198.1	244	13408	vb
+U01509	vb18	vb18:199.1	vb18:256.2	214	12774	vb
+U01510	vb18	vb18:257.1	vb18:286.1	155	7371	vb
+U01511	dt1.1,dt1.2,dt1.3,dt1.4,dt1.5			49	1003	dt
+U01512	dt2.1	dt2.1:0.1	dt2.1:70.3	211	13072	dt
+U01513	dt2.1	dt2.1:71.1	dt2.1:135.3	217	12836	dt
+U01514	dt2.1	dt2.1:136.1	dt2.1:183.1	148	10212	dt
+U01515	dt2.2,dt2.3,dt2.4			208	9381	dt
+U01516	dt2.5			253	13805	dt
+U01517	dt2.6			397	18481	dt
+U01518	dt2.7,dt2.8,dt2.9			259	12675	dt
+U01519	dt2.10			314	15773	dt
+U01520	dt2.11,dt2.12			315	13294	dt
+U01521	dt2.13			168	7095	dt
+U01522	dt2.14	dt2.14:0.1	dt2.14:41.9	292	12862	dt
+U01523	dt2.14	dt2.14:42.1	dt2.14:67.1	170	7708	dt
+U01524	pp1.1,pp1.2,pp1.3,pp1.4,pp1.5,pp1.6,pp1.7,pp1.8,pp1.9,pp1.10			247	11448	pp
+U01525	pp2.1			180	10628	pp
+U01526	pp2.2			266	13885	pp
+U01527	pp2.3	pp2.3:0.1	pp2.3:32.5	161	12957	pp
+U01528	pp2.3	pp2.3:33.1	pp2.3:56.1	137	10602	pp
+U01529	pp2.4	pp2.4:0.1	pp2.4:46.6	171	12992	pp
+U01530	pp2.4	pp2.4:47.1	pp2.4:89.7	187	12770	pp
+U01531	pp2.4	pp2.4:90.1	pp2.4:125.9	147	13402	pp
+U01532	pp2.4	pp2.4:126.1	pp2.4:152.1	95	9088	pp
+U01533	pp2.5,pp2.6			150	13015	pp
+U01534	pp2.7,pp2.8,pp2.9,pp2.10			100	6537	pp
+U01535	kv1.1	kv1.1:0.1	kv1.1:40.8	285	12778	kv
+U01536	kv1.1	kv1.1:41.0	kv1.1:76.4	247	12782	kv
+U01537	kv1.1	kv1.1:77.1	kv1.1:117.7	275	12777	kv
+U01538	kv1.1	kv1.1:118.1	kv1.1:176.4	345	13002	kv
+U01539	kv1.1	kv1.1:177.1	kv1.1:218.7	333	12911	kv
+U01540	kv1.1	kv1.1:219.1	kv1.1:284.4	310	12862	kv
+U01541	kv1.1	kv1.1:285.1	kv1.1:339.10	416	13056	kv
+U01542	kv1.1	kv1.1:340.1	kv1.1:357.5	120	5216	kv
+U01543	kv1.2	kv1.2:0.1	kv1.2:63.7	392	12770	kv
+U01544	kv1.2	kv1.2:64.1	kv1.2:139.5	429	15356	kv
+U01545	kv1.3			219	12323	kv
+U01546	kv1.4,kv1.5			262	14010	kv
+U01547	kv1.6	kv1.6:0.1	kv1.6:47.12	355	12885	kv
+U01548	kv1.6	kv1.6:48.1	kv1.6:79.5	332	12933	kv
+U01549	kv1.6	kv1.6:80.1	kv1.6:101.9	156	7362	kv
+U01550	kv1.7,kv1.8			434	11298	kv
+U01551	kv1.9,kv1.10			290	8990	kv
+U01552	kv2.1			241	11405	kv
+U01553	kv2.2			220	9450	kv
+U01554	kv2.3,kv2.4			379	14847	kv
+U01555	kv2.5,kv2.6			300	10134	kv
+U01556	kv2.7,kv2.8			321	11237	kv
+U01557	kv2.9			212	10247	kv
+U01558	kv2.10,kv2.11,kv3.1			283	12009	kv
+U01559	kv3.2,kv3.3,kv3.4			327	11779	kv
+U01560	kv3.5,kv3.6,kv3.7,kv3.8			370	12994	kv
+U01561	kv3.9,kv3.10,kv3.11,kv3.12,kv4.1			385	14350	kv
+U01562	kv4.2,kv4.3,kv4.4,kv4.5			387	12928	kv
+U01563	kv4.6,kv4.7,kv4.8			264	11048	kv
+U01564	kv4.9,kv4.10,kv5.1			294	14386	kv
+U01565	kv5.2,kv5.3,kv5.4,kv5.5,kv5.6,kv5.7,kv5.8,kv5.9,kv5.10			425	14665	kv
+U01566	kv6.1,kv6.2,kv6.3,kv6.4,kv6.5,kv6.6,kv6.7			471	13652	kv
+U01567	kv6.8,kv6.9,kv6.10,kv7.1,kv7.2,kv7.3,kv7.4			372	13234	kv
+U01568	kv7.5,kv7.6,kv7.7,kv7.8			351	13096	kv
+U01569	kv7.9,kv7.10,kv8.1,kv8.2,kv8.3,kv8.4			495	14827	kv
+U01570	kv8.5,kv8.6,kv8.7,kv8.8			286	9805	kv
+U01571	kv8.9			535	16876	kv
+U01572	kv8.10,kv8.11,kv9.1,kv9.2,kv9.3,kv9.4			435	14581	kv
+U01573	kv9.5,kv9.6,kv9.7,kv9.8,kv9.9,kv9.10,kv9.11,kv10.1			346	13193	kv
+U01574	kv10.2,kv10.3,kv10.4,kv10.5,kv10.6			363	13141	kv
+U01575	kv10.7,kv10.8,kv10.9,kv10.10,kv10.11			370	8726	kv
+U01576	kv11.1,kv11.2,kv11.3,kv11.4,kv11.5			448	14381	kv
+U01577	kv11.6,kv11.7,kv11.8,kv12.1,kv12.2,kv12.3,kv12.4,kv12.5,kv12.6,kv12.7,kv12.8			491	14858	kv
+U01578	kv12.9,kv12.10,kv13.1,kv13.2,kv13.3,kv13.4,kv13.5,kv13.6,kv13.7,kv13.8			400	13630	kv
+U01579	kv13.9,kv13.10,kv14.1,kv14.2,kv14.3,kv14.4			401	13413	kv
+U01580	kv14.5,kv14.6,kv14.7,kv14.8,kv14.9,kv15.1,kv15.2			388	13950	kv
+U01581	kv15.3,kv15.4,kv15.5,kv15.6,kv15.7,kv15.8,kv15.9,kv15.10,kv15.11,kv16.1			470	14417	kv
+U01582	kv16.2,kv16.3,kv16.4,kv16.5,kv16.6,kv16.7,kv16.8,kv16.9			464	14404	kv
+U01583	kv16.10,kv17.1,kv17.2,kv17.3,kv17.4,kv17.5,kv17.6,kv17.7,kv17.8			466	14790	kv
+U01584	kv17.9,kv17.10,kv17.11,kv18.1,kv18.2,kv18.3,kv18.4,kv18.5			348	12087	kv
+U01585	kv18.6,kv18.7,kv18.8,kv18.9,kv19.1,kv19.2			436	14287	kv
+U01586	kv19.3,kv19.4,kv19.5,kv19.6,kv19.7,kv19.8,kv20.1			571	14600	kv
+U01587	kv20.2,kv20.3,kv20.4,kv20.5,kv20.6,kv21.1,kv21.2,kv21.3,kv21.4,kv21.5,kv21.6			479	14530	kv
+U01588	kv21.7,kv21.8,kv22.1,kv22.2,kv22.3,kv22.4,kv22.5,kv22.6,kv22.7,kv22.8,kv23.1,kv23.2			456	14657	kv
+U01589	kv23.3,kv23.4,kv23.5,ya1.1.1,ya1.1.2			299	12247	kv,ya
+U01590	ya1.2.1,ya1.2.2			190	13838	ya
+U01591	ya2.1.1			218	4897	ya
+U01592	ya2.1.2			301	14272	ya
+U01593	ya2.2.1	ya2.2.1:0.1	ya2.2.1:98.1	131	12916	ya
+U01594	ya2.2.1	ya2.2.1:99.1	ya2.2.1:173.1	87	9950	ya
+U01595	ya2.2.2	ya2.2.2:0.1	ya2.2.2:93.1	124	12810	ya
+U01596	ya2.2.2	ya2.2.2:94.0.1	ya2.2.2:154.1	75	8671	ya
+U01597	ya2.2.3			186	18621	ya
+U01598	ya2.3.1,ya2.3.2,ya2.3.3,ya2.3.4,ya2.3.5,ya2.3.6,ya3.1.1			250	7765	ya
+U01599	ya3.1.2			166	7600	ya
+U01600	ya3.2.1	ya3.2.1:0.1	ya3.2.1:109.1	117	12813	ya
+U01601	ya3.2.1	ya3.2.1:110.1	ya3.2.1:220.1	120	12798	ya
+U01602	ya3.2.1	ya3.2.1:221.1	ya3.2.1:325.1	112	12792	ya
+U01603	ya3.2.1	ya3.2.1:326.1	ya3.2.1:414.1	96	12886	ya
+U01604	ya3.2.1	ya3.2.1:415.1	ya3.2.1:500.1	90	12939	ya
+U01605	ya3.2.1	ya3.2.1:501.1	ya3.2.1:575.1	78	12759	ya
+U01606	ya3.2.1	ya3.2.1:576.1	ya3.2.1:665.1	94	12768	ya
+U01607	ya3.2.1	ya3.2.1:666.1	ya3.2.1:718.1	56	7584	ya
+U01608	ya3.2.2	ya3.2.2:0.1	ya3.2.2:106.1	122	12768	ya
+U01609	ya3.2.2	ya3.2.2:107.1	ya3.2.2:216.1	117	12893	ya
+U01610	ya3.2.2	ya3.2.2:217.1	ya3.2.2:299.1	88	12888	ya
+U01611	ya3.2.2	ya3.2.2:300.1	ya3.2.2:392.1	98	12827	ya
+U01612	ya3.2.2	ya3.2.2:393.1	ya3.2.2:480.1	92	12785	ya
+U01613	ya3.2.2	ya3.2.2:481.1	ya3.2.2:544.1	67	10156	ya
+U01614	ya3.2.3	ya3.2.3:0.1	ya3.2.3:100.1	116	12908	ya
+U01615	ya3.2.3	ya3.2.3:101.1	ya3.2.3:189.1	96	12909	ya
+U01616	ya3.2.3	ya3.2.3:190.1	ya3.2.3:312.1	130	16358	ya
+U01617	ya3.3.1,ya3.3.2,ya3.3.3,ya3.3.4,ya3.3.5,ya3.3.6,ya4.1.1,ya4.1.2,ya4.2.1,ya4.3			331	14995	ya
+U01618	ya5.1.1,ya5.1.2			249	8922	ya
+U01619	ya5.2.1	ya5.2.1:0.1	ya5.2.1:103.1	124	12942	ya
+U01620	ya5.2.1	ya5.2.1:104.1	ya5.2.1:179.1	88	13031	ya
+U01621	ya5.2.1	ya5.2.1:180.1	ya5.2.1:261.1	94	16171	ya
+U01622	ya5.2.2	ya5.2.2:0.1	ya5.2.2:87.1	110	12846	ya
+U01623	ya5.2.2	ya5.2.2:88.1	ya5.2.2:146.1	67	12798	ya
+U01624	ya5.2.2	ya5.2.2:147.1	ya5.2.2:200.1	63	10125	ya
+U01625	ya5.2.3	ya5.2.3:0.1	ya5.2.3:83.1	108	12990	ya
+U01626	ya5.2.3	ya5.2.3:84.0	ya5.2.3:112.1	34	7068	ya
+U01627	ya5.3.1,ya5.3.2,ya5.3.3,ya5.3.4,ya5.3.5,ya5.3.6,ya6.1.1,ya6.1.2			198	9007	ya
+U01628	ya6.2.1	ya6.2.1:0.1	ya6.2.1:100.1	121	12813	ya
+U01629	ya6.2.1	ya6.2.1:101.1	ya6.2.1:182.1	97	13056	ya
+U01630	ya6.2.1	ya6.2.1:183.1	ya6.2.1:244.1	71	9700	ya
+U01631	ya6.2.2	ya6.2.2:0.1	ya6.2.2:79.1	100	12941	ya
+U01632	ya6.2.2	ya6.2.2:80.0	ya6.2.2:153.1	88	12817	ya
+U01633	ya6.2.2	ya6.2.2:154.1	ya6.2.2:193.1	45	5997	ya
+U01634	ya6.2.3			150	18995	ya
+U01635	ya6.3,ya7.1			19	1160	ya
+U01636	ya7.2.1	ya7.2.1:0.1	ya7.2.1:113.1	118	12810	ya
+U01637	ya7.2.1	ya7.2.1:114.1	ya7.2.1:192.1	80	12906	ya
+U01638	ya7.2.1	ya7.2.1:193.1	ya7.2.1:236.1	44	13325	ya
+U01639	ya7.2.1	ya7.2.1:237.1	ya7.2.1:347.1	113	12788	ya
+U01640	ya7.2.1	ya7.2.1:348.1	ya7.2.1:410.1	64	12841	ya
+U01641	ya7.2.1	ya7.2.1:411.1	ya7.2.1:459.2	50	13649	ya
+U01642	ya7.2.2	ya7.2.2:0.1	ya7.2.2:106.1	111	12751	ya
+U01643	ya7.2.2	ya7.2.2:107.1	ya7.2.2:185.1	80	13024	ya
+U01644	ya7.2.2	ya7.2.2:186.1	ya7.2.2:253.1	69	12824	ya
+U01645	ya7.2.2	ya7.2.2:254.1	ya7.2.2:342.1	90	12795	ya
+U01646	ya7.2.2	ya7.2.2:343.1	ya7.2.2:405.1	64	13074	ya
+U01647	ya7.2.2	ya7.2.2:406.1	ya7.2.2:436.2	32	11150	ya
+U01648	ya7.2.3	ya7.2.3:0.1	ya7.2.3:127.1	132	13116	ya
+U01649	ya7.2.3	ya7.2.3:128.1	ya7.2.3:222.1	97	12834	ya
+U01650	ya7.2.3	ya7.2.3:223.1	ya7.2.3:307.1	86	12777	ya
+U01651	ya7.2.3	ya7.2.3:308.1	ya7.2.3:380.1	74	12910	ya
+U01652	ya7.2.3	ya7.2.3:381.1	ya7.2.3:433.1	53	12793	ya
+U01653	ya7.2.3	ya7.2.3:434.1	ya7.2.3:453.2	21	9559	ya
+U01654	ya7.2.4	ya7.2.4:0.1	ya7.2.4:122.1	127	12796	ya
+U01655	ya7.2.4	ya7.2.4:123.1	ya7.2.4:209.1	89	12763	ya
+U01656	ya7.2.4	ya7.2.4:210.1	ya7.2.4:289.1	81	12761	ya
+U01657	ya7.2.4	ya7.2.4:290.1	ya7.2.4:368.1	80	12823	ya
+U01658	ya7.2.4	ya7.2.4:369.1	ya7.2.4:422.1	54	12804	ya
+U01659	ya7.2.4	ya7.2.4:423.1	ya7.2.4:452.2	31	12941	ya
+U01660	ya7.2.5	ya7.2.5:0.1	ya7.2.5:118.1	123	12997	ya
+U01661	ya7.2.5	ya7.2.5:119.1	ya7.2.5:199.1	82	13674	ya
+U01662	ya7.2.5	ya7.2.5:200.1	ya7.2.5:270.1	72	12913	ya
+U01663	ya7.2.5	ya7.2.5:271.1	ya7.2.5:361.1	92	12771	ya
+U01664	ya7.2.5	ya7.2.5:362.1	ya7.2.5:438.1	78	12857	ya
+U01665	ya7.2.5	ya7.2.5:439.1	ya7.2.5:453.2	16	7799	ya
+U01666	ya7.2.6,ya7.2.7			45	11617	ya
+U01667	ya7.2.8			32	13616	ya
+U01668	ya8.1.1			301	16879	ya
+U01669	ya8.1.2,ya8.1.3			12	1090	ya
+U01670	ya8.2.1	ya8.2.1:0.1	ya8.2.1:135.1	157	12822	ya
+U01671	ya8.2.1	ya8.2.1:136.1	ya8.2.1:296.1	178	14020	ya
+U01672	ya8.2.2,ya8.2.3,ya9.1.1,ya9.1.2			215	7668	ya
+U01673	ya9.2.1	ya9.2.1:0.1	ya9.2.1:94.1	111	12763	ya
+U01674	ya9.2.1	ya9.2.1:95.1	ya9.2.1:186.1	106	12813	ya
+U01675	ya9.2.1	ya9.2.1:187.1	ya9.2.1:267.1	95	12450	ya
+U01676	ya9.2.2	ya9.2.2:0.1	ya9.2.2:92.1	108	12795	ya
+U01677	ya9.2.2	ya9.2.2:93.1	ya9.2.2:179.1	104	12988	ya
+U01678	ya9.2.2	ya9.2.2:180.1	ya9.2.2:255.1	88	11859	ya
+U01679	ya9.2.3	ya9.2.3:0.1	ya9.2.3:97.1	116	12800	ya
+U01680	ya9.2.3	ya9.2.3:98.1	ya9.2.3:189.1	106	12988	ya
+U01681	ya9.2.3	ya9.2.3:190.0	ya9.2.3:260.1	83	10921	ya
+U01682	ya9.3			8	365	ya
+U01683	ya10.1.1			572	14930	ya
+U01684	ya10.1.2	ya10.1.2:0.1	ya10.1.2:261.1	270	12766	ya
+U01685	ya10.1.2	ya10.1.2:262.1	ya10.1.2:533.1	277	12774	ya
+U01686	ya10.1.2	ya10.1.2:534.1	ya10.1.2:797.1	265	14029	ya
+U01687	ya10.2.1	ya10.2.1:0.1	ya10.2.1:100.1	105	12935	ya
+U01688	ya10.2.1	ya10.2.1:101.1	ya10.2.1:196.1	97	12826	ya
+U01689	ya10.2.1	ya10.2.1:197.1	ya10.2.1:291.1	96	12864	ya
+U01690	ya10.2.1	ya10.2.1:292.1	ya10.2.1:373.1	82	13021	ya
+U01691	ya10.2.1	ya10.2.1:374.1	ya10.2.1:458.1	86	12789	ya
+U01692	ya10.2.1	ya10.2.1:459.1	ya10.2.1:538.1	80	13096	ya
+U01693	ya10.2.1	ya10.2.1:539.1	ya10.2.1:638.1	102	12974	ya
+U01694	ya10.2.1	ya10.2.1:639.1	ya10.2.1:716.1	78	12839	ya
+U01695	ya10.2.1	ya10.2.1:717.1	ya10.2.1:798.1	85	12824	ya
+U01696	ya10.2.1	ya10.2.1:799.1	ya10.2.1:909.1	112	12816	ya
+U01697	ya10.2.1	ya10.2.1:910.1	ya10.2.1:1021.1	115	12766	ya
+U01698	ya10.2.1	ya10.2.1:1022.1	ya10.2.1:1116.1	97	12905	ya
+U01699	ya10.2.1	ya10.2.1:1117.1	ya10.2.1:1218.1	103	12761	ya
+U01700	ya10.2.1	ya10.2.1:1219.1	ya10.2.1:1301.1	84	12771	ya
+U01701	ya10.2.1	ya10.2.1:1302.1	ya10.2.1:1380.1	80	12807	ya
+U01702	ya10.2.1	ya10.2.1:1381.1	ya10.2.1:1477.1	99	12839	ya
+U01703	ya10.2.1	ya10.2.1:1478.1	ya10.2.1:1546.1	69	12808	ya
+U01704	ya10.2.1	ya10.2.1:1547.1	ya10.2.1:1637.1	93	12798	ya
+U01705	ya10.2.1	ya10.2.1:1638.1	ya10.2.1:1720.1	85	12967	ya
+U01706	ya10.2.1	ya10.2.1:1721.1	ya10.2.1:1800.1	83	12810	ya
+U01707	ya10.2.1	ya10.2.1:1801.1	ya10.2.1:1875.1	77	12767	ya
+U01708	ya10.2.1	ya10.2.1:1876.1	ya10.2.1:1956.1	81	12750	ya
+U01709	ya10.2.1	ya10.2.1:1957.1	ya10.2.1:2026.1	72	12812	ya
+U01710	ya10.2.1	ya10.2.1:2027.1	ya10.2.1:2094.1	68	12843	ya
+U01711	ya10.2.1	ya10.2.1:2095.1	ya10.2.1:2153.1	60	12796	ya
+U01712	ya10.2.1	ya10.2.1:2154.1	ya10.2.1:2215.1	62	12764	ya
+U01713	ya10.2.1	ya10.2.1:2216.1	ya10.2.1:2276.1	63	13080	ya
+U01714	ya10.2.1	ya10.2.1:2277.1	ya10.2.1:2332.1	56	13145	ya
+U01715	ya10.2.1	ya10.2.1:2333.1	ya10.2.1:2421.1	91	12771	ya
+U01716	ya10.2.1	ya10.2.1:2422.1	ya10.2.1:2510.1	91	12805	ya
+U01717	ya10.2.1	ya10.2.1:2511.1	ya10.2.1:2593.1	86	12754	ya
+U01718	ya10.2.1	ya10.2.1:2594.1	ya10.2.1:2682.1	89	15273	ya
+U01719	ya10.3.1,ya10.3.2			130	13551	ya
+U01720	ya10.3.3,ya10.3.4			128	13053	ya
+U01721	ya10.3.5,ya10.3.6			141	14993	ya
+U01722	patthana1.1	patthana1.1:0.1	patthana1.1:50.1	55	12848	patthana
+U01723	patthana1.1	patthana1.1:51.1	patthana1.1:118.1	95	14763	patthana
+U01724	patthana1.2	patthana1.2:0.1	patthana1.2:45.1	64	12806	patthana
+U01725	patthana1.2	patthana1.2:46.0	patthana1.2:103.1	86	12824	patthana
+U01726	patthana1.2	patthana1.2:104.1	patthana1.2:153.1	88	12782	patthana
+U01727	patthana1.2	patthana1.2:154.0	patthana1.2:220.1	122	12835	patthana
+U01728	patthana1.2	patthana1.2:221.0	patthana1.2:274.1	105	12888	patthana
+U01729	patthana1.2	patthana1.2:275.0	patthana1.2:327.1	84	12776	patthana
+U01730	patthana1.2	patthana1.2:328.1	patthana1.2:390.1	88	12779	patthana
+U01731	patthana1.2	patthana1.2:391.1	patthana1.2:459.1	113	12965	patthana
+U01732	patthana1.2	patthana1.2:460.0	patthana1.2:528.1	127	13165	patthana
+U01733	patthana1.2	patthana1.2:529.0	patthana1.2:580.1	93	12796	patthana
+U01734	patthana1.2	patthana1.2:581.1	patthana1.2:664.1	162	12806	patthana
+U01735	patthana1.2	patthana1.2:665.0	patthana1.2:719.1	107	13101	patthana
+U01736	patthana1.2	patthana1.2:720.1	patthana1.2:756.1	41	13461	patthana
+U01737	patthana1.2	patthana1.2:757.1	patthana1.2:790.1	37	14662	patthana
+U01738	patthana1.2	patthana1.2:791.1	patthana1.2:842.1	59	12793	patthana
+U01739	patthana1.2	patthana1.2:843.1	patthana1.2:886.1	52	12784	patthana
+U01740	patthana1.2	patthana1.2:887.1	patthana1.2:955.1	111	12758	patthana
+U01741	patthana1.2	patthana1.2:956.1	patthana1.2:1001.1	70	12776	patthana
+U01742	patthana1.2	patthana1.2:1002.1	patthana1.2:1060.1	92	12807	patthana
+U01743	patthana1.2	patthana1.2:1061.0	patthana1.2:1102.1	74	12952	patthana
+U01744	patthana1.2	patthana1.2:1103.0	patthana1.2:1157.1	100	12921	patthana
+U01745	patthana1.2	patthana1.2:1158.1	patthana1.2:1196.1	47	13068	patthana
+U01746	patthana1.2	patthana1.2:1197.1	patthana1.2:1236.1	49	12813	patthana
+U01747	patthana1.2	patthana1.2:1237.1	patthana1.2:1274.1	46	12864	patthana
+U01748	patthana1.2	patthana1.2:1275.1	patthana1.2:1316.1	56	13010	patthana
+U01749	patthana1.2	patthana1.2:1317.1	patthana1.2:1354.1	45	12955	patthana
+U01750	patthana1.2	patthana1.2:1355.1	patthana1.2:1433.1	89	12823	patthana
+U01751	patthana1.2	patthana1.2:1434.1	patthana1.2:1531.1	113	13006	patthana
+U01752	patthana1.2	patthana1.2:1532.1	patthana1.2:1567.1	42	13044	patthana
+U01753	patthana1.2	patthana1.2:1568.1	patthana1.2:1623.1	95	12831	patthana
+U01754	patthana1.2	patthana1.2:1624.0	patthana1.2:1677.1	89	8618	patthana
+U01755	patthana1.3	patthana1.3:0.1	patthana1.3:65.1	115	12902	patthana
+U01756	patthana1.3	patthana1.3:66.0	patthana1.3:104.1	62	12844	patthana
+U01757	patthana1.3	patthana1.3:105.1	patthana1.3:134.1	35	13217	patthana
+U01758	patthana1.3	patthana1.3:135.1	patthana1.3:197.1	96	12836	patthana
+U01759	patthana1.3	patthana1.3:198.1	patthana1.3:245.1	77	7352	patthana
+U01760	patthana1.4	patthana1.4:0.1	patthana1.4:60.1	82	12899	patthana
+U01761	patthana1.4	patthana1.4:61.1	patthana1.4:127.1	108	12762	patthana
+U01762	patthana1.4	patthana1.4:128.1	patthana1.4:185.1	71	12753	patthana
+U01763	patthana1.4	patthana1.4:186.1	patthana1.4:253.1	106	13392	patthana
+U01764	patthana1.4	patthana1.4:254.1	patthana1.4:314.1	69	12869	patthana
+U01765	patthana1.4	patthana1.4:315.1	patthana1.4:396.1	107	16720	patthana
+U01766	patthana1.5	patthana1.5:0.1	patthana1.5:71.1	103	12858	patthana
+U01767	patthana1.5	patthana1.5:72.1	patthana1.5:150.1	114	12761	patthana
+U01768	patthana1.5	patthana1.5:151.0	patthana1.5:199.1	70	12812	patthana
+U01769	patthana1.5	patthana1.5:200.1	patthana1.5:235.1	41	12776	patthana
+U01770	patthana1.5	patthana1.5:236.1	patthana1.5:293.1	66	12939	patthana
+U01771	patthana1.5	patthana1.5:294.0	patthana1.5:324.1	33	13060	patthana
+U01772	patthana1.5	patthana1.5:325.1	patthana1.5:369.1	59	8453	patthana
+U01773	patthana1.6	patthana1.6:0.1	patthana1.6:45.1	68	12782	patthana
+U01774	patthana1.6	patthana1.6:46.1	patthana1.6:88.1	53	12900	patthana
+U01775	patthana1.6	patthana1.6:89.0	patthana1.6:133.1	63	9837	patthana
+U01776	patthana1.7	patthana1.7:0.1	patthana1.7:41.1	49	12762	patthana
+U01777	patthana1.7	patthana1.7:42.1	patthana1.7:86.1	46	12839	patthana
+U01778	patthana1.7	patthana1.7:87.1	patthana1.7:130.1	52	12803	patthana
+U01779	patthana1.7	patthana1.7:131.1	patthana1.7:194.1	75	12754	patthana
+U01780	patthana1.7	patthana1.7:195.0	patthana1.7:261.1	89	12882	patthana
+U01781	patthana1.7	patthana1.7:262.1	patthana1.7:302.1	51	12798	patthana
+U01782	patthana1.7	patthana1.7:303.0	patthana1.7:332.1	32	12978	patthana
+U01783	patthana1.7	patthana1.7:333.1	patthana1.7:358.1	28	12769	patthana
+U01784	patthana1.7	patthana1.7:359.1	patthana1.7:397.1	40	12753	patthana
+U01785	patthana1.7	patthana1.7:398.1	patthana1.7:434.1	39	13042	patthana
+U01786	patthana1.7	patthana1.7:435.1	patthana1.7:466.1	35	13091	patthana
+U01787	patthana1.7	patthana1.7:467.1	patthana1.7:505.1	41	12810	patthana
+U01788	patthana1.7	patthana1.7:506.1	patthana1.7:559.1	60	12892	patthana
+U01789	patthana1.7	patthana1.7:560.1	patthana1.7:587.1	29	12877	patthana
+U01790	patthana1.7	patthana1.7:588.1	patthana1.7:639.1	63	8563	patthana
+U01791	patthana1.8	patthana1.8:0.1	patthana1.8:49.1	79	12925	patthana
+U01792	patthana1.8	patthana1.8:50.1	patthana1.8:86.1	42	12808	patthana
+U01793	patthana1.8	patthana1.8:87.0	patthana1.8:110.1	27	12798	patthana
+U01794	patthana1.8	patthana1.8:111.1	patthana1.8:150.1	52	5961	patthana
+U01795	patthana1.9	patthana1.9:0.1	patthana1.9:53.1	78	12830	patthana
+U01796	patthana1.9	patthana1.9:54.0	patthana1.9:112.1	93	12842	patthana
+U01797	patthana1.9	patthana1.9:113.1	patthana1.9:163.1	83	13051	patthana
+U01798	patthana1.9	patthana1.9:164.1	patthana1.9:205.1	49	13088	patthana
+U01799	patthana1.9	patthana1.9:206.1	patthana1.9:265.1	77	16583	patthana
+U01800	patthana1.10	patthana1.10:0.1	patthana1.10:50.1	66	12777	patthana
+U01801	patthana1.10	patthana1.10:51.1	patthana1.10:107.1	75	12878	patthana
+U01802	patthana1.10	patthana1.10:108.1	patthana1.10:149.1	46	13014	patthana
+U01803	patthana1.10	patthana1.10:150.1	patthana1.10:201.1	79	12940	patthana
+U01804	patthana1.10	patthana1.10:202.1	patthana1.10:252.1	68	12953	patthana
+U01805	patthana1.10	patthana1.10:253.1	patthana1.10:285.1	36	12872	patthana
+U01806	patthana1.10	patthana1.10:286.1	patthana1.10:331.1	54	13007	patthana
+U01807	patthana1.10	patthana1.10:332.1	patthana1.10:368.1	48	8358	patthana
+U01808	patthana1.11	patthana1.11:0.1	patthana1.11:69.1	102	12820	patthana
+U01809	patthana1.11	patthana1.11:70.1	patthana1.11:140.1	113	12936	patthana
+U01810	patthana1.11	patthana1.11:141.1	patthana1.11:174.1	39	12805	patthana
+U01811	patthana1.11	patthana1.11:175.1	patthana1.11:232.1	76	12992	patthana
+U01812	patthana1.12	patthana1.12:0.1	patthana1.12:73.1	108	12848	patthana
+U01813	patthana1.12	patthana1.12:74.1	patthana1.12:141.1	105	12817	patthana
+U01814	patthana1.12	patthana1.12:142.1	patthana1.12:211.1	92	15525	patthana
+U01815	patthana1.13	patthana1.13:0.1	patthana1.13:68.1	86	12837	patthana
+U01816	patthana1.13	patthana1.13:69.1	patthana1.13:134.1	98	12897	patthana
+U01817	patthana1.13	patthana1.13:135.0.1	patthana1.13:201.1	92	12873	patthana
+U01818	patthana1.13	patthana1.13:202.1	patthana1.13:243.1	48	12885	patthana
+U01819	patthana1.13	patthana1.13:244.1	patthana1.13:291.1	61	10212	patthana
+U01820	patthana1.14	patthana1.14:0.1	patthana1.14:47.1	76	12796	patthana
+U01821	patthana1.14	patthana1.14:48.1	patthana1.14:97.1	68	13670	patthana
+U01822	patthana1.15			14	1219	patthana
+U01823	patthana1.16	patthana1.16:0.1	patthana1.16:77.1	134	12919	patthana
+U01824	patthana1.16	patthana1.16:78.1	patthana1.16:125.1	64	12809	patthana
+U01825	patthana1.16	patthana1.16:126.1	patthana1.16:167.1	56	8764	patthana
+U01826	patthana1.17	patthana1.17:0.1	patthana1.17:76.1	107	12870	patthana
+U01827	patthana1.17	patthana1.17:77.1	patthana1.17:133.1	62	12753	patthana
+U01828	patthana1.17	patthana1.17:134.0	patthana1.17:165.1	44	4514	patthana
+U01829	patthana1.18			62	11161	patthana
+U01830	patthana1.19			63	9715	patthana
+U01831	patthana1.20	patthana1.20:0.1	patthana1.20:48.1	80	12818	patthana
+U01832	patthana1.20	patthana1.20:49.1	patthana1.20:96.1	65	10139	patthana
+U01833	patthana1.21	patthana1.21:0.1	patthana1.21:55.1	102	12950	patthana
+U01834	patthana1.21	patthana1.21:56.1	patthana1.21:111.1	79	16639	patthana
+U01835	patthana1.22			99	14961	patthana
+U01836	patthana1.23	patthana1.23:0.1	patthana1.23:31.1	40	12762	patthana
+U01837	patthana1.23	patthana1.23:32.1	patthana1.23:77.1	69	13448	patthana
+U01838	patthana1.23	patthana1.23:78.0	patthana1.23:119.1	57	13408	patthana
+U01839	patthana1.23	patthana1.23:120.1	patthana1.23:173.1	74	10829	patthana
+U01840	patthana2.1	patthana2.1:0.1	patthana2.1:57.1	89	12805	patthana
+U01841	patthana2.1	patthana2.1:58.1	patthana2.1:109.1	64	13227	patthana
+U01842	patthana2.1	patthana2.1:110.1	patthana2.1:169.1	85	12949	patthana
+U01843	patthana2.1	patthana2.1:170.1	patthana2.1:231.1	90	12829	patthana
+U01844	patthana2.1	patthana2.1:232.1	patthana2.1:287.1	84	12879	patthana
+U01845	patthana2.1	patthana2.1:288.1	patthana2.1:330.1	51	13133	patthana
+U01846	patthana2.1	patthana2.1:331.1	patthana2.1:395.1	103	12919	patthana
+U01847	patthana2.1	patthana2.1:396.1	patthana2.1:456.1	92	12869	patthana
+U01848	patthana2.1	patthana2.1:457.1	patthana2.1:509.1	79	12959	patthana
+U01849	patthana2.1	patthana2.1:510.0	patthana2.1:544.1	53	7231	patthana
+U01850	patthana2.2	patthana2.2:0.1	patthana2.2:68.1	128	12751	patthana
+U01851	patthana2.2	patthana2.2:69.0.1	patthana2.2:109.1	63	12941	patthana
+U01852	patthana2.2	patthana2.2:110.1	patthana2.2:161.1	91	12897	patthana
+U01853	patthana2.2	patthana2.2:162.0	patthana2.2:212.1	80	12803	patthana
+U01854	patthana2.2	patthana2.2:213.1	patthana2.2:277.1	108	12768	patthana
+U01855	patthana2.2	patthana2.2:278.0	patthana2.2:348.1	127	12961	patthana
+U01856	patthana2.2	patthana2.2:349.0	patthana2.2:424.1	115	16669	patthana
+U01857	patthana2.3	patthana2.3:0.1	patthana2.3:67.1	106	12799	patthana
+U01858	patthana2.3	patthana2.3:68.1	patthana2.3:127.0.5	89	12797	patthana
+U01859	patthana2.3	patthana2.3:127.1	patthana2.3:184.1	80	12890	patthana
+U01860	patthana2.3	patthana2.3:185.1	patthana2.3:233.1	66	12880	patthana
+U01861	patthana2.3	patthana2.3:234.1	patthana2.3:275.1	55	12805	patthana
+U01862	patthana2.3	patthana2.3:276.0	patthana2.3:353.1	128	15352	patthana
+U01863	patthana2.4	patthana2.4:0.1	patthana2.4:60.1	95	13098	patthana
+U01864	patthana2.4	patthana2.4:61.0	patthana2.4:135.1	115	12928	patthana
+U01865	patthana2.4	patthana2.4:136.1	patthana2.4:188.1	77	12783	patthana
+U01866	patthana2.4	patthana2.4:189.1	patthana2.4:238.1	72	12819	patthana
+U01867	patthana2.4	patthana2.4:239.1	patthana2.4:291.1	86	11039	patthana
+U01868	patthana2.5	patthana2.5:0.1	patthana2.5:62.1	101	12858	patthana
+U01869	patthana2.5	patthana2.5:63.1	patthana2.5:119.1	79	12817	patthana
+U01870	patthana2.5	patthana2.5:120.1	patthana2.5:167.1	87	12751	patthana
+U01871	patthana2.5	patthana2.5:168.1	patthana2.5:194.1	34	12876	patthana
+U01872	patthana2.5	patthana2.5:195.0	patthana2.5:241.1	74	12971	patthana
+U01873	patthana2.5	patthana2.5:242.1	patthana2.5:273.1	44	6499	patthana
+U01874	patthana2.6-7			7	298	patthana
+U01875	patthana2.8	patthana2.8:0.1	patthana2.8:60.1	98	12807	patthana
+U01876	patthana2.8	patthana2.8:61.1	patthana2.8:110.1	80	12776	patthana
+U01877	patthana2.8	patthana2.8:111.0.1	patthana2.8:164.1	90	12867	patthana
+U01878	patthana2.8	patthana2.8:165.0	patthana2.8:222.1	97	13063	patthana
+U01879	patthana2.8	patthana2.8:223.1	patthana2.8:240.1	32	4642	patthana
+U01880	patthana2.9	patthana2.9:0.1	patthana2.9:48.1	90	13094	patthana
+U01881	patthana2.9	patthana2.9:49.1	patthana2.9:109.1	103	12900	patthana
+U01882	patthana2.9	patthana2.9:110.0.1	patthana2.9:153.1	68	12900	patthana
+U01883	patthana2.9	patthana2.9:154.1	patthana2.9:188.1	60	7302	patthana
+U01884	patthana2.10	patthana2.10:0.1	patthana2.10:63.1	103	12790	patthana
+U01885	patthana2.10	patthana2.10:64.0	patthana2.10:117.1	84	12946	patthana
+U01886	patthana2.10	patthana2.10:118.1	patthana2.10:171.1	87	13166	patthana
+U01887	patthana2.10	patthana2.10:172.1	patthana2.10:219.1	60	12783	patthana
+U01888	patthana2.10	patthana2.10:220.1	patthana2.10:275.1	84	12893	patthana
+U01889	patthana2.10	patthana2.10:276.0.1	patthana2.10:322.1	91	12760	patthana
+U01890	patthana2.10	patthana2.10:323.1	patthana2.10:379.1	89	12784	patthana
+U01891	patthana2.10	patthana2.10:380.1	patthana2.10:432.1	82	13111	patthana
+U01892	patthana2.10	patthana2.10:433.1	patthana2.10:487.1	81	12783	patthana
+U01893	patthana2.10	patthana2.10:488.0	patthana2.10:539.1	80	12787	patthana
+U01894	patthana2.10	patthana2.10:540.1	patthana2.10:579.1	48	12991	patthana
+U01895	patthana2.10	patthana2.10:580.1	patthana2.10:637.0.4	101	12783	patthana
+U01896	patthana2.10	patthana2.10:637.1	patthana2.10:689.1	77	12768	patthana
+U01897	patthana2.10	patthana2.10:690.1	patthana2.10:734.1	75	12788	patthana
+U01898	patthana2.10	patthana2.10:735.1	patthana2.10:779.1	84	12775	patthana
+U01899	patthana2.10	patthana2.10:780.1	patthana2.10:827.1	71	12948	patthana
+U01900	patthana2.10	patthana2.10:828.0.1	patthana2.10:868.1	63	12885	patthana
+U01901	patthana2.10	patthana2.10:869.0	patthana2.10:912.1	52	12984	patthana
+U01902	patthana2.10	patthana2.10:913.1	patthana2.10:978.1	104	12986	patthana
+U01903	patthana2.10	patthana2.10:979.1	patthana2.10:1032.1	79	12784	patthana
+U01904	patthana2.10	patthana2.10:1033.1	patthana2.10:1090.1	87	12845	patthana
+U01905	patthana2.10	patthana2.10:1091.0	patthana2.10:1142.1	85	13187	patthana
+U01906	patthana2.10	patthana2.10:1143.1	patthana2.10:1210.1	84	15458	patthana
+U01907	patthana2.11	patthana2.11:0.1	patthana2.11:56.1	88	13006	patthana
+U01908	patthana2.11	patthana2.11:57.1	patthana2.11:112.1	79	12899	patthana
+U01909	patthana2.11	patthana2.11:113.1	patthana2.11:171.1	90	12991	patthana
+U01910	patthana2.11	patthana2.11:172.0	patthana2.11:199.1	36	12797	patthana
+U01911	patthana2.11	patthana2.11:200.1	patthana2.11:255.1	89	13056	patthana
+U01912	patthana2.11	patthana2.11:256.1	patthana2.11:282.1	46	6422	patthana
+U01913	patthana2.12	patthana2.12:0.1	patthana2.12:60.1	98	12948	patthana
+U01914	patthana2.12	patthana2.12:61.1	patthana2.12:120.1	94	12798	patthana
+U01915	patthana2.12	patthana2.12:121.1	patthana2.12:178.1	88	13017	patthana
+U01916	patthana2.12	patthana2.12:179.1	patthana2.12:247.1	124	14237	patthana
+U01917	patthana2.13	patthana2.13:0.1	patthana2.13:50.1	86	12819	patthana
+U01918	patthana2.13	patthana2.13:51.1	patthana2.13:101.1	76	13063	patthana
+U01919	patthana2.13	patthana2.13:102.1	patthana2.13:145.1	69	12824	patthana
+U01920	patthana2.13	patthana2.13:146.0.1	patthana2.13:187.1	66	12996	patthana
+U01921	patthana2.13	patthana2.13:188.1	patthana2.13:224.1	59	13419	patthana
+U01922	patthana2.13	patthana2.13:225.1	patthana2.13:269.1	81	13056	patthana
+U01923	patthana2.13	patthana2.13:270.1	patthana2.13:300.1	36	13007	patthana
+U01924	patthana2.13	patthana2.13:301.0	patthana2.13:346.1	81	12834	patthana
+U01925	patthana2.13	patthana2.13:347.0	patthana2.13:372.1	31	13145	patthana
+U01926	patthana2.13	patthana2.13:373.1	patthana2.13:407.1	54	12816	patthana
+U01927	patthana2.13	patthana2.13:408.0.1	patthana2.13:447.1	70	13297	patthana
+U01928	patthana2.13	patthana2.13:448.1	patthana2.13:495.1	84	12981	patthana
+U01929	patthana2.13	patthana2.13:496.1	patthana2.13:521.1	36	12900	patthana
+U01930	patthana2.13	patthana2.13:522.1	patthana2.13:563.1	85	12853	patthana
+U01931	patthana2.13	patthana2.13:564.0	patthana2.13:588.1	36	13012	patthana
+U01932	patthana2.13	patthana2.13:589.1	patthana2.13:630.1	86	12960	patthana
+U01933	patthana2.13	patthana2.13:631.1	patthana2.13:673.1	77	13053	patthana
+U01934	patthana2.13	patthana2.13:674.0.1	patthana2.13:714.1	78	13752	patthana
+U01935	patthana2.13	patthana2.13:715.0	patthana2.13:760.1	75	12949	patthana
+U01936	patthana2.13	patthana2.13:761.0	patthana2.13:786.1	40	8870	patthana
+U01937	patthana3.1	patthana3.1:0.1	patthana3.1:89.1	127	12762	patthana
+U01938	patthana3.1	patthana3.1:90.1	patthana3.1:164.1	110	13059	patthana
+U01939	patthana3.1	patthana3.1:165.0	patthana3.1:256.1	126	12756	patthana
+U01940	patthana3.1	patthana3.1:257.1	patthana3.1:352.1	134	12866	patthana
+U01941	patthana3.1	patthana3.1:353.0	patthana3.1:449.1	143	12813	patthana
+U01942	patthana3.1	patthana3.1:450.0	patthana3.1:561.1	167	12897	patthana
+U01943	patthana3.1	patthana3.1:562.1	patthana3.1:669.1	164	12873	patthana
+U01944	patthana3.1	patthana3.1:670.1	patthana3.1:775.1	152	12934	patthana
+U01945	patthana3.1	patthana3.1:776.0	patthana3.1:888.1	161	12846	patthana
+U01946	patthana3.1	patthana3.1:889.0	patthana3.1:1004.1	171	13022	patthana
+U01947	patthana3.1	patthana3.1:1005.0	patthana3.1:1116.0.6	167	12771	patthana
+U01948	patthana3.1	patthana3.1:1116.1	patthana3.1:1242.1	184	15576	patthana
+U01949	patthana3.2	patthana3.2:0.1	patthana3.2:106.1	158	12787	patthana
+U01950	patthana3.2	patthana3.2:107.1	patthana3.2:230.1	199	14650	patthana
+U01951	patthana3.3			176	13581	patthana
+U01952	patthana3.4			183	13490	patthana
+U01953	patthana3.5			129	11246	patthana
+U01954	patthana3.6,patthana3.7			111	8872	patthana
+U01955	patthana3.8,patthana3.9			154	12746	patthana
+U01956	patthana3.10	patthana3.10:0.1	patthana3.10:81.1	101	12776	patthana
+U01957	patthana3.10	patthana3.10:82.1	patthana3.10:178.1	109	12779	patthana
+U01958	patthana3.10	patthana3.10:179.1	patthana3.10:221.1	49	5704	patthana
+U01959	patthana3.11			77	7757	patthana
+U01960	patthana3.12			95	8110	patthana
+U01961	patthana3.13	patthana3.13:0.1	patthana3.13:104.1	134	12801	patthana
+U01962	patthana3.13	patthana3.13:105.1	patthana3.13:235.1	165	15536	patthana
+U01963	patthana3.14			226	18442	patthana
+U01964	patthana4.1	patthana4.1:0.1	patthana4.1:95.1	112	12760	patthana
+U01965	patthana4.1	patthana4.1:96.1	patthana4.1:184.1	102	12793	patthana
+U01966	patthana4.1	patthana4.1:185.1	patthana4.1:288.1	116	12859	patthana
+U01967	patthana4.1	patthana4.1:289.1	patthana4.1:365.1	85	12951	patthana
+U01968	patthana4.1	patthana4.1:366.1	patthana4.1:469.1	117	12753	patthana
+U01969	patthana4.1	patthana4.1:470.0	patthana4.1:572.1	114	12763	patthana
+U01970	patthana4.1	patthana4.1:573.0	patthana4.1:686.1	131	12919	patthana
+U01971	patthana4.1	patthana4.1:687.1	patthana4.1:778.1	102	12758	patthana
+U01972	patthana4.1	patthana4.1:779.0.1	patthana4.1:921.1	166	16255	patthana
+U01973	patthana4.2			204	16842	patthana
+U01974	patthana4.3			163	13555	patthana
+U01975	patthana4.4			131	11955	patthana
+U01976	patthana4.5			125	10645	patthana
+U01977	patthana4.6			108	10013	patthana
+U01978	patthana4.7			229	18289	patthana
+U01979	patthana4.8	patthana4.8:0.1	patthana4.8:119.1	143	12755	patthana
+U01980	patthana4.8	patthana4.8:120.1	patthana4.8:218.1	121	9428	patthana
+U01981	patthana5.1	patthana5.1:0.1	patthana5.1:117.1	139	12781	patthana
+U01982	patthana5.1	patthana5.1:118.1	patthana5.1:244.1	157	12793	patthana
+U01983	patthana5.1	patthana5.1:245.1	patthana5.1:296.1	64	5055	patthana
+U01984	patthana5.2			198	18041	patthana
+U01985	patthana6.1	patthana6.1:0.1	patthana6.1:117.1	147	12754	patthana
+U01986	patthana6.1	patthana6.1:118.1	patthana6.1:242.1	152	12793	patthana
+U01987	patthana6.1	patthana6.1:243.1	patthana6.1:304.1	67	5198	patthana
+U01988	patthana7.1,patthana7.2,patthana7.3,patthana7.4,patthana7.5,patthana7.6,patthana7.7,patthana7.8,patthana7.9,patthana7.10,patthana7.11,patthana7.12,patthana7.13,patthana7.14,patthana7.15,patthana7.16,patthana7.17,patthana7.18,patthana7.19,patthana7.20,patthana7.21			144	14218	patthana
+U01989	patthana7.22,patthana8.1,patthana8.2,patthana8.3,patthana8.4,patthana8.5,patthana8.6,patthana8.7,patthana8.8,patthana8.9,patthana8.10,patthana8.11,patthana8.12			120	14634	patthana
+U01990	patthana8.13,patthana8.14,patthana8.15,patthana8.16,patthana8.17,patthana8.18,patthana8.19,patthana8.20,patthana8.21,patthana8.22,patthana8.23,patthana8.24,patthana8.25,patthana8.26,patthana8.27,patthana8.28			115	14607	patthana
+U01991	patthana8.29,patthana8.30,patthana8.31,patthana8.32,patthana8.33,patthana8.34,patthana8.35,patthana8.36,patthana8.37,patthana8.38,patthana8.39,patthana8.40,patthana8.41,patthana8.42,patthana8.43,patthana8.44,patthana8.45,patthana8.46,patthana8.47,patthana8.48,patthana8.49,patthana8.50,patthana8.51,patthana8.52,patthana8.53			168	14527	patthana
+U01992	patthana8.54,patthana8.55,patthana8.56,patthana8.57,patthana8.58,patthana8.59,patthana8.60,patthana8.61,patthana8.62,patthana8.63,patthana8.64,patthana8.65,patthana8.66,patthana8.67,patthana8.68,patthana8.69,patthana8.70,patthana8.71,patthana8.72,patthana8.73,patthana8.74,patthana9.1,patthana9.2			179	14387	patthana
+U01993	patthana9.3,patthana9.4,patthana9.5,patthana9.6,patthana9.7,patthana9.8,patthana9.9,patthana9.10,patthana9.11			150	13760	patthana
+U01994	patthana9.12,patthana9.13,patthana9.14,patthana9.15,patthana9.16,patthana9.17,patthana10.1			120	14087	patthana
+U01995	patthana10.2,patthana10.3,patthana10.4,patthana10.5,patthana10.6,patthana10.7,patthana10.8,patthana10.9,patthana10.10			134	13465	patthana
+U01996	patthana10.11,patthana10.12,patthana10.13,patthana10.14,patthana10.15,patthana10.16,patthana10.17			108	14033	patthana
+U01997	patthana11.1,patthana11.2,patthana11.3,patthana11.4,patthana11.5,patthana11.6,patthana11.7			95	14537	patthana
+U01998	patthana11.8,patthana11.9,patthana11.10,patthana11.11,patthana11.12,patthana11.13,patthana11.14,patthana11.15			91	13836	patthana
+U01999	patthana11.16,patthana11.17,patthana12.1,patthana12.2,patthana12.3			123	14846	patthana
+U02000	patthana12.4,patthana12.5,patthana12.6,patthana12.7,patthana12.8,patthana12.9,patthana12.10,patthana12.11,patthana12.12,patthana12.13			126	14336	patthana
+U02001	patthana12.14,patthana12.15,patthana12.16,patthana12.17,patthana12.18,patthana12.19,patthana12.20			90	9162	patthana
+U02002	patthana13.1,patthana13.2			50	10801	patthana
+U02003	patthana13.3,patthana13.4,patthana13.5,patthana13.6			65	13871	patthana
+U02004	patthana13.7,patthana13.8,patthana13.9,patthana13.10,patthana13.11,patthana13.12,patthana13.13,patthana13.14,patthana13.15,patthana13.16,patthana13.17,patthana13.18,patthana13.19,patthana13.20,patthana13.21			107	12933	patthana
+U02005	patthana13.22,patthana14.1,patthana14.2,patthana14.3,patthana14.4,patthana14.5,patthana14.6,patthana14.7,patthana14.8,patthana14.9,patthana14.10,patthana14.11,patthana14.12,patthana14.13,patthana14.14,patthana14.15,patthana14.16			129	14800	patthana
+U02006	patthana14.17,patthana14.18,patthana14.19,patthana14.20,patthana14.21,patthana14.22,patthana14.23,patthana14.24,patthana14.25,patthana14.26,patthana14.27,patthana14.28,patthana14.29,patthana14.30,patthana14.31,patthana14.32,patthana14.33,patthana14.34,patthana14.35,patthana14.36,patthana14.37			184	13845	patthana
+U02007	patthana15.1,patthana15.2,patthana15.3,patthana15.4,patthana15.5,patthana15.6,patthana15.7,patthana15.8,patthana15.9,patthana15.10,patthana15.11,patthana15.12,patthana15.13,patthana15.14,patthana15.15,patthana15.16,patthana15.17,patthana15.18,patthana15.19,patthana15.21,patthana15.22,patthana15.23,patthana15.24			160	13487	patthana
+U02008	patthana15.25,patthana15.26,patthana15.27,patthana15.28,patthana15.29,patthana15.30,patthana15.31,patthana15.32,patthana15.33,patthana15.34,patthana15.35,patthana15.36,patthana15.37,patthana15.38,patthana15.39,patthana15.40,patthana15.41,patthana15.42,patthana15.43,patthana15.44,patthana15.45,patthana15.46,patthana15.47,patthana15.48,patthana15.49,patthana15.50,patthana15.51			163	14913	patthana
+U02009	patthana15.52,patthana15.53,patthana15.54,patthana15.55,patthana15.56,patthana15.57,patthana15.58,patthana15.59,patthana15.60,patthana15.61,patthana15.62,patthana15.63,patthana15.64,patthana15.65,patthana15.66,patthana15.67,patthana15.68,patthana15.69,patthana15.70,patthana15.71,patthana15.72,patthana15.73,patthana15.74,patthana15.75,patthana15.76			148	14650	patthana
+U02010	patthana15.77,patthana15.78,patthana15.79,patthana15.80,patthana15.81,patthana15.82,patthana15.83,patthana15.84,patthana15.85,patthana15.86,patthana15.87,patthana15.88,patthana15.89,patthana15.90,patthana16.1,patthana16.2,patthana16.3			134	14664	patthana
+U02011	patthana16.4,patthana16.5,patthana16.6,patthana16.7,patthana16.8,patthana16.9,patthana16.10,patthana16.11,patthana16.12,patthana16.13,patthana16.14,patthana16.15			89	13561	patthana
+U02012	patthana16.16,patthana16.17,patthana16.18,patthana16.19,patthana16.20,patthana16.21,patthana16.22,patthana16.23,patthana16.24			77	10345	patthana
+U02013	patthana16.25,patthana16.26,patthana16.27,patthana16.28,patthana16.29,patthana16.30,patthana16.31,patthana16.32			92	14535	patthana
+U02014	patthana16.33,patthana16.34,patthana16.35,patthana16.36,patthana16.37,patthana16.38,patthana16.39,patthana16.40,patthana16.41,patthana16.42,patthana16.43,patthana16.44,patthana16.45,patthana16.46,patthana16.47,patthana16.48,patthana16.49,patthana16.50,patthana16.51,patthana16.52,patthana16.53,patthana16.54,patthana16.55,patthana16.56,patthana16.57,patthana16.58			130	14598	patthana
+U02015	patthana16.59,patthana16.60,patthana16.61,patthana16.62,patthana16.63,patthana16.64,patthana16.65,patthana16.66,patthana16.67,patthana16.68,patthana16.69,patthana16.70,patthana16.71,patthana16.72,patthana16.73,patthana16.74,patthana16.75,patthana16.76,patthana16.77,patthana16.78,patthana16.79			126	14715	patthana
+U02016	patthana16.80,patthana16.81,patthana16.82,patthana16.83,patthana16.84,patthana16.85,patthana16.86,patthana16.87,patthana16.88,patthana16.89,patthana16.90,patthana16.91,patthana16.92,patthana16.93,patthana16.94,patthana16.95,patthana17.1			115	14979	patthana
+U02017	patthana17.2,patthana17.3,patthana17.4,patthana17.5,patthana17.6,patthana17.7,patthana17.8,patthana17.9,patthana17.10,patthana17.11,patthana17.12,patthana17.13,patthana17.14,patthana17.15,patthana17.16,patthana17.17,patthana17.18,patthana17.19			118	13378	patthana
+U02018	patthana17.20,patthana17.21,patthana17.22,patthana17.23,patthana17.24,patthana17.25,patthana17.26,patthana17.27,patthana17.28,patthana17.29,patthana17.30,patthana17.31,patthana17.32,patthana17.33			99	13430	patthana
+U02019	patthana18.1,patthana18.2,patthana18.3,patthana18.4,patthana18.5,patthana18.6,patthana18.7,patthana18.8,patthana18.9			123	14748	patthana
+U02020	patthana18.10,patthana18.11,patthana18.12,patthana18.13,patthana18.14,patthana18.15,patthana18.16,patthana18.17,patthana18.18,patthana18.19,patthana18.20,patthana18.21,patthana18.22,patthana18.23,patthana18.24			143	14913	patthana
+U02021	patthana18.25,patthana18.26,patthana18.27,patthana18.28,patthana18.29,patthana19.1,patthana19.2,patthana19.3,patthana19.4,patthana19.5			134	14953	patthana
+U02022	patthana19.6,patthana19.7,patthana19.8,patthana19.9,patthana19.10,patthana19.11,patthana19.12,patthana19.13,patthana19.14,patthana19.15,patthana19.16,patthana20.1,patthana20.2,patthana20.3,patthana20.4			155	14516	patthana
+U02023	patthana20.5,patthana20.6,patthana20.7,patthana20.8,patthana20.9,patthana21.1			131	13802	patthana
+U02024	patthana21.2,patthana21.3,patthana21.4,patthana21.5,patthana21.6,patthana21.7,patthana21.8,patthana21.9,patthana21.10,patthana21.11,patthana21.12,patthana21.13,patthana21.14,patthana21.15			141	13770	patthana
+U02025	patthana21.16,patthana21.17,patthana21.18,patthana21.19,patthana21.20,patthana21.21,patthana21.22,patthana21.23,patthana21.24,patthana21.25,patthana21.26,patthana21.27,patthana21.28,patthana21.29,patthana21.30,patthana21.31,patthana21.32,patthana21.33,patthana21.34			151	14744	patthana
+U02026	patthana21.35,patthana21.36,patthana21.37,patthana21.38,patthana21.39,patthana21.40,patthana21.41,patthana21.42,patthana21.43,patthana21.44,patthana21.45,patthana21.46,patthana21.47,patthana21.48,patthana21.49,patthana21.50,patthana21.51			129	12871	patthana
+U02027	patthana21.52,patthana21.53,patthana21.54,patthana21.55,patthana22.1,patthana22.2,patthana22.3,patthana22.4			142	14919	patthana
+U02028	patthana22.5,patthana22.6,patthana22.7,patthana22.8,patthana22.9,patthana22.10,patthana22.11,patthana22.12,patthana22.13,patthana22.14,patthana22.15,patthana22.16,patthana22.17,patthana22.18,patthana22.19,patthana22.20,patthana22.21			133	14670	patthana
+U02029	patthana22.22,patthana22.23,patthana22.24,patthana22.25,patthana22.26,patthana22.27,patthana22.28,patthana22.29,patthana22.30,patthana22.31			102	12157	patthana
+U02030	patthana22.32,patthana22.33,patthana22.34,patthana22.35,patthana22.36			94	14087	patthana
+U02031	patthana23.1,patthana23.2,patthana23.3,patthana23.4,patthana23.5,patthana23.6,patthana23.7,patthana23.8,patthana23.9,patthana23.10,patthana23.11,patthana23.12,patthana23.13,patthana23.14,patthana23.15,patthana23.16,patthana23.17,patthana23.18			133	14116	patthana
+U02032	patthana23.19,patthana23.20,patthana23.21,patthana23.22,patthana23.23,patthana23.24,patthana23.25,patthana23.26,patthana23.27,patthana23.28,patthana23.29,patthana23.30,patthana23.31,patthana23.32,patthana23.33,patthana23.34,patthana23.35,patthana23.36,patthana23.37,patthana23.38,patthana23.39,patthana23.40			145	14490	patthana
+U02033	patthana23.41,patthana23.42,patthana23.43,patthana23.44,patthana23.45,patthana23.46,patthana23.47,patthana23.48,patthana23.49,patthana23.50,patthana23.51,patthana23.52,patthana23.53,patthana23.54,patthana23.55,patthana23.56,patthana23.57,patthana23.58,patthana24.1,patthana24.2			133	14040	patthana
+U02034	patthana24.3,patthana24.4,patthana24.5,patthana24.6,patthana24.7,patthana24.8,patthana24.9,patthana24.10			117	13609	patthana
+U02035	patthana24.11,patthana24.12,patthana24.13,patthana24.14,patthana24.15,patthana24.16,patthana24.17,patthana24.18,patthana24.19,patthana24.20,patthana24.21,patthana24.22			135	13444	patthana

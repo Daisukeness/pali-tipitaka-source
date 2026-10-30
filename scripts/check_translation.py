@@ -3,7 +3,8 @@
 
 確かめること:
   - 必須の項目（translator, date, prompt_version, segments）があるか
-  - 区切り番号の過不足（原文にあって訳にない／訳にあって原文にない）
+  - 原文にない区切り番号が入っていないか
+  - 訳のない文の数（途中まで訳したものは「翻訳中」として数え、誤りにはしない）
   - 原文があるのに訳が空欄
   - 原文の …pe… と訳の〔中略〕の数が合うか
   - 原文が空なのに訳が入っている
@@ -43,10 +44,7 @@ def check_file(con, path):
         return problems + [f"原文に {text_uid} がない"]
     pali = dict(rows)
 
-    missing = [s for s, _ in rows if s not in segs]
     extra = [s for s in segs if s not in pali]
-    if missing:
-        problems.append(f"訳がない区切り {len(missing)} 件: {', '.join(missing[:10])}")
     if extra:
         problems.append(f"原文にない区切り {len(extra)} 件: {', '.join(extra[:10])}")
 
@@ -55,7 +53,7 @@ def check_file(con, path):
         if ja is None:
             continue
         if src and not ja.strip():
-            problems.append(f"{sid}: 訳が空欄")
+            problems.append(f"{sid}: 訳が空欄（訳さない文は segments に入れない）")
         if not src and ja.strip():
             problems.append(f"{sid}: 原文は空なのに訳がある")
         n_pe = src.count("…pe…")
@@ -63,6 +61,18 @@ def check_file(con, path):
         if n_pe != n_ja:
             problems.append(f"{sid}: …pe… が {n_pe} 個、〔中略〕が {n_ja} 個")
     return problems
+
+
+def count_missing(con, path):
+    try:
+        with open(path, encoding="utf-8") as f:
+            data = json.load(f)
+    except (OSError, json.JSONDecodeError):
+        return 0
+    segs = data.get("segments") or {}
+    text_uid = data.get("text_uid") or os.path.basename(path)[:-5]
+    rows = con.execute("SELECT segment_id, pali FROM segment WHERE text_uid=?", (text_uid,)).fetchall()
+    return sum(1 for sid, src in rows if src and not (segs.get(sid) or "").strip())
 
 
 def main():
@@ -77,14 +87,19 @@ def main():
         else:
             files.append(arg)
     bad = 0
+    partial = 0
     for path in files:
         problems = check_file(con, path)
+        missing = count_missing(con, path)
+        if missing:
+            partial += 1
+            print(f"… {path}：翻訳中（訳のない文 {missing}）")
         if problems:
             bad += 1
             print(f"✗ {path}")
             for p in problems:
                 print(f"    {p}")
-    print(f"{len(files)} 件中 {len(files) - bad} 件問題なし")
+    print(f"{len(files)} 件中 {len(files) - bad} 件問題なし（うち翻訳中 {partial} 件）")
     return 1 if bad else 0
 
 

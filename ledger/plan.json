@@ -1,0 +1,10 @@
+{
+  "unit_chars": 15000,
+  "note": "優先順位。上から順に、その下にある経典を木の順に並べる（すでに並べたものは飛ばす）。最後に残り全部。unit_chars は1回分のパーリ語の字数の目安。変えたら scripts/make_units.py を実行する。",
+  "order": [
+    "sn56", "sn",
+    "mn", "dn", "an",
+    "snp", "dhp", "ud", "iti", "thag", "thig",
+    "sutta", "vinaya", "abhidhamma"
+  ]
+}
