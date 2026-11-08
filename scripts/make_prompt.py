@@ -51,7 +51,8 @@ def load_template(version):
 def make(con, template, text_uid, translator, version, date, rows=None):
     if rows is None:
         rows = con.execute("SELECT segment_id, pali FROM segment WHERE text_uid=? ORDER BY seq", (text_uid,)).fetchall()
-    rows = [(r[0], r[1]) for r in rows]
+    # 作業単位から来る行は sqlite3.Row（列の並びが違う）なので、列名で取り出す
+    rows = [(r["segment_id"], r["pali"]) if isinstance(r, sqlite3.Row) else (r[0], r[1]) for r in rows]
     lines = "\n".join(f"{sid}\t{pali}" for sid, pali in rows)
     return (
         template.replace("{{segments}}", lines)
