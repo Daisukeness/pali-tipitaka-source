@@ -50,13 +50,29 @@ python3 scripts/make_prompt.py U00001 --remaining               # 次の作業�
 python3 scripts/save_translation.py --repo ../pali-ja-claude 訳.json   # 決まった場所へ追記保存
 python3 scripts/check_translation.py ../pali-ja-claude/translation
 python3 scripts/build_db.py --translations ../pali-ja-claude
+python3 scripts/make_glossary.py --repo ../pali-ja-claude              # 用語集・要確認一覧・同文異訳一覧を作り直す（毎回必ず）
 python3 scripts/record_work.py --repo ../pali-ja-claude --unit U00001 --segments 188 --chars 14661
 ```
+
+- 訳す前に、訳リポジトリの `terms/ja/<訳者ID>/用語集.md` と `決定事項.md` を読み、決まった訳語・定型句にそろえる（読むのはその訳者自身の記録だけ。他の訳者の記録は読まない）。
+- 訳を保存したら必ず `make_glossary.py` を実行し、`同文異訳一覧.md` と用語集の「訳語のゆれ」を見る。新しいゆれは、意図したものか要統一かを `決定事項.md` に書き足す。
 
 - `ledger/plan.json`：優先順と1回分の字数（unit_chars）。変えたら `make_units.py` で作業単位を作り直す。
 - `ledger/units.tsv`：作業単位の一覧。進捗は文ごとに数えるので、作り直しても訳した分は失われない。
 - 途中で止めてよい。経典1つごと（長い経典は数千字ごと）に保存し、次回は `--remaining` で続きから。
 - 状態：未着手／翻訳中（一部の文だけ訳あり）／取込済／要確認（uncertain あり）／確認済（将来）。
+
+## 訳語の記録（訳リポジトリ側）
+
+訳語の記録はこのプロジェクトの中心なので、経典ごとの terms だけに置かず、訳者ごとにまとめて残す。
+
+```
+terms/ja/<訳者ID>/用語集.md       自動。パーリ語ごとの訳語・理由・出てくる経典、訳語のゆれ、同じ訳語の共有
+terms/ja/<訳者ID>/用語集.json     自動。同じ内容を機械で読める形で
+terms/ja/<訳者ID>/要確認一覧.md   自動。uncertain の全件を原文・訳文つきで
+terms/ja/<訳者ID>/同文異訳一覧.md 自動。同じ原文なのに訳が違う文
+terms/ja/<訳者ID>/決定事項.md     手で書く。決めたこと・仮・保留・要統一・意図した訳し分け・変更の記録
+```
 
 ## 訳文ファイルの置き場所（訳リポジトリ側）
 
