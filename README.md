@@ -38,6 +38,8 @@ python3 scripts/check_translation.py ../pali-ja-claude/translation
 
 ## 翻訳の進め方（1回分ずつ）
 
+訳文は pali-ja-claude に push するところまで。サイトへの公開は自動では行わず、ユーザーがパソコンで pull してからサーバーへ送る（2026-11-08 の取り決め。pali-ja-site の 取り決め.md）。
+
 進捗は訳文の有無から自動で数える。手で状態を書かない。
 
 ```sh
