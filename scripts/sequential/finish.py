@@ -15,7 +15,9 @@ s=s.replace(last,last+f"| {TODAY} | {unit}（{label}）を順に訳す。留意�
 open(p,"w").write(s)
 segs=0;unc=0
 for f in glob.glob(workdir+"/*.json"):
-    d=json.load(open(f));segs+=len(d["segments"]);unc+=len(d["uncertain"])
+    d=json.load(open(f))
+    if "segments" not in d: continue
+    segs+=len(d["segments"]);unc+=len(d["uncertain"])
 units=open(SRC+"/ledger/units.tsv").read().splitlines()
 chars=[l.split("\t") for l in units if l.startswith(unit+"\t")][0]
 run("python3 scripts/build_db.py --translations ../pali-ja-claude")
