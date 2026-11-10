@@ -13,7 +13,8 @@
 4. `python3 scripts/save_translation.py --repo ../pali-ja-claude <json…>`（追記だけ。一度保存した文は書き換えられない）
 5. `python3 scripts/check_translation.py <json…>`（…pe… と〔中略〕の数がそろっているか）
 6. `python3 scripts/sequential/finish.py U00xxx "sn…〜sn…" <jsonのフォルダ> "| U00xxx | 範囲 | 留意点 |"`
-   → make_glossary、決定事項.md 第4章の表と変更の記録に1行、build_db、record_work、pali-ja-claude の commit と push。
+   → make_glossary、留意点/<部>.md（label の最初の経典の部。dn18 なら dn.md）に1行、build_db、record_work、pali-ja-claude の commit と push。
+   （2026-11-11 までは 決定事項.md 第4章の表と第6章に1行ずつ足していた）
    セッションのURLを commit に入れるときは環境変数 CLAUDE_SESSION_URL を設定する。
 
 ## 気をつけること
